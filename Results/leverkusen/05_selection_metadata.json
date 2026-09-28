@@ -1,0 +1,12 @@
+{
+  "league": "Bayer Leverkusen \u2014 1. Bundesliga 2023/24 team-season",
+  "selected_team": "Bayer Leverkusen",
+  "selection_rule": "manual",
+  "sustained_stability_demonstrated": false,
+  "stability_target": 0.8,
+  "sustained_points": 3,
+  "screen_fixed_cohort_min_matches": 24,
+  "screen_reps": 200,
+  "competition_id": 9,
+  "season_id": 281
+}

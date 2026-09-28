@@ -1,0 +1,381 @@
+game_id,game_date,home_team_id,away_team_id,home_team_name,away_team_name
+3825562,2015-08-21,223,213,Málaga,Sevilla
+3825563,2015-08-22,212,208,Atlético Madrid,Las Palmas
+3825564,2015-08-22,219,210,RC Deportivo La Coruña,Real Sociedad
+3825565,2015-08-22,214,216,Espanyol,Getafe
+3825566,2015-08-22,360,207,Rayo Vallecano,Valencia
+266236,2015-08-23,215,217,Athletic Club,Barcelona
+3825567,2015-08-23,1041,220,Sporting Gijón,Real Madrid
+3825568,2015-08-23,218,222,Real Betis,Villarreal
+3825569,2015-08-23,221,209,Levante UD,Celta Vigo
+3825570,2015-08-24,1049,322,Granada,Eibar
+3825571,2015-08-28,222,214,Villarreal,Espanyol
+267422,2015-08-29,217,223,Barcelona,Málaga
+3825572,2015-08-29,220,218,Real Madrid,Real Betis
+3825573,2015-08-29,210,1041,Real Sociedad,Sporting Gijón
+3825574,2015-08-29,209,360,Celta Vigo,Rayo Vallecano
+3825575,2015-08-30,208,221,Las Palmas,Levante UD
+3825576,2015-08-30,207,219,Valencia,RC Deportivo La Coruña
+3825577,2015-08-30,216,1049,Getafe,Granada
+3825578,2015-08-30,322,215,Eibar,Athletic Club
+3825579,2015-08-30,213,212,Sevilla,Atlético Madrid
+3825580,2015-09-11,221,213,Levante UD,Sevilla
+266166,2015-09-12,212,217,Atlético Madrid,Barcelona
+3825581,2015-09-12,214,220,Espanyol,Real Madrid
+3825582,2015-09-12,218,210,Real Betis,Real Sociedad
+3825583,2015-09-12,1041,207,Sporting Gijón,Valencia
+3825584,2015-09-13,1049,222,Granada,Villarreal
+3825585,2015-09-13,209,208,Celta Vigo,Las Palmas
+3825586,2015-09-13,223,322,Málaga,Eibar
+3825587,2015-09-13,215,216,Athletic Club,Getafe
+3825588,2015-09-14,360,219,Rayo Vallecano,RC Deportivo La Coruña
+3825589,2015-09-18,216,223,Getafe,Málaga
+3825590,2015-09-19,220,1049,Real Madrid,Granada
+3825591,2015-09-19,207,218,Valencia,Real Betis
+3825592,2015-09-19,210,214,Real Sociedad,Espanyol
+3825593,2015-09-19,322,212,Eibar,Atlético Madrid
+266490,2015-09-20,217,221,Barcelona,Levante UD
+3825594,2015-09-20,213,209,Sevilla,Celta Vigo
+3825595,2015-09-20,222,215,Villarreal,Athletic Club
+3825596,2015-09-20,219,1041,RC Deportivo La Coruña,Sporting Gijón
+3825597,2015-09-20,208,360,Las Palmas,Rayo Vallecano
+3825598,2015-09-22,212,216,Atlético Madrid,Getafe
+3825599,2015-09-22,214,207,Espanyol,Valencia
+3825892,2015-09-22,1049,210,Granada,Real Sociedad
+266467,2015-09-23,209,217,Celta Vigo,Barcelona
+3825600,2015-09-23,223,222,Málaga,Villarreal
+3825601,2015-09-23,360,1041,Rayo Vallecano,Sporting Gijón
+3825602,2015-09-23,215,220,Athletic Club,Real Madrid
+3825848,2015-09-23,221,322,Levante UD,Eibar
+3825895,2015-09-23,208,213,Las Palmas,Sevilla
+3825603,2015-09-24,218,219,Real Betis,RC Deportivo La Coruña
+3825604,2015-09-25,207,1049,Valencia,Granada
+267611,2015-09-26,217,208,Barcelona,Las Palmas
+3825605,2015-09-26,213,360,Sevilla,Rayo Vallecano
+3825606,2015-09-26,220,223,Real Madrid,Málaga
+3825607,2015-09-26,222,212,Villarreal,Atlético Madrid
+3825608,2015-09-26,322,209,Eibar,Celta Vigo
+3825609,2015-09-27,210,215,Real Sociedad,Athletic Club
+3825610,2015-09-27,1041,218,Sporting Gijón,Real Betis
+3825611,2015-09-27,219,214,RC Deportivo La Coruña,Espanyol
+3825612,2015-09-27,216,221,Getafe,Levante UD
+3825613,2015-10-02,209,216,Celta Vigo,Getafe
+3825614,2015-10-03,1049,219,Granada,RC Deportivo La Coruña
+3825615,2015-10-03,214,1041,Espanyol,Sporting Gijón
+3825616,2015-10-03,223,210,Málaga,Real Sociedad
+3825617,2015-10-03,213,217,Sevilla,Barcelona
+3825618,2015-10-03,208,322,Las Palmas,Eibar
+3825619,2015-10-04,221,222,Levante UD,Villarreal
+3825620,2015-10-04,360,218,Rayo Vallecano,Real Betis
+3825621,2015-10-04,212,220,Atlético Madrid,Real Madrid
+3825622,2015-10-04,215,207,Athletic Club,Valencia
+3825623,2015-10-17,207,223,Valencia,Málaga
+3825624,2015-10-17,322,213,Eibar,Sevilla
+3825625,2015-10-17,220,221,Real Madrid,Levante UD
+3825626,2015-10-17,218,214,Real Betis,Espanyol
+3825627,2015-10-17,217,360,Barcelona,Rayo Vallecano
+3825628,2015-10-18,216,208,Getafe,Las Palmas
+3825629,2015-10-18,222,209,Villarreal,Celta Vigo
+3825630,2015-10-18,219,215,RC Deportivo La Coruña,Athletic Club
+3825631,2015-10-18,210,212,Real Sociedad,Atlético Madrid
+3825632,2015-10-19,1041,1049,Sporting Gijón,Granada
+3825633,2015-10-23,360,214,Rayo Vallecano,Espanyol
+3825634,2015-10-24,1049,218,Granada,Real Betis
+3825635,2015-10-24,209,220,Celta Vigo,Real Madrid
+3825636,2015-10-24,223,219,Málaga,RC Deportivo La Coruña
+3825874,2015-10-24,213,216,Sevilla,Getafe
+3825637,2015-10-25,217,322,Barcelona,Eibar
+3825638,2015-10-25,212,207,Atlético Madrid,Valencia
+3825639,2015-10-25,208,222,Las Palmas,Villarreal
+3825640,2015-10-25,221,210,Levante UD,Real Sociedad
+3825641,2015-10-26,215,1041,Athletic Club,Sporting Gijón
+3825642,2015-10-30,219,212,RC Deportivo La Coruña,Atlético Madrid
+3825643,2015-10-31,220,208,Real Madrid,Las Palmas
+3825644,2015-10-31,210,209,Real Sociedad,Celta Vigo
+3825645,2015-10-31,216,217,Getafe,Barcelona
+3825646,2015-10-31,222,213,Villarreal,Sevilla
+3825647,2015-10-31,207,221,Valencia,Levante UD
+3825648,2015-11-01,322,360,Eibar,Rayo Vallecano
+3825649,2015-11-01,1041,223,Sporting Gijón,Málaga
+3825650,2015-11-01,218,215,Real Betis,Athletic Club
+3825651,2015-11-01,214,1049,Espanyol,Granada
+3825652,2015-11-06,208,210,Las Palmas,Real Sociedad
+3825653,2015-11-07,322,216,Eibar,Getafe
+3825654,2015-11-07,209,207,Celta Vigo,Valencia
+3825655,2015-11-07,360,1049,Rayo Vallecano,Granada
+3825656,2015-11-07,221,219,Levante UD,RC Deportivo La Coruña
+3825657,2015-11-07,223,218,Málaga,Real Betis
+3825658,2015-11-08,212,1041,Atlético Madrid,Sporting Gijón
+3825659,2015-11-08,215,214,Athletic Club,Espanyol
+3825660,2015-11-08,217,222,Barcelona,Villarreal
+3825661,2015-11-08,213,220,Sevilla,Real Madrid
+266424,2015-11-21,220,217,Real Madrid,Barcelona
+3825662,2015-11-21,219,209,RC Deportivo La Coruña,Celta Vigo
+3825663,2015-11-21,214,223,Espanyol,Málaga
+3825664,2015-11-21,210,213,Real Sociedad,Sevilla
+3825888,2015-11-21,207,208,Valencia,Las Palmas
+3825665,2015-11-22,1049,215,Granada,Athletic Club
+3825666,2015-11-22,218,212,Real Betis,Atlético Madrid
+3825667,2015-11-22,222,322,Villarreal,Eibar
+3825668,2015-11-22,1041,221,Sporting Gijón,Levante UD
+3825669,2015-11-23,216,360,Getafe,Rayo Vallecano
+3825670,2015-11-27,221,218,Levante UD,Real Betis
+266885,2015-11-28,217,210,Barcelona,Real Sociedad
+3825671,2015-11-28,209,1041,Celta Vigo,Sporting Gijón
+3825672,2015-11-28,223,1049,Málaga,Granada
+3825673,2015-11-28,208,219,Las Palmas,RC Deportivo La Coruña
+3825674,2015-11-28,212,214,Atlético Madrid,Espanyol
+3825675,2015-11-29,360,215,Rayo Vallecano,Athletic Club
+3825676,2015-11-29,216,222,Getafe,Villarreal
+3825677,2015-11-29,213,207,Sevilla,Valencia
+3825678,2015-11-29,322,220,Eibar,Real Madrid
+267274,2015-12-05,207,217,Valencia,Barcelona
+3825679,2015-12-05,218,209,Real Betis,Celta Vigo
+3825680,2015-12-05,219,213,RC Deportivo La Coruña,Sevilla
+3825681,2015-12-05,220,216,Real Madrid,Getafe
+3825682,2015-12-05,1049,212,Granada,Atlético Madrid
+3825683,2015-12-06,210,322,Real Sociedad,Eibar
+3825684,2015-12-06,222,360,Villarreal,Rayo Vallecano
+3825685,2015-12-06,1041,208,Sporting Gijón,Las Palmas
+3825686,2015-12-06,215,223,Athletic Club,Málaga
+3825687,2015-12-07,214,221,Espanyol,Levante UD
+3825688,2015-12-11,216,210,Getafe,Real Sociedad
+266961,2015-12-12,217,219,Barcelona,RC Deportivo La Coruña
+3825689,2015-12-12,209,214,Celta Vigo,Espanyol
+3825690,2015-12-12,208,218,Las Palmas,Real Betis
+3825691,2015-12-12,221,1049,Levante UD,Granada
+3825692,2015-12-12,213,1041,Sevilla,Sporting Gijón
+3825693,2015-12-13,212,215,Atlético Madrid,Athletic Club
+3825694,2015-12-13,322,207,Eibar,Valencia
+3825695,2015-12-13,222,220,Villarreal,Real Madrid
+3825696,2015-12-13,360,223,Rayo Vallecano,Málaga
+3825697,2015-12-19,207,216,Valencia,Getafe
+3825698,2015-12-19,219,322,RC Deportivo La Coruña,Eibar
+3825699,2015-12-19,218,213,Real Betis,Sevilla
+3825891,2015-12-19,214,208,Espanyol,Las Palmas
+3825700,2015-12-20,220,360,Real Madrid,Rayo Vallecano
+3825701,2015-12-20,223,212,Málaga,Atlético Madrid
+3825702,2015-12-20,210,222,Real Sociedad,Villarreal
+3825703,2015-12-20,215,221,Athletic Club,Levante UD
+3825704,2015-12-20,1049,209,Granada,Celta Vigo
+267327,2015-12-30,217,218,Barcelona,Real Betis
+3825705,2015-12-30,322,1041,Eibar,Sporting Gijón
+3825706,2015-12-30,209,215,Celta Vigo,Athletic Club
+3825707,2015-12-30,208,1049,Las Palmas,Granada
+3825708,2015-12-30,221,223,Levante UD,Málaga
+3825709,2015-12-30,213,214,Sevilla,Espanyol
+3825710,2015-12-30,220,210,Real Madrid,Real Sociedad
+3825711,2015-12-30,360,212,Rayo Vallecano,Atlético Madrid
+3825712,2015-12-30,216,219,Getafe,RC Deportivo La Coruña
+3825713,2015-12-31,222,207,Villarreal,Valencia
+266670,2016-01-02,214,217,Espanyol,Barcelona
+3825714,2016-01-02,212,221,Atlético Madrid,Levante UD
+3825715,2016-01-02,223,209,Málaga,Celta Vigo
+3825716,2016-01-03,360,210,Rayo Vallecano,Real Sociedad
+3825717,2016-01-03,1049,213,Granada,Sevilla
+3825718,2016-01-03,207,220,Valencia,Real Madrid
+3825719,2016-01-03,215,208,Athletic Club,Las Palmas
+3825720,2016-01-03,218,322,Real Betis,Eibar
+3825721,2016-01-03,219,222,RC Deportivo La Coruña,Villarreal
+3825722,2016-01-04,1041,216,Sporting Gijón,Getafe
+266620,2016-01-09,217,1049,Barcelona,Granada
+3825723,2016-01-09,221,360,Levante UD,Rayo Vallecano
+3825724,2016-01-09,220,219,Real Madrid,RC Deportivo La Coruña
+3825725,2016-01-09,216,218,Getafe,Real Betis
+3825726,2016-01-09,213,215,Sevilla,Athletic Club
+3825727,2016-01-10,322,214,Eibar,Espanyol
+3825728,2016-01-10,209,212,Celta Vigo,Atlético Madrid
+3825729,2016-01-10,222,1041,Villarreal,Sporting Gijón
+3825730,2016-01-10,210,207,Real Sociedad,Valencia
+3825731,2016-01-10,208,223,Las Palmas,Málaga
+3825732,2016-01-16,209,221,Celta Vigo,Levante UD
+3825733,2016-01-16,213,223,Sevilla,Málaga
+3825734,2016-01-16,210,219,Real Sociedad,RC Deportivo La Coruña
+3825735,2016-01-16,222,218,Villarreal,Real Betis
+266149,2016-01-17,217,215,Barcelona,Athletic Club
+3825736,2016-01-17,207,360,Valencia,Rayo Vallecano
+3825737,2016-01-17,216,214,Getafe,Espanyol
+3825738,2016-01-17,208,212,Las Palmas,Atlético Madrid
+3825739,2016-01-17,220,1041,Real Madrid,Sporting Gijón
+3825740,2016-01-18,322,1049,Eibar,Granada
+3825741,2016-01-22,1041,210,Sporting Gijón,Real Sociedad
+265894,2016-01-23,223,217,Málaga,Barcelona
+3825742,2016-01-23,1049,216,Granada,Getafe
+3825743,2016-01-23,360,209,Rayo Vallecano,Celta Vigo
+3825744,2016-01-23,214,222,Espanyol,Villarreal
+3825745,2016-01-24,219,207,RC Deportivo La Coruña,Valencia
+3825746,2016-01-24,218,220,Real Betis,Real Madrid
+3825747,2016-01-24,215,322,Athletic Club,Eibar
+3825748,2016-01-24,212,213,Atlético Madrid,Sevilla
+3825749,2016-01-25,221,208,Levante UD,Las Palmas
+267576,2016-01-30,217,212,Barcelona,Atlético Madrid
+3825750,2016-01-30,210,218,Real Sociedad,Real Betis
+3825751,2016-01-30,216,215,Getafe,Athletic Club
+3825752,2016-01-30,322,223,Eibar,Málaga
+3825753,2016-01-30,222,1049,Villarreal,Granada
+3825754,2016-01-31,208,209,Las Palmas,Celta Vigo
+3825755,2016-01-31,207,1041,Valencia,Sporting Gijón
+3825756,2016-01-31,213,221,Sevilla,Levante UD
+3825757,2016-01-31,220,214,Real Madrid,Espanyol
+3825758,2016-02-01,219,360,RC Deportivo La Coruña,Rayo Vallecano
+3825759,2016-02-05,223,216,Málaga,Getafe
+3825760,2016-02-06,212,322,Atlético Madrid,Eibar
+3825761,2016-02-06,215,222,Athletic Club,Villarreal
+3825762,2016-02-06,1041,219,Sporting Gijón,RC Deportivo La Coruña
+3825763,2016-02-06,360,208,Rayo Vallecano,Las Palmas
+266160,2016-02-07,221,217,Levante UD,Barcelona
+3825764,2016-02-07,1049,220,Granada,Real Madrid
+3825765,2016-02-07,209,213,Celta Vigo,Sevilla
+3825766,2016-02-07,218,207,Real Betis,Valencia
+3825767,2016-02-08,214,210,Espanyol,Real Sociedad
+3825768,2016-02-12,1041,360,Sporting Gijón,Rayo Vallecano
+3825769,2016-02-13,222,223,Villarreal,Málaga
+3825770,2016-02-13,220,215,Real Madrid,Athletic Club
+3825771,2016-02-13,219,218,RC Deportivo La Coruña,Real Betis
+3825772,2016-02-13,207,214,Valencia,Espanyol
+266254,2016-02-14,217,209,Barcelona,Celta Vigo
+3825773,2016-02-14,322,221,Eibar,Levante UD
+3825774,2016-02-14,216,212,Getafe,Atlético Madrid
+3825775,2016-02-14,210,1049,Real Sociedad,Granada
+3825776,2016-02-14,213,208,Sevilla,Las Palmas
+266815,2016-02-17,1041,217,Sporting Gijón,Barcelona
+3825777,2016-02-19,221,216,Levante UD,Getafe
+267273,2016-02-20,208,217,Las Palmas,Barcelona
+3825778,2016-02-20,218,1041,Real Betis,Sporting Gijón
+3825779,2016-02-20,209,322,Celta Vigo,Eibar
+3825780,2016-02-20,214,219,Espanyol,RC Deportivo La Coruña
+3825781,2016-02-21,360,213,Rayo Vallecano,Sevilla
+3825782,2016-02-21,1049,207,Granada,Valencia
+3825783,2016-02-21,215,210,Athletic Club,Real Sociedad
+3825784,2016-02-21,212,222,Atlético Madrid,Villarreal
+3825785,2016-02-21,223,220,Málaga,Real Madrid
+3825786,2016-02-26,322,208,Eibar,Las Palmas
+3825787,2016-02-27,220,212,Real Madrid,Atlético Madrid
+3825788,2016-02-27,216,209,Getafe,Celta Vigo
+3825789,2016-02-27,210,223,Real Sociedad,Málaga
+3825790,2016-02-27,1041,214,Sporting Gijón,Espanyol
+3825791,2016-02-27,218,360,Real Betis,Rayo Vallecano
+265839,2016-02-28,217,213,Barcelona,Sevilla
+3825792,2016-02-28,219,1049,RC Deportivo La Coruña,Granada
+3825793,2016-02-28,207,215,Valencia,Athletic Club
+3825794,2016-02-28,222,221,Villarreal,Levante UD
+3825795,2016-03-01,212,210,Atlético Madrid,Real Sociedad
+3825796,2016-03-01,208,216,Las Palmas,Getafe
+3825797,2016-03-02,215,219,Athletic Club,RC Deportivo La Coruña
+3825798,2016-03-02,221,220,Levante UD,Real Madrid
+3825799,2016-03-02,223,207,Málaga,Valencia
+3825800,2016-03-02,209,222,Celta Vigo,Villarreal
+3825801,2016-03-02,213,322,Sevilla,Eibar
+266653,2016-03-03,360,217,Rayo Vallecano,Barcelona
+3825802,2016-03-03,214,218,Espanyol,Real Betis
+3825803,2016-03-03,1049,1041,Granada,Sporting Gijón
+3825804,2016-03-05,219,223,RC Deportivo La Coruña,Málaga
+3825805,2016-03-05,222,208,Villarreal,Las Palmas
+3825806,2016-03-05,220,209,Real Madrid,Celta Vigo
+3825867,2016-03-05,216,213,Getafe,Sevilla
+266056,2016-03-06,322,217,Eibar,Barcelona
+3825807,2016-03-06,207,212,Valencia,Atlético Madrid
+3825808,2016-03-06,1041,215,Sporting Gijón,Athletic Club
+3825809,2016-03-06,218,1049,Real Betis,Granada
+3825810,2016-03-06,210,221,Real Sociedad,Levante UD
+3825811,2016-03-07,214,360,Espanyol,Rayo Vallecano
+3825812,2016-03-11,223,1041,Málaga,Sporting Gijón
+266498,2016-03-12,217,216,Barcelona,Getafe
+3825813,2016-03-12,212,219,Atlético Madrid,RC Deportivo La Coruña
+3825814,2016-03-12,209,210,Celta Vigo,Real Sociedad
+3825858,2016-03-12,360,322,Rayo Vallecano,Eibar
+3825815,2016-03-13,221,207,Levante UD,Valencia
+3825816,2016-03-13,213,222,Sevilla,Villarreal
+3825844,2016-03-13,215,218,Athletic Club,Real Betis
+3825879,2016-03-13,208,220,Las Palmas,Real Madrid
+3825881,2016-03-14,1049,214,Granada,Espanyol
+3825817,2016-03-18,216,322,Getafe,Eibar
+3825818,2016-03-19,210,208,Real Sociedad,Las Palmas
+3825880,2016-03-19,219,221,RC Deportivo La Coruña,Levante UD
+3825887,2016-03-19,1049,360,Granada,Rayo Vallecano
+3825903,2016-03-19,218,223,Real Betis,Málaga
+3825907,2016-03-19,1041,212,Sporting Gijón,Atlético Madrid
+266106,2016-03-20,222,217,Villarreal,Barcelona
+3825819,2016-03-20,207,209,Valencia,Celta Vigo
+3825820,2016-03-20,220,213,Real Madrid,Sevilla
+3825821,2016-03-20,214,215,Espanyol,Athletic Club
+3825885,2016-04-01,360,216,Rayo Vallecano,Getafe
+267533,2016-04-02,217,220,Barcelona,Real Madrid
+3825822,2016-04-02,208,207,Las Palmas,Valencia
+3825872,2016-04-02,212,218,Atlético Madrid,Real Betis
+3825898,2016-04-02,209,219,Celta Vigo,RC Deportivo La Coruña
+3825823,2016-04-03,213,210,Sevilla,Real Sociedad
+3825824,2016-04-03,322,222,Eibar,Villarreal
+3825877,2016-04-03,215,1049,Athletic Club,Granada
+3825905,2016-04-03,223,214,Málaga,Espanyol
+3825825,2016-04-04,221,1041,Levante UD,Sporting Gijón
+3825826,2016-04-08,1049,223,Granada,Málaga
+266664,2016-04-09,210,217,Real Sociedad,Barcelona
+3825827,2016-04-09,218,221,Real Betis,Levante UD
+3825828,2016-04-09,214,212,Espanyol,Atlético Madrid
+3825856,2016-04-09,220,322,Real Madrid,Eibar
+3825829,2016-04-10,215,360,Athletic Club,Rayo Vallecano
+3825830,2016-04-10,222,216,Villarreal,Getafe
+3825831,2016-04-10,207,213,Valencia,Sevilla
+3825832,2016-04-10,1041,209,Sporting Gijón,Celta Vigo
+3825863,2016-04-11,219,208,RC Deportivo La Coruña,Las Palmas
+3825857,2016-04-15,221,214,Levante UD,Espanyol
+3825833,2016-04-16,216,220,Getafe,Real Madrid
+3825852,2016-04-16,208,1041,Las Palmas,Sporting Gijón
+3825889,2016-04-16,209,218,Celta Vigo,Real Betis
+3825897,2016-04-16,322,210,Eibar,Real Sociedad
+266557,2016-04-17,217,207,Barcelona,Valencia
+3825834,2016-04-17,212,1049,Atlético Madrid,Granada
+3825835,2016-04-17,223,215,Málaga,Athletic Club
+3825836,2016-04-17,360,222,Rayo Vallecano,Villarreal
+3825906,2016-04-17,213,219,Sevilla,RC Deportivo La Coruña
+3825837,2016-04-19,218,208,Real Betis,Las Palmas
+3825862,2016-04-19,214,209,Espanyol,Celta Vigo
+266310,2016-04-20,219,217,RC Deportivo La Coruña,Barcelona
+3825838,2016-04-20,215,212,Athletic Club,Atlético Madrid
+3825839,2016-04-20,1041,213,Sporting Gijón,Sevilla
+3825840,2016-04-20,207,322,Valencia,Eibar
+3825843,2016-04-20,223,360,Málaga,Rayo Vallecano
+3825893,2016-04-20,220,222,Real Madrid,Villarreal
+3825841,2016-04-21,210,216,Real Sociedad,Getafe
+3825896,2016-04-21,1049,221,Granada,Levante UD
+3825871,2016-04-22,208,214,Las Palmas,Espanyol
+265944,2016-04-23,217,1041,Barcelona,Sporting Gijón
+3825847,2016-04-23,322,219,Eibar,RC Deportivo La Coruña
+3825886,2016-04-23,360,220,Rayo Vallecano,Real Madrid
+3825890,2016-04-23,212,223,Atlético Madrid,Málaga
+3825842,2016-04-24,221,215,Levante UD,Athletic Club
+3825875,2016-04-24,222,210,Villarreal,Real Sociedad
+3825884,2016-04-24,213,218,Sevilla,Real Betis
+3825899,2016-04-24,216,207,Getafe,Valencia
+3825868,2016-04-25,209,1049,Celta Vigo,Granada
+3825854,2016-04-29,1041,322,Sporting Gijón,Eibar
+266986,2016-04-30,218,217,Real Betis,Barcelona
+3825859,2016-04-30,1049,208,Granada,Las Palmas
+3825864,2016-04-30,210,220,Real Sociedad,Real Madrid
+3825878,2016-04-30,212,360,Atlético Madrid,Rayo Vallecano
+3825845,2016-05-01,214,213,Espanyol,Sevilla
+3825870,2016-05-01,215,209,Athletic Club,Celta Vigo
+3825873,2016-05-01,207,222,Valencia,Villarreal
+3825894,2016-05-01,219,216,RC Deportivo La Coruña,Getafe
+3825855,2016-05-02,223,221,Málaga,Levante UD
+265958,2016-05-08,217,214,Barcelona,Espanyol
+3825850,2016-05-08,209,223,Celta Vigo,Málaga
+3825851,2016-05-08,222,219,Villarreal,RC Deportivo La Coruña
+3825853,2016-05-08,213,1049,Sevilla,Granada
+3825860,2016-05-08,221,212,Levante UD,Atlético Madrid
+3825861,2016-05-08,210,360,Real Sociedad,Rayo Vallecano
+3825865,2016-05-08,216,1041,Getafe,Sporting Gijón
+3825866,2016-05-08,208,215,Las Palmas,Athletic Club
+3825901,2016-05-08,220,207,Real Madrid,Valencia
+3825904,2016-05-08,322,218,Eibar,Real Betis
+3825849,2016-05-13,207,210,Valencia,Real Sociedad
+267506,2016-05-14,1049,217,Granada,Barcelona
+3825846,2016-05-14,219,220,RC Deportivo La Coruña,Real Madrid
+3825869,2016-05-14,215,213,Athletic Club,Sevilla
+3825882,2016-05-14,212,209,Atlético Madrid,Celta Vigo
+3825876,2016-05-15,218,216,Real Betis,Getafe
+3825883,2016-05-15,223,208,Málaga,Las Palmas
+3825900,2016-05-15,1041,222,Sporting Gijón,Villarreal
+3825902,2016-05-15,360,221,Rayo Vallecano,Levante UD
+3825908,2016-05-15,214,322,Espanyol,Eibar

@@ -1,0 +1,40 @@
+ReliableVAEP × 2016 Ballon d'Or external-validity experiment
+==============================================================================
+
+Primary cohort: 2016 Ballon d'Or nominees who played in La Liga 2015/16.
+Matched nominees: 6
+StatsBomb La Liga matches analysed: 380/380 (100.0% source coverage)
+Full ReliableVAEP bootstrap draws: 3500
+
+Full-season external agreement:
+Raw VAEP Spearman with Ballon ordering: 0.1739
+RAR Spearman with Ballon ordering: 0.1739
+Difference (RAR - raw): 0.0000
+Raw VAEP Kendall tau-b: 0.1380
+RAR Kendall tau-b: 0.1380
+Raw VAEP mean absolute rank error: 2.000
+RAR mean absolute rank error: 2.000
+Raw/RAR top-6 overlap: 6 / 6
+Supported pair directions agreeing with Ballon ordering: 66.7% across 9 supported externally ordered pairs
+
+ReliableVAEP uncertainty:
+Median 95% rank-interval width: 2.00
+Supported pair fraction at 90%: 60.0%
+Players reordered by RAR: 0/6
+
+Limited-match external-agreement stress test:
+Tested n values: 5,8,10
+Pooled median Spearman gain (RAR - raw): 0.0000
+RAR had higher Spearman in 11.0% of replicates
+Pooled median Kendall gain: 0.0000
+Pooled median MAE change (RAR - raw): 0.0000
+RAR had lower rank MAE in 6.5% of replicates
+
+Interpretation limits:
+1. Ballon d'Or is an independent human-voting reference, not objective ground truth.
+2. The 2016 Ballon d'Or award cycle is not identical to the 2015/16 domestic-league window.
+3. This primary analysis intentionally restricts the comparison to La Liga nominees so all players are scored by the same competition-specific VAEP model and data context.
+4. International matches, UEFA competition matches, trophies, narrative factors, and performances after the 2015/16 league season are outside this VAEP dataset.
+
+Decision rule:
+Describe RAR as having stronger external agreement only if the full-season and/or limited-match metrics consistently improve relative to raw VAEP. If they do not, report the disagreement directly; do not treat Ballon d'Or as a target to optimize.

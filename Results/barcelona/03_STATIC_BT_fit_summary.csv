@@ -1,0 +1,5 @@
+experiment,players,BT_fit_success,BT_pairwise_mae,BT_pairwise_rmse,changed_rank_fraction,median_absolute_rank_shift,resolved_pair_fraction,label
+primary_outfield,7,True,0.004588379379768422,0.006264148154811452,0.0,0.0,0.7619047619047619,Primary 2015/16–2019/20 — outfield only
+primary_all,8,True,0.005562349756070971,0.008364438826568956,0.0,0.0,0.7857142857142857,Primary 2015/16–2019/20 — all players
+validation_outfield,9,True,0.014012168657363227,0.0285001095141547,0.0,0.0,0.75,Validation 2008/09–2012/13 — outfield only
+validation_all,10,True,0.013019074851023675,0.02502718814427637,0.0,0.0,0.8,Validation 2008/09–2012/13 — all players

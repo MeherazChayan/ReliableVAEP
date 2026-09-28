@@ -1,0 +1,19 @@
+ReliableVAEP Premier League 2015/16 PCS/RAR stress test
+======================================================================
+
+Eligible players: 423
+Median 95% bootstrap rank-interval width: 201.00
+Median supported rank-band width: 242.00
+Supported pair fraction at 90%: 44.8%
+Players reordered by RAR: 399 (94.3%)
+Median absolute RAR shift: 7.00 ranks
+Maximum absolute RAR shift: 76 ranks
+
+Independent reproducibility test:
+Fixed >=30-match cohort: 141 players
+Pooled median Spearman gain (RAR - raw): 0.0111
+Pooled mean Spearman gain (RAR - raw): 0.0132
+Replicates RAR better/equal/worse: 0.738 / 0.000 / 0.262
+
+Interpretation rule:
+RAR may be described as a more reproducible reliability-adjusted ranking only if the independent non-overlapping-match test shows a consistent positive gain. If not, keep RAR as a descriptive consensus ordering and retain the original VAEP rank, bootstrap interval, and supported rank band as the primary reliability outputs.

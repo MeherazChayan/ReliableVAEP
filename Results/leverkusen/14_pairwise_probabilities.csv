@@ -1,0 +1,154 @@
+player_i_id,player_i_name,player_j_id,player_j_name,P_i_above_j,support_status,BT_pred_P_i_above_j
+40724,Florian Wirtz,10336,Alejandro Grimaldo García,0.6602857142857143,unresolved,0.6443860681417193
+40724,Florian Wirtz,9195,Robert Andrich,0.6834285714285714,unresolved,0.6704779577367781
+40724,Florian Wirtz,41411,Nathan Tella,0.6368571428571429,unresolved,0.7797006139105556
+40724,Florian Wirtz,49337,Josip Stanišić,0.7388571428571429,unresolved,0.7458736225759294
+40724,Florian Wirtz,3500,Granit Xhaka,0.76,unresolved,0.6990669795480972
+40724,Florian Wirtz,30606,Edmond Fayçal Tapsoba,0.902,i_above_j_supported,0.8391516977450854
+40724,Florian Wirtz,8221,Jonathan Tah,0.9242857142857143,i_above_j_supported,0.8783373348842729
+40724,Florian Wirtz,32712,Jeremie Frimpong,0.8757142857142857,unresolved,0.8805327679949273
+40724,Florian Wirtz,33401,Amine Adli,0.82,unresolved,0.8864792091127347
+40724,Florian Wirtz,28268,Exequiel Alejandro Palacios,0.9254285714285714,i_above_j_supported,0.9069004144407111
+40724,Florian Wirtz,27133,Odilon Kossonou,0.9551428571428572,i_above_j_supported,0.9188180010812645
+40724,Florian Wirtz,38004,Piero Martín Hincapié Reyna,0.9825714285714285,i_above_j_supported,0.9530391279655849
+40724,Florian Wirtz,32289,Victor Okoh Boniface,0.9042857142857142,i_above_j_supported,0.9409643150640362
+40724,Florian Wirtz,8667,Lukáš Hrádecký,1.0,i_above_j_supported,0.9866803348137786
+40724,Florian Wirtz,8804,Jonas Hofmann,0.9977142857142857,i_above_j_supported,0.987084681913232
+40724,Florian Wirtz,28239,Adam Hložek,0.9382857142857143,i_above_j_supported,0.9780062797925025
+40724,Florian Wirtz,7044,Patrik Schick,0.9857142857142858,i_above_j_supported,0.9915787844212176
+10336,Alejandro Grimaldo García,9195,Robert Andrich,0.5291428571428571,unresolved,0.528941420406796
+10336,Alejandro Grimaldo García,41411,Nathan Tella,0.5365714285714286,unresolved,0.66138451813444
+10336,Alejandro Grimaldo García,49337,Josip Stanišić,0.6082857142857143,unresolved,0.6182842631160534
+10336,Alejandro Grimaldo García,3500,Granit Xhaka,0.6134285714285714,unresolved,0.5617842457647727
+10336,Alejandro Grimaldo García,30606,Edmond Fayçal Tapsoba,0.8205714285714286,unresolved,0.7422081875391955
+10336,Alejandro Grimaldo García,8221,Jonathan Tah,0.8531428571428571,unresolved,0.7993643388742905
+10336,Alejandro Grimaldo García,32712,Jeremie Frimpong,0.8022857142857143,unresolved,0.8026646861864416
+10336,Alejandro Grimaldo García,33401,Amine Adli,0.7345714285714285,unresolved,0.8116579560938553
+10336,Alejandro Grimaldo García,28268,Exequiel Alejandro Palacios,0.8748571428571429,unresolved,0.8431573556829706
+10336,Alejandro Grimaldo García,27133,Odilon Kossonou,0.9134285714285715,i_above_j_supported,0.8619929330068975
+10336,Alejandro Grimaldo García,38004,Piero Martín Hincapié Reyna,0.9582857142857143,i_above_j_supported,0.9180309122172333
+10336,Alejandro Grimaldo García,32289,Victor Okoh Boniface,0.8428571428571429,unresolved,0.8979187734302714
+10336,Alejandro Grimaldo García,8667,Lukáš Hrádecký,0.9997142857142857,i_above_j_supported,0.9761225171314383
+10336,Alejandro Grimaldo García,8804,Jonas Hofmann,0.9934285714285714,i_above_j_supported,0.9768398463487591
+10336,Alejandro Grimaldo García,28239,Adam Hložek,0.9114285714285715,i_above_j_supported,0.960845820009133
+10336,Alejandro Grimaldo García,7044,Patrik Schick,0.9731428571428572,i_above_j_supported,0.9848440762594929
+9195,Robert Andrich,41411,Nathan Tella,0.5237142857142857,unresolved,0.6349646130820288
+9195,Robert Andrich,49337,Josip Stanišić,0.5908571428571429,unresolved,0.5905832221722204
+9195,Robert Andrich,3500,Granit Xhaka,0.5871428571428572,unresolved,0.5330794257963314
+9195,Robert Andrich,30606,Edmond Fayçal Tapsoba,0.7882857142857143,unresolved,0.71941914748244
+9195,Robert Andrich,8221,Jonathan Tah,0.8285714285714286,unresolved,0.780131177250091
+9195,Robert Andrich,32712,Jeremie Frimpong,0.778,unresolved,0.783662276741102
+9195,Robert Andrich,33401,Amine Adli,0.7208571428571429,unresolved,0.7932985404631853
+9195,Robert Andrich,28268,Exequiel Alejandro Palacios,0.8431428571428572,unresolved,0.827214820581153
+9195,Robert Andrich,27133,Odilon Kossonou,0.896,unresolved,0.8476189572922882
+9195,Robert Andrich,38004,Piero Martín Hincapié Reyna,0.9482857142857143,i_above_j_supported,0.9088765118702147
+9195,Robert Andrich,32289,Victor Okoh Boniface,0.8362857142857143,unresolved,0.8867952048882899
+9195,Robert Andrich,8667,Lukáš Hrádecký,0.9997142857142857,i_above_j_supported,0.9732669299188847
+9195,Robert Andrich,8804,Jonas Hofmann,0.9914285714285714,i_above_j_supported,0.9740677678243375
+9195,Robert Andrich,28239,Adam Hložek,0.9048571428571428,i_above_j_supported,0.9562451372022083
+9195,Robert Andrich,7044,Patrik Schick,0.9711428571428572,i_above_j_supported,0.9830133780404651
+41411,Nathan Tella,49337,Josip Stanišić,0.5174285714285715,unresolved,0.45333667358979773
+41411,Nathan Tella,3500,Granit Xhaka,0.508,unresolved,0.39626224229985035
+41411,Nathan Tella,30606,Edmond Fayçal Tapsoba,0.6165714285714285,unresolved,0.5958028930531843
+41411,Nathan Tella,8221,Jonathan Tah,0.6485714285714286,unresolved,0.6710319245914657
+41411,Nathan Tella,32712,Jeremie Frimpong,0.6488571428571429,unresolved,0.6755865441490532
+41411,Nathan Tella,33401,Amine Adli,0.6428571428571429,unresolved,0.688120939828222
+41411,Nathan Tella,28268,Exequiel Alejandro Palacios,0.6914285714285714,unresolved,0.7334974607702286
+41411,Nathan Tella,27133,Odilon Kossonou,0.7034285714285714,unresolved,0.7617815958459815
+41411,Nathan Tella,38004,Piero Martín Hincapié Reyna,0.7794285714285715,unresolved,0.8515005213397285
+41411,Nathan Tella,32289,Victor Okoh Boniface,0.7431428571428571,unresolved,0.8182953213242814
+41411,Nathan Tella,8667,Lukáš Hrádecký,0.9011428571428571,i_above_j_supported,0.9544002993311874
+41411,Nathan Tella,8804,Jonas Hofmann,0.9017142857142857,i_above_j_supported,0.9557406197927195
+41411,Nathan Tella,28239,Adam Hložek,0.8451428571428572,unresolved,0.9262755026710816
+41411,Nathan Tella,7044,Patrik Schick,0.9268571428571428,i_above_j_supported,0.9708189840107969
+49337,Josip Stanišić,3500,Granit Xhaka,0.4774285714285714,unresolved,0.4417986155714084
+49337,Josip Stanišić,30606,Edmond Fayçal Tapsoba,0.6777142857142857,unresolved,0.6399634041330304
+49337,Josip Stanišić,8221,Jonathan Tah,0.7362857142857143,unresolved,0.7109606131408553
+49337,Josip Stanišić,32712,Jeremie Frimpong,0.7128571428571429,unresolved,0.7151970437726424
+49337,Josip Stanišić,33401,Amine Adli,0.6748571428571428,unresolved,0.7268198511479004
+49337,Josip Stanišić,28268,Exequiel Alejandro Palacios,0.7728571428571429,unresolved,0.7684604555714082
+49337,Josip Stanišić,27133,Odilon Kossonou,0.8228571428571428,unresolved,0.794075678746151
+49337,Josip Stanišić,38004,Piero Martín Hincapié Reyna,0.9077142857142857,i_above_j_supported,0.8736491968911644
+49337,Josip Stanišić,32289,Victor Okoh Boniface,0.7968571428571428,unresolved,0.8444920726484756
+49337,Josip Stanišić,8667,Lukáš Hrádecký,0.9965714285714286,i_above_j_supported,0.9618884131229423
+49337,Josip Stanišić,8804,Jonas Hofmann,0.9851428571428571,i_above_j_supported,0.9630171628826594
+49337,Josip Stanišić,28239,Adam Hložek,0.8828571428571429,unresolved,0.9380824763139961
+49337,Josip Stanišić,7044,Patrik Schick,0.9588571428571429,i_above_j_supported,0.9756796233101325
+3500,Granit Xhaka,30606,Edmond Fayçal Tapsoba,0.8142857142857143,unresolved,0.6919114953522538
+3500,Granit Xhaka,8221,Jonathan Tah,0.8488571428571429,unresolved,0.7565615421253513
+3500,Granit Xhaka,32712,Jeremie Frimpong,0.7625714285714286,unresolved,0.7603548919399917
+3500,Granit Xhaka,33401,Amine Adli,0.6962857142857143,unresolved,0.7707255929972859
+3500,Granit Xhaka,28268,Exequiel Alejandro Palacios,0.8571428571428571,unresolved,0.8074467036530296
+3500,Granit Xhaka,27133,Odilon Kossonou,0.9268571428571428,i_above_j_supported,0.8297046745277512
+3500,Granit Xhaka,38004,Piero Martín Hincapié Reyna,0.9734285714285714,i_above_j_supported,0.8972911746612349
+3500,Granit Xhaka,32289,Victor Okoh Boniface,0.824,unresolved,0.8727953925228211
+3500,Granit Xhaka,8667,Lukáš Hrádecký,1.0,i_above_j_supported,0.9695942438088334
+3500,Granit Xhaka,8804,Jonas Hofmann,0.9982857142857143,i_above_j_supported,0.9705017691309406
+3500,Granit Xhaka,28239,Adam Hložek,0.9014285714285715,i_above_j_supported,0.9503532241962311
+3500,Granit Xhaka,7044,Patrik Schick,0.9711428571428572,i_above_j_supported,0.9806530771834456
+30606,Edmond Fayçal Tapsoba,8221,Jonathan Tah,0.6337142857142857,unresolved,0.5805054740385639
+30606,Edmond Fayçal Tapsoba,32712,Jeremie Frimpong,0.604,unresolved,0.5855393176843143
+30606,Edmond Fayçal Tapsoba,33401,Amine Adli,0.572,unresolved,0.5994903156826382
+30606,Edmond Fayçal Tapsoba,28268,Exequiel Alejandro Palacios,0.7082857142857143,unresolved,0.6512261188786054
+30606,Edmond Fayçal Tapsoba,27133,Odilon Kossonou,0.7922857142857143,unresolved,0.6844859119759372
+30606,Edmond Fayçal Tapsoba,38004,Piero Martín Hincapié Reyna,0.918,i_above_j_supported,0.7955013899303516
+30606,Edmond Fayçal Tapsoba,32289,Victor Okoh Boniface,0.7368571428571429,unresolved,0.753400858780248
+30606,Edmond Fayçal Tapsoba,8667,Lukáš Hrádecký,1.0,i_above_j_supported,0.9342063971718092
+30606,Edmond Fayçal Tapsoba,8804,Jonas Hofmann,0.9905714285714285,i_above_j_supported,0.9361005402279777
+30606,Edmond Fayçal Tapsoba,28239,Adam Hložek,0.8545714285714285,unresolved,0.8949968007027003
+30606,Edmond Fayçal Tapsoba,7044,Patrik Schick,0.9548571428571428,i_above_j_supported,0.9575728949105426
+8221,Jonathan Tah,32712,Jeremie Frimpong,0.5142857142857142,unresolved,0.5051764312037259
+8221,Jonathan Tah,33401,Amine Adli,0.5245714285714286,unresolved,0.5196132108728737
+8221,Jonathan Tah,28268,Exequiel Alejandro Palacios,0.6011428571428571,unresolved,0.5743409073839111
+8221,Jonathan Tah,27133,Odilon Kossonou,0.6554285714285715,unresolved,0.6105479246727474
+8221,Jonathan Tah,38004,Piero Martín Hincapié Reyna,0.8317142857142857,unresolved,0.7376060089879914
+8221,Jonathan Tah,32289,Victor Okoh Boniface,0.6842857142857143,unresolved,0.6882572979185883
+8221,Jonathan Tah,8667,Lukáš Hrádecký,1.0,i_above_j_supported,0.9111959758275161
+8221,Jonathan Tah,8804,Jonas Hofmann,0.9785714285714285,i_above_j_supported,0.9136913678353414
+8221,Jonathan Tah,28239,Adam Hložek,0.8302857142857143,unresolved,0.8603236350124309
+8221,Jonathan Tah,7044,Patrik Schick,0.9397142857142857,i_above_j_supported,0.9422292308188487
+32712,Jeremie Frimpong,33401,Amine Adli,0.5145714285714286,unresolved,0.5144426449102487
+32712,Jeremie Frimpong,28268,Exequiel Alejandro Palacios,0.5708571428571428,unresolved,0.5692711039693299
+32712,Jeremie Frimpong,27133,Odilon Kossonou,0.5991428571428571,unresolved,0.6056132395241532
+32712,Jeremie Frimpong,38004,Piero Martín Hincapié Reyna,0.7365714285714285,unresolved,0.7335787395500856
+32712,Jeremie Frimpong,32289,Victor Okoh Boniface,0.6528571428571428,unresolved,0.6837973093259819
+32712,Jeremie Frimpong,8667,Lukáš Hrádecký,0.9591428571428572,i_above_j_supported,0.9095061251137233
+32712,Jeremie Frimpong,8804,Jonas Hofmann,0.9382857142857143,i_above_j_supported,0.9120444183128225
+32712,Jeremie Frimpong,28239,Adam Hložek,0.8185714285714286,unresolved,0.857816789727513
+32712,Jeremie Frimpong,7044,Patrik Schick,0.9274285714285714,i_above_j_supported,0.9410917340445896
+33401,Amine Adli,28268,Exequiel Alejandro Palacios,0.5337142857142857,unresolved,0.5550487549186438
+33401,Amine Adli,27133,Odilon Kossonou,0.5505714285714286,unresolved,0.5917302720142648
+33401,Amine Adli,38004,Piero Martín Hincapié Reyna,0.6548571428571428,unresolved,0.7221335602764134
+33401,Amine Adli,32289,Victor Okoh Boniface,0.6294285714285714,unresolved,0.671172183860694
+33401,Amine Adli,8667,Lukáš Hrádecký,0.8405714285714285,unresolved,0.9046361212939271
+33401,Amine Adli,8804,Jonas Hofmann,0.8502857142857143,unresolved,0.9072970916533177
+33401,Amine Adli,28239,Adam Hložek,0.7811428571428571,unresolved,0.8506219505041064
+33401,Amine Adli,7044,Patrik Schick,0.89,unresolved,0.9378052985434233
+28268,Exequiel Alejandro Palacios,27133,Odilon Kossonou,0.5271428571428571,unresolved,0.5374377044043874
+28268,Exequiel Alejandro Palacios,38004,Piero Martín Hincapié Reyna,0.7048571428571428,unresolved,0.6756776754389043
+28268,Exequiel Alejandro Palacios,32289,Victor Okoh Boniface,0.6342857142857142,unresolved,0.6206716975581154
+28268,Exequiel Alejandro Palacios,8667,Lukáš Hrádecký,0.9751428571428571,i_above_j_supported,0.8837818952255163
+28268,Exequiel Alejandro Palacios,8804,Jonas Hofmann,0.9345714285714286,i_above_j_supported,0.8869520505586088
+28268,Exequiel Alejandro Palacios,28239,Adam Hložek,0.7994285714285714,unresolved,0.8203021927738801
+28268,Exequiel Alejandro Palacios,7044,Patrik Schick,0.9148571428571428,i_above_j_supported,0.9235918794023528
+27133,Odilon Kossonou,38004,Piero Martín Hincapié Reyna,0.6971428571428572,unresolved,0.6419750325189798
+27133,Odilon Kossonou,32289,Victor Okoh Boniface,0.6148571428571429,unresolved,0.5847657686900953
+27133,Odilon Kossonou,8667,Lukáš Hrádecký,0.9945714285714286,i_above_j_supported,0.8674628904004521
+27133,Odilon Kossonou,8804,Jonas Hofmann,0.9522857142857143,i_above_j_supported,0.8710132214785474
+27133,Odilon Kossonou,28239,Adam Hložek,0.794,unresolved,0.7971158008467928
+27133,Odilon Kossonou,7044,Patrik Schick,0.9197142857142857,i_above_j_supported,0.9123082170767529
+38004,Piero Martín Hincapié Reyna,32289,Victor Okoh Boniface,0.5045714285714286,unresolved,0.43989749213317914
+38004,Piero Martín Hincapié Reyna,8667,Lukáš Hrádecký,0.9411428571428572,i_above_j_supported,0.7849523472218921
+38004,Piero Martín Hincapié Reyna,8804,Jonas Hofmann,0.8705714285714286,unresolved,0.790178311336978
+38004,Piero Martín Hincapié Reyna,28239,Adam Hložek,0.7385714285714285,unresolved,0.6866314923160937
+38004,Piero Martín Hincapié Reyna,7044,Patrik Schick,0.8831428571428571,unresolved,0.8529844561833902
+32289,Victor Okoh Boniface,8667,Lukáš Hrádecký,0.7065714285714285,unresolved,0.8229322511581879
+32289,Victor Okoh Boniface,8804,Jonas Hofmann,0.7311428571428571,unresolved,0.8274381518839894
+32289,Victor Okoh Boniface,28239,Adam Hložek,0.7042857142857143,unresolved,0.7361389004136757
+32289,Victor Okoh Boniface,7044,Patrik Schick,0.8262857142857143,unresolved,0.8807740922052792
+8667,Lukáš Hrádecký,8804,Jonas Hofmann,0.5922857142857143,unresolved,0.5078086637495834
+8667,Lukáš Hrádecký,28239,Adam Hložek,0.5931428571428572,unresolved,0.3751125453214998
+8667,Lukáš Hrádecký,7044,Patrik Schick,0.7814285714285715,unresolved,0.6138298355314905
+8804,Jonas Hofmann,28239,Adam Hložek,0.5597142857142857,unresolved,0.36781949348072235
+8804,Jonas Hofmann,7044,Patrik Schick,0.7374285714285714,unresolved,0.6063994682435199
+28239,Adam Hložek,7044,Patrik Schick,0.6237142857142857,unresolved,0.7258733043339032

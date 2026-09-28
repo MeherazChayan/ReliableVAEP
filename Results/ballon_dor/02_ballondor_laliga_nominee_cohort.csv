@@ -1,0 +1,7 @@
+player_id,player_name,team_name,is_goalkeeper,total_matches,total_minutes,total_actions,total_vaep,offensive_value,defensive_value,goals,goalkeeper_match_rows,vaep90,raw_VAEP_rank_base_league,ballon_name,ballon_published_rank,ballon_points,ballon_restricted_rank,raw_VAEP_rank
+5207,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,False,36,3295.0,2755,8.732000754272702,9.838821403944431,-1.1068206496717294,35,0,0.23850684913036213,52,Cristiano Ronaldo,1,745,1.0,4
+6399,Gareth Frank Bale,Real Madrid,False,23,1784.0,1820,17.106148714080696,17.558253949935878,-0.4521052358551798,19,0,0.8629783544099006,1,Gareth Bale,6,60,2.0,1
+20016,Kléper Laveran Lima Ferreira,Real Madrid,False,21,1951.0,2302,2.798668791622969,2.7523449537955904,0.04632383782737867,1,0,0.12910312211484737,164,Pepe,9,8,3.0,6
+5463,Luka Modrić,Real Madrid,False,32,2689.0,4598,9.927729160593431,9.755765846597784,0.1719633139956479,2,0,0.3322780306632238,22,Luka Modrić,17,1,4.5,2
+5574,Toni Kroos,Real Madrid,False,32,2827.0,4840,10.167058654312946,9.839311879048608,0.3277467752643385,1,0,0.32367714145318893,23,Toni Kroos,17,1,4.5,3
+5201,Sergio Ramos García,Real Madrid,False,23,2002.0,2565,3.2743515949096658,3.8173947992427,-0.5430432043330341,2,0,0.14719862314778717,133,Sergio Ramos,20,0,6.0,5

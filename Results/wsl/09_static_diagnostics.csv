@@ -1,0 +1,2 @@
+dataset,eligible_players,bootstrap_draws,median_95pct_rank_interval_width,median_supported_rank_band_width,supported_pair_fraction_90pct,players_reordered_by_RAR,fraction_players_reordered_by_RAR,median_absolute_RAR_shift,max_absolute_RAR_shift,BT_fit_success,BT_pairwise_mae,BT_pairwise_rmse
+FA Women's Super League 2018/19-2020/21 longitudinal league cohort,46,3500,18.0,16.0,0.6231884057971014,11,0.2391304347826087,0.0,4,True,0.02511946598420281,0.038338221847225025

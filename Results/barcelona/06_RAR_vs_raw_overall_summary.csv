@@ -1,0 +1,5 @@
+experiment,players,minimum_matches_in_cohort,maximum_testable_n,tested_n_points,validation_reps_per_n,inner_bootstrap_draws,n_points_RAR_higher_median,n_points_equal_median,n_points_RAR_lower_median,pooled_median_RAR_minus_raw,pooled_mean_RAR_minus_raw,pooled_fraction_RAR_better,pooled_fraction_equal,pooled_fraction_RAR_worse,label
+primary_outfield,7,141,70,14,200,500,1,7,6,0.0,-0.003364547555122291,0.21392857142857144,0.4739285714285714,0.31214285714285717,Primary 2015/16–2019/20 — outfield only
+primary_all,8,137,68,14,200,500,3,3,8,0.0,-0.002423979954232095,0.24642857142857144,0.38392857142857145,0.36964285714285716,Primary 2015/16–2019/20 — all players
+validation_outfield,9,81,40,8,200,500,3,3,2,0.0,0.0033039396065878074,0.316875,0.41125,0.271875,Validation 2008/09–2012/13 — outfield only
+validation_all,10,81,40,8,200,500,7,1,0,0.0,0.01116694342483373,0.406875,0.37375,0.219375,Validation 2008/09–2012/13 — all players

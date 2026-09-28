@@ -1,0 +1,2 @@
+players,tested_n_values,reps_per_n,inner_bootstrap_draws,pooled_median_delta_spearman,pooled_mean_delta_spearman,pooled_fraction_RAR_higher_spearman,pooled_median_delta_kendall,pooled_median_delta_MAE,pooled_fraction_RAR_lower_MAE
+6,"5,8,10",200,500,0.0,-0.020322844245606167,0.11,0.0,0.0,0.065

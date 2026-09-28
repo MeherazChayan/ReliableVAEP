@@ -1,0 +1,34 @@
+ReliableVAEP / RAR new-team extension
+======================================================================
+
+Competition: Bayer Leverkusen — 1. Bundesliga 2023/24 team-season
+Target team: Bayer Leverkusen
+Selected team: Bayer Leverkusen
+Selection rule: manual
+
+Pre-RAR raw stability:
+Fixed-cohort minimum appearances: 24
+Fixed-cohort players: 12
+Mean of median Spearman curve: 0.1980
+Median Spearman at largest n: 0.2413
+First sustained 0.80 crossing: none
+Sustained stability demonstrated: False
+
+Static ReliableVAEP / RAR:
+Eligible players: 18
+Median 95% bootstrap rank-interval width: 11.00
+Median supported rank-band width: 12.00
+Supported pair fraction at 90%: 33.3%
+Players reordered by RAR: 7 (38.9%)
+Median absolute RAR shift: 0.00 ranks
+Maximum absolute RAR shift: 2 ranks
+
+Independent reproducibility test:
+Fixed validation players: 12
+Tested n values: 5,8,10,12
+Pooled median Spearman gain (RAR - raw): 0.0070
+Pooled mean Spearman gain (RAR - raw): 0.0111
+Replicates RAR better/equal/worse: 0.529 / 0.046 / 0.425
+
+Interpretation guardrail:
+The team is called unstable only if the pre-RAR raw-VAEP screen fails the declared sustained 0.80 criterion. RAR is described as improving reproducibility only if the independent non-overlapping-match validation shows a consistent positive gain.

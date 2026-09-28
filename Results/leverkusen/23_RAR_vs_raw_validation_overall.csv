@@ -1,0 +1,2 @@
+dataset,fixed_validation_players,validation_minimum_matches_required,tested_n_values,reps_per_n,inner_bootstrap_draws,pooled_median_RAR_minus_raw,pooled_mean_RAR_minus_raw,pooled_fraction_RAR_better,pooled_fraction_equal,pooled_fraction_RAR_worse,n_points_RAR_higher_median,n_points_equal_median,n_points_RAR_lower_median
+Bayer Leverkusen — Bundesliga 2023/24,12,24,"5,8,10,12",200,500,0.00699300699300702,0.011079066641869355,0.52875,0.04625,0.425,2,0,2

@@ -1,0 +1,16 @@
+player_i_id,player_i_name,player_j_id,player_j_name,P_i_above_j,support_status,BT_pred_P_i_above_j,ballon_relation,supported_direction_agrees_with_ballondor
+5207,Cristiano Ronaldo dos Santos Aveiro,6399,Gareth Frank Bale,0.012285714285714285,j_above_i_supported,0.0037658407936871805,i_above_j,0.0
+5207,Cristiano Ronaldo dos Santos Aveiro,20016,Kléper Laveran Lima Ferreira,0.7397142857142858,unresolved,0.8386927553664931,i_above_j,
+5207,Cristiano Ronaldo dos Santos Aveiro,5463,Luka Modrić,0.3008571428571429,unresolved,0.20858408309071474,i_above_j,
+5207,Cristiano Ronaldo dos Santos Aveiro,5574,Toni Kroos,0.31,unresolved,0.22281783746676292,i_above_j,
+5207,Cristiano Ronaldo dos Santos Aveiro,5201,Sergio Ramos García,0.698,unresolved,0.7875248753771046,i_above_j,
+6399,Gareth Frank Bale,20016,Kléper Laveran Lima Ferreira,0.9994285714285714,i_above_j_supported,0.9992734995657248,i_above_j,1.0
+6399,Gareth Frank Bale,5463,Luka Modrić,0.9908571428571429,i_above_j_supported,0.98586032164522,i_above_j,1.0
+6399,Gareth Frank Bale,5574,Toni Kroos,0.9931428571428571,i_above_j_supported,0.9869867811874234,i_above_j,1.0
+6399,Gareth Frank Bale,5201,Sergio Ramos García,0.9985714285714286,i_above_j_supported,0.9989811701958269,i_above_j,1.0
+20016,Kléper Laveran Lima Ferreira,5463,Luka Modrić,0.008,j_above_i_supported,0.04824502343888092,i_above_j,0.0
+20016,Kléper Laveran Lima Ferreira,5574,Toni Kroos,0.006285714285714286,j_above_i_supported,0.05225976246310472,i_above_j,0.0
+20016,Kléper Laveran Lima Ferreira,5201,Sergio Ramos García,0.4022857142857143,unresolved,0.4161827593046383,i_above_j,
+5463,Luka Modrić,5574,Toni Kroos,0.53,unresolved,0.5210278905431768,ballon_tie,
+5463,Luka Modrić,5201,Sergio Ramos García,0.982,i_above_j_supported,0.9336124230103429,i_above_j,1.0
+5574,Toni Kroos,5201,Sergio Ramos García,0.9848571428571429,i_above_j_supported,0.9282018318647705,i_above_j,1.0

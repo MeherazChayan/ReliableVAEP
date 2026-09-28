@@ -1,0 +1,4 @@
+season_id,season_name,official_played_matches,observed_statsbomb_matches,coverage_fraction,coverage_ok
+4,2018/2019,110,107,0.9727272727272728,True
+42,2019/2020,87,87,1.0,True
+90,2020/2021,131,131,1.0,True

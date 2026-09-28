@@ -1,0 +1,2 @@
+pairwise_support_threshold,mc_confidence,mc_half_width_target,analytical_min_B,independent_seeds,sustained_candidate_points,median_endpoint_dev_max,p95_endpoint_dev_max,median_rank_spearman_min,pair_class_agreement_min,datasets_tested,universal_min_B
+0.9,0.95,0.01,3461,8,3,1.0,2.0,0.995,0.99,5,

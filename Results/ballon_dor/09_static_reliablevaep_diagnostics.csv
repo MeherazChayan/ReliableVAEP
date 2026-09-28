@@ -1,0 +1,2 @@
+dataset,eligible_players,bootstrap_draws,median_95pct_rank_interval_width,median_supported_rank_band_width,supported_pair_fraction_90pct,players_reordered_by_RAR,fraction_players_reordered_by_RAR,median_absolute_RAR_shift,max_absolute_RAR_shift,BT_fit_success,BT_pairwise_mae,BT_pairwise_rmse
+La Liga 2015/16 — Real Madrid 2016 Ballon d'Or six-player cohort,6,3500,2.0,2.0,0.6,0,0.0,0.0,0,True,0.0401551510366436,0.05392600915955918

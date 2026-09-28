@@ -1,0 +1,1036 @@
+player_i_id,player_i_name,player_j_id,player_j_name,P_i_above_j,support_status,BT_pred_P_i_above_j
+15623,Vivianne Miedema,4647,So-Yun Ji,0.7217142857142858,unresolved,0.6586478928939399
+15623,Vivianne Miedema,10188,Caroline Weir,0.8971428571428571,unresolved,0.9039979825322146
+15623,Vivianne Miedema,18999,Leah Williamson,0.9691428571428572,i_above_j_supported,0.9396735193099447
+15623,Vivianne Miedema,10658,Danielle van de Donk,0.934,i_above_j_supported,0.9630801335728467
+15623,Vivianne Miedema,4643,Georgia Stanway,0.928,i_above_j_supported,0.9683121389170765
+15623,Vivianne Miedema,15620,Katie McCabe,0.9788571428571429,i_above_j_supported,0.9690636845755483
+15623,Vivianne Miedema,10185,Stephanie Houghton,0.9828571428571429,i_above_j_supported,0.9741332868630873
+15623,Vivianne Miedema,15619,Bethany Mead,0.9828571428571429,i_above_j_supported,0.9829166511385423
+15623,Vivianne Miedema,4658,Keira Walsh,0.9874285714285714,i_above_j_supported,0.9832053163615221
+15623,Vivianne Miedema,10251,Fara Williams,0.9805714285714285,i_above_j_supported,0.9885495230543542
+15623,Vivianne Miedema,4660,Erin Cuthbert,0.9837142857142858,i_above_j_supported,0.9891235202770188
+15623,Vivianne Miedema,15549,Sophie Louise Ingle,0.9942857142857143,i_above_j_supported,0.9894109958330919
+15623,Vivianne Miedema,4642,Millie Bright,0.9942857142857143,i_above_j_supported,0.9917579579894586
+15623,Vivianne Miedema,10222,Jonna Ann-Charlotte Andersson,0.9968571428571429,i_above_j_supported,0.9927846494196244
+15623,Vivianne Miedema,15550,Bethany England,0.9865714285714285,i_above_j_supported,0.9955340644245118
+15623,Vivianne Miedema,4633,Magdalena Lilly Eriksson,0.9991428571428571,i_above_j_supported,0.9968544550448015
+15623,Vivianne Miedema,18153,Alisha Lehmann,0.9982857142857143,i_above_j_supported,0.9985426339818338
+15623,Vivianne Miedema,15579,Inessa Kaagman,0.9994285714285714,i_above_j_supported,0.9987830607384329
+15623,Vivianne Miedema,15577,Angharad James,0.9997142857142857,i_above_j_supported,0.9988640212180326
+15623,Vivianne Miedema,15725,Natasha Harding,0.9997142857142857,i_above_j_supported,0.9991488037025659
+15623,Vivianne Miedema,16381,Gemma Evans,1.0,i_above_j_supported,0.9993035872663231
+15623,Vivianne Miedema,16386,Lucy Hope,0.9997142857142857,i_above_j_supported,0.9994958143379219
+15623,Vivianne Miedema,19501,Hayley Ladd,0.9991428571428571,i_above_j_supported,0.9994950899704002
+15623,Vivianne Miedema,20034,Danielle Buet,1.0,i_above_j_supported,0.9994875201513685
+15623,Vivianne Miedema,15564,Lucy Quinn,0.9997142857142857,i_above_j_supported,0.9996135323376352
+15623,Vivianne Miedema,15709,Megan Walsh,1.0,i_above_j_supported,0.9994670648937991
+15623,Vivianne Miedema,16374,Aileen Whelan,1.0,i_above_j_supported,0.9996686713318301
+15623,Vivianne Miedema,16376,Sophie Baggaley,1.0,i_above_j_supported,0.9996753694471759
+15623,Vivianne Miedema,16383,Danique Kerkdijk,1.0,i_above_j_supported,0.9997170918026029
+15623,Vivianne Miedema,22032,Hannah Hampton,1.0,i_above_j_supported,0.9998535927106488
+15623,Vivianne Miedema,18145,Ria Percival,1.0,i_above_j_supported,0.999856191212109
+15623,Vivianne Miedema,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.9998843788631323
+15623,Vivianne Miedema,16395,Victoria Williams,1.0,i_above_j_supported,0.9999008077775325
+15623,Vivianne Miedema,18254,Megan Finnigan,1.0,i_above_j_supported,0.9999130405906
+15623,Vivianne Miedema,15719,Grace Moloney,1.0,i_above_j_supported,0.9999276778071332
+15623,Vivianne Miedema,10193,Chloe Arthur,1.0,i_above_j_supported,0.9999499333124918
+15623,Vivianne Miedema,10172,Jill Scott,1.0,i_above_j_supported,0.9999542236362303
+15623,Vivianne Miedema,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9999642983927065
+15623,Vivianne Miedema,15563,Charlie Wellings,1.0,i_above_j_supported,0.9999601108937504
+15623,Vivianne Miedema,16384,Carla Humphrey,1.0,i_above_j_supported,0.999980300345696
+15623,Vivianne Miedema,21048,Rosella Ayane,1.0,i_above_j_supported,0.9999786607341896
+15623,Vivianne Miedema,18147,Kate Longhurst,1.0,i_above_j_supported,0.9999820988442397
+15623,Vivianne Miedema,10093,Yana Daniëls,1.0,i_above_j_supported,0.999986755369106
+15623,Vivianne Miedema,15580,Claudia Walker,1.0,i_above_j_supported,0.9999865853963059
+15623,Vivianne Miedema,16400,Kayleigh Green,1.0,i_above_j_supported,0.999988754910809
+4647,So-Yun Ji,10188,Caroline Weir,0.8162857142857143,unresolved,0.8299373549205833
+4647,So-Yun Ji,18999,Leah Williamson,0.9597142857142857,i_above_j_supported,0.889779107162072
+4647,So-Yun Ji,10658,Danielle van de Donk,0.886,unresolved,0.9311257691976543
+4647,So-Yun Ji,4643,Georgia Stanway,0.876,unresolved,0.9406068441003895
+4647,So-Yun Ji,15620,Katie McCabe,0.9748571428571429,i_above_j_supported,0.9419761056568157
+4647,So-Yun Ji,10185,Stephanie Houghton,0.9825714285714285,i_above_j_supported,0.9512613566426283
+4647,So-Yun Ji,15619,Bethany Mead,0.9742857142857143,i_above_j_supported,0.9675524758163261
+4647,So-Yun Ji,4658,Keira Walsh,0.99,i_above_j_supported,0.9680923288931684
+4647,So-Yun Ji,10251,Fara Williams,0.972,i_above_j_supported,0.9781386841175067
+4647,So-Yun Ji,4660,Erin Cuthbert,0.9811428571428571,i_above_j_supported,0.9792235944720339
+4647,So-Yun Ji,15549,Sophie Louise Ingle,0.9945714285714286,i_above_j_supported,0.9797673819794008
+4647,So-Yun Ji,4642,Millie Bright,0.9985714285714286,i_above_j_supported,0.9842176740622707
+4647,So-Yun Ji,10222,Jonna Ann-Charlotte Andersson,0.9997142857142857,i_above_j_supported,0.9861705429833438
+4647,So-Yun Ji,15550,Bethany England,0.9797142857142858,i_above_j_supported,0.9914184831648855
+4647,So-Yun Ji,4633,Magdalena Lilly Eriksson,1.0,i_above_j_supported,0.9939482824708797
+4647,So-Yun Ji,18153,Alisha Lehmann,0.996,i_above_j_supported,0.9971917780202886
+4647,So-Yun Ji,15579,Inessa Kaagman,1.0,i_above_j_supported,0.9976545367357655
+4647,So-Yun Ji,15577,Angharad James,1.0,i_above_j_supported,0.9978104110175401
+4647,So-Yun Ji,15725,Natasha Harding,1.0,i_above_j_supported,0.9983588927556039
+4647,So-Yun Ji,16381,Gemma Evans,1.0,i_above_j_supported,0.9986571225546109
+4647,So-Yun Ji,16386,Lucy Hope,0.9997142857142857,i_above_j_supported,0.9990276161799356
+4647,So-Yun Ji,19501,Hayley Ladd,1.0,i_above_j_supported,0.9990262198037806
+4647,So-Yun Ji,20034,Danielle Buet,1.0,i_above_j_supported,0.9990116274414499
+4647,So-Yun Ji,15564,Lucy Quinn,0.9994285714285714,i_above_j_supported,0.999254568236291
+4647,So-Yun Ji,15709,Megan Walsh,1.0,i_above_j_supported,0.9989721968081768
+4647,So-Yun Ji,16374,Aileen Whelan,1.0,i_above_j_supported,0.9993608894293393
+4647,So-Yun Ji,16376,Sophie Baggaley,1.0,i_above_j_supported,0.9993738057428614
+4647,So-Yun Ji,16383,Danique Kerkdijk,1.0,i_above_j_supported,0.9994542646845488
+4647,So-Yun Ji,22032,Hannah Hampton,1.0,i_above_j_supported,0.9997175417136922
+4647,So-Yun Ji,18145,Ria Percival,1.0,i_above_j_supported,0.9997225542385006
+4647,So-Yun Ji,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.9997769299412059
+4647,So-Yun Ji,16395,Victoria Williams,1.0,i_above_j_supported,0.9998086236360667
+4647,So-Yun Ji,18254,Megan Finnigan,1.0,i_above_j_supported,0.9998322230878313
+4647,So-Yun Ji,15719,Grace Moloney,1.0,i_above_j_supported,0.9998604618020719
+4647,So-Yun Ji,10193,Chloe Arthur,1.0,i_above_j_supported,0.9999033995017039
+4647,So-Yun Ji,10172,Jill Scott,1.0,i_above_j_supported,0.9999116770570504
+4647,So-Yun Ji,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9999311150931806
+4647,So-Yun Ji,15563,Charlie Wellings,1.0,i_above_j_supported,0.9999230357712023
+4647,So-Yun Ji,16384,Carla Humphrey,1.0,i_above_j_supported,0.9999619896935158
+4647,So-Yun Ji,21048,Rosella Ayane,1.0,i_above_j_supported,0.9999588261405541
+4647,So-Yun Ji,18147,Kate Longhurst,1.0,i_above_j_supported,0.999965459822601
+4647,So-Yun Ji,10093,Yana Daniëls,1.0,i_above_j_supported,0.9999744444500193
+4647,So-Yun Ji,15580,Claudia Walker,1.0,i_above_j_supported,0.9999741164911462
+4647,So-Yun Ji,16400,Kayleigh Green,1.0,i_above_j_supported,0.9999783025306427
+10188,Caroline Weir,18999,Leah Williamson,0.712,unresolved,0.6232353317146526
+10188,Caroline Weir,10658,Danielle van de Donk,0.6568571428571428,unresolved,0.7347639110125761
+10188,Caroline Weir,4643,Georgia Stanway,0.6674285714285715,unresolved,0.7644373012153426
+10188,Caroline Weir,15620,Katie McCabe,0.7951428571428572,unresolved,0.7688700137813138
+10188,Caroline Weir,10185,Stephanie Houghton,0.8397142857142857,unresolved,0.7999742260822764
+10188,Caroline Weir,15619,Bethany Mead,0.838,unresolved,0.8593573015986375
+10188,Caroline Weir,4658,Keira Walsh,0.898,unresolved,0.8614394860658551
+10188,Caroline Weir,10251,Fara Williams,0.8622857142857143,unresolved,0.9016549269163995
+10188,Caroline Weir,4660,Erin Cuthbert,0.8808571428571429,unresolved,0.9061713918216523
+10188,Caroline Weir,15549,Sophie Louise Ingle,0.9317142857142857,i_above_j_supported,0.9084484356564702
+10188,Caroline Weir,4642,Millie Bright,0.9514285714285714,i_above_j_supported,0.9274237623741869
+10188,Caroline Weir,10222,Jonna Ann-Charlotte Andersson,0.9694285714285714,i_above_j_supported,0.9359468251190258
+10188,Caroline Weir,15550,Bethany England,0.9011428571428571,i_above_j_supported,0.95947015879172
+10188,Caroline Weir,4633,Magdalena Lilly Eriksson,0.9885714285714285,i_above_j_supported,0.9711440809315608
+10188,Caroline Weir,18153,Alisha Lehmann,0.972,i_above_j_supported,0.9864430761459764
+10188,Caroline Weir,15579,Inessa Kaagman,0.9914285714285714,i_above_j_supported,0.988656934162089
+10188,Caroline Weir,15577,Angharad James,0.9965714285714286,i_above_j_supported,0.9894044185004127
+10188,Caroline Weir,15725,Natasha Harding,0.9977142857142857,i_above_j_supported,0.9920417676975432
+10188,Caroline Weir,16381,Gemma Evans,0.9991428571428571,i_above_j_supported,0.9934804788811498
+10188,Caroline Weir,16386,Lucy Hope,0.9937142857142857,i_above_j_supported,0.9952724232968662
+10188,Caroline Weir,19501,Hayley Ladd,0.9988571428571429,i_above_j_supported,0.9952656598915081
+10188,Caroline Weir,20034,Danielle Buet,0.998,i_above_j_supported,0.9951949855523005
+10188,Caroline Weir,15564,Lucy Quinn,0.9888571428571429,i_above_j_supported,0.9963726460849149
+10188,Caroline Weir,15709,Megan Walsh,0.9991428571428571,i_above_j_supported,0.9950040533334273
+10188,Caroline Weir,16374,Aileen Whelan,0.9988571428571429,i_above_j_supported,0.9968887370045566
+10188,Caroline Weir,16376,Sophie Baggaley,0.9997142857142857,i_above_j_supported,0.9969514626810654
+10188,Caroline Weir,16383,Danique Kerkdijk,1.0,i_above_j_supported,0.9973423378494497
+10188,Caroline Weir,22032,Hannah Hampton,1.0,i_above_j_supported,0.9986230601135241
+10188,Caroline Weir,18145,Ria Percival,1.0,i_above_j_supported,0.9986474691092483
+10188,Caroline Weir,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.9989123180487547
+10188,Caroline Weir,16395,Victoria Williams,1.0,i_above_j_supported,0.9990667407466406
+10188,Caroline Weir,18254,Megan Finnigan,1.0,i_above_j_supported,0.9991817501323147
+10188,Caroline Weir,15719,Grace Moloney,1.0,i_above_j_supported,0.9993193961296621
+10188,Caroline Weir,10193,Chloe Arthur,1.0,i_above_j_supported,0.9995287482302581
+10188,Caroline Weir,10172,Jill Scott,1.0,i_above_j_supported,0.9995691152706728
+10188,Caroline Weir,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9996639186658606
+10188,Caroline Weir,15563,Charlie Wellings,1.0,i_above_j_supported,0.9996245123751516
+10188,Caroline Weir,16384,Carla Humphrey,1.0,i_above_j_supported,0.9998145299854521
+10188,Caroline Weir,21048,Rosella Ayane,1.0,i_above_j_supported,0.9997990960007389
+10188,Caroline Weir,18147,Kate Longhurst,1.0,i_above_j_supported,0.9998314600948244
+10188,Caroline Weir,10093,Yana Daniëls,1.0,i_above_j_supported,0.9998752965260984
+10188,Caroline Weir,15580,Claudia Walker,0.9994285714285714,i_above_j_supported,0.9998736963451681
+10188,Caroline Weir,16400,Kayleigh Green,1.0,i_above_j_supported,0.9998941212258142
+18999,Leah Williamson,10658,Danielle van de Donk,0.5228571428571429,unresolved,0.6261242920304094
+18999,Leah Williamson,4643,Georgia Stanway,0.5474285714285714,unresolved,0.6623668214464556
+18999,Leah Williamson,15620,Katie McCabe,0.6977142857142857,unresolved,0.6678857839430853
+18999,Leah Williamson,10185,Stephanie Houghton,0.766,unresolved,0.7074082953295433
+18999,Leah Williamson,15619,Bethany Mead,0.7668571428571429,unresolved,0.7869535066256944
+18999,Leah Williamson,4658,Keira Walsh,0.88,unresolved,0.7898454764889434
+18999,Leah Williamson,10251,Fara Williams,0.7968571428571428,unresolved,0.8471532749380758
+18999,Leah Williamson,4660,Erin Cuthbert,0.8434285714285714,unresolved,0.8537667705662443
+18999,Leah Williamson,15549,Sophie Louise Ingle,0.9362857142857143,i_above_j_supported,0.8571150448323149
+18999,Leah Williamson,4642,Millie Bright,0.9585714285714285,i_above_j_supported,0.8853876102015057
+18999,Leah Williamson,10222,Jonna Ann-Charlotte Andersson,0.99,i_above_j_supported,0.8983059258649566
+18999,Leah Williamson,15550,Bethany England,0.8674285714285714,unresolved,0.9346881390513029
+18999,Leah Williamson,4633,Magdalena Lilly Eriksson,0.9997142857142857,i_above_j_supported,0.9531515631558488
+18999,Leah Williamson,18153,Alisha Lehmann,0.968,i_above_j_supported,0.9777715879975354
+18999,Leah Williamson,15579,Inessa Kaagman,0.9977142857142857,i_above_j_supported,0.981374770980028
+18999,Leah Williamson,15577,Angharad James,1.0,i_above_j_supported,0.9825936858911763
+18999,Leah Williamson,15725,Natasha Harding,0.9997142857142857,i_above_j_supported,0.9869038573336296
+18999,Leah Williamson,16381,Gemma Evans,1.0,i_above_j_supported,0.9892613595671793
+18999,Leah Williamson,16386,Lucy Hope,0.9977142857142857,i_above_j_supported,0.992203863700299
+18999,Leah Williamson,19501,Hayley Ladd,0.9994285714285714,i_above_j_supported,0.9921927447629285
+18999,Leah Williamson,20034,Danielle Buet,1.0,i_above_j_supported,0.9920765630724522
+18999,Leah Williamson,15564,Lucy Quinn,0.9894285714285714,i_above_j_supported,0.9940139202594539
+18999,Leah Williamson,15709,Megan Walsh,1.0,i_above_j_supported,0.9917627427485572
+18999,Leah Williamson,16374,Aileen Whelan,1.0,i_above_j_supported,0.9948638749141133
+18999,Leah Williamson,16376,Sophie Baggaley,1.0,i_above_j_supported,0.9949672174178392
+18999,Leah Williamson,16383,Danique Kerkdijk,1.0,i_above_j_supported,0.9956113871791562
+18999,Leah Williamson,22032,Hannah Hampton,1.0,i_above_j_supported,0.9977243479577447
+18999,Leah Williamson,18145,Ria Percival,1.0,i_above_j_supported,0.9977646527508919
+18999,Leah Williamson,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.998202061169156
+18999,Leah Williamson,16395,Victoria Williams,1.0,i_above_j_supported,0.9984571662232069
+18999,Leah Williamson,18254,Megan Finnigan,1.0,i_above_j_supported,0.998647194272503
+18999,Leah Williamson,15719,Grace Moloney,1.0,i_above_j_supported,0.9988746619829679
+18999,Leah Williamson,10193,Chloe Arthur,1.0,i_above_j_supported,0.9992207065496783
+18999,Leah Williamson,10172,Jill Scott,1.0,i_above_j_supported,0.999287441377155
+18999,Leah Williamson,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9994441842910196
+18999,Leah Williamson,15563,Charlie Wellings,1.0,i_above_j_supported,0.9993790296559767
+18999,Leah Williamson,16384,Carla Humphrey,1.0,i_above_j_supported,0.9996932370449273
+18999,Leah Williamson,21048,Rosella Ayane,1.0,i_above_j_supported,0.9996677129589833
+18999,Leah Williamson,18147,Kate Longhurst,1.0,i_above_j_supported,0.9997212359526992
+18999,Leah Williamson,10093,Yana Daniëls,1.0,i_above_j_supported,0.9997937352470572
+18999,Leah Williamson,15580,Claudia Walker,1.0,i_above_j_supported,0.9997910886996516
+18999,Leah Williamson,16400,Kayleigh Green,1.0,i_above_j_supported,0.9998248699299349
+10658,Danielle van de Donk,4643,Georgia Stanway,0.5131428571428571,unresolved,0.5394761642040067
+10658,Danielle van de Donk,15620,Katie McCabe,0.596,unresolved,0.5456259108657189
+10658,Danielle van de Donk,10185,Stephanie Houghton,0.6288571428571429,unresolved,0.590783284552118
+10658,Danielle van de Donk,15619,Bethany Mead,0.6851428571428572,unresolved,0.6880531482355474
+10658,Danielle van de Donk,4658,Keira Walsh,0.704,unresolved,0.6917617859589148
+10658,Danielle van de Donk,10251,Fara Williams,0.7114285714285714,unresolved,0.7679586902241785
+10658,Danielle van de Donk,4660,Erin Cuthbert,0.7371428571428571,unresolved,0.777097220375081
+10658,Danielle van de Donk,15549,Sophie Louise Ingle,0.7802857142857142,unresolved,0.7817522285475453
+10658,Danielle van de Donk,4642,Millie Bright,0.8097142857142857,unresolved,0.8218371328807649
+10658,Danielle van de Donk,10222,Jonna Ann-Charlotte Andersson,0.8522857142857143,unresolved,0.8406290747168741
+10658,Danielle van de Donk,15550,Bethany England,0.7968571428571428,unresolved,0.8952394340426256
+10658,Danielle van de Donk,4633,Magdalena Lilly Eriksson,0.9262857142857143,i_above_j_supported,0.9239474602951703
+10658,Danielle van de Donk,18153,Alisha Lehmann,0.9062857142857143,i_above_j_supported,0.963324427433302
+10658,Danielle van de Donk,15579,Inessa Kaagman,0.9505714285714286,i_above_j_supported,0.969195688162791
+10658,Danielle van de Donk,15577,Angharad James,0.976,i_above_j_supported,0.9711882542369847
+10658,Danielle van de Donk,15725,Natasha Harding,0.9717142857142858,i_above_j_supported,0.9782601658787863
+10658,Danielle van de Donk,16381,Gemma Evans,0.9857142857142858,i_above_j_supported,0.9821455121655794
+10658,Danielle van de Donk,16386,Lucy Hope,0.966,i_above_j_supported,0.9870122370983159
+10658,Danielle van de Donk,19501,Hayley Ladd,0.9797142857142858,i_above_j_supported,0.9869938108637757
+10658,Danielle van de Donk,20034,Danielle Buet,0.988,i_above_j_supported,0.9868012917303135
+10658,Danielle van de Donk,15564,Lucy Quinn,0.9622857142857143,i_above_j_supported,0.9900155225456906
+10658,Danielle van de Donk,15709,Megan Walsh,0.9905714285714285,i_above_j_supported,0.9862814250829653
+10658,Danielle van de Donk,16374,Aileen Whelan,0.9908571428571429,i_above_j_supported,0.9914283081251224
+10658,Danielle van de Donk,16376,Sophie Baggaley,0.9948571428571429,i_above_j_supported,0.9916001930423106
+10658,Danielle van de Donk,16383,Danique Kerkdijk,0.9954285714285714,i_above_j_supported,0.9926721502606655
+10658,Danielle van de Donk,22032,Hannah Hampton,0.9974285714285714,i_above_j_supported,0.9961948403767891
+10658,Danielle van de Donk,18145,Ria Percival,0.998,i_above_j_supported,0.9962621332742727
+10658,Danielle van de Donk,18151,Gilly Louise Scarlett Flaherty,0.9971428571428571,i_above_j_supported,0.9969926656247118
+10658,Danielle van de Donk,16395,Victoria Williams,0.9968571428571429,i_above_j_supported,0.9974189250892372
+10658,Danielle van de Donk,18254,Megan Finnigan,0.9977142857142857,i_above_j_supported,0.9977365415290681
+10658,Danielle van de Donk,15719,Grace Moloney,0.9982857142857143,i_above_j_supported,0.9981168423307604
+10658,Danielle van de Donk,10193,Chloe Arthur,0.9985714285714286,i_above_j_supported,0.9986956142403283
+10658,Danielle van de Donk,10172,Jill Scott,0.9988571428571429,i_above_j_supported,0.9988072616949967
+10658,Danielle van de Donk,4637,Ellie Roebuck,0.9997142857142857,i_above_j_supported,0.9990695323209446
+10658,Danielle van de Donk,15563,Charlie Wellings,0.9974285714285714,i_above_j_supported,0.9989605053672821
+10658,Danielle van de Donk,16384,Carla Humphrey,0.9994285714285714,i_above_j_supported,0.9994863747780739
+10658,Danielle van de Donk,21048,Rosella Ayane,0.9985714285714286,i_above_j_supported,0.9994436483808039
+10658,Danielle van de Donk,18147,Kate Longhurst,0.9994285714285714,i_above_j_supported,0.9995332456298109
+10658,Danielle van de Donk,10093,Yana Daniëls,0.9997142857142857,i_above_j_supported,0.9996546194376719
+10658,Danielle van de Donk,15580,Claudia Walker,0.9985714285714286,i_above_j_supported,0.9996501885438854
+10658,Danielle van de Donk,16400,Kayleigh Green,0.9997142857142857,i_above_j_supported,0.9997067468306924
+4643,Georgia Stanway,15620,Katie McCabe,0.5674285714285714,unresolved,0.5061943743026719
+4643,Georgia Stanway,10185,Stephanie Houghton,0.6097142857142858,unresolved,0.5520533099278138
+4643,Georgia Stanway,15619,Bethany Mead,0.6517142857142857,unresolved,0.6531239172676616
+4643,Georgia Stanway,4658,Keira Walsh,0.6962857142857143,unresolved,0.6570408305093123
+4643,Georgia Stanway,10251,Fara Williams,0.6888571428571428,unresolved,0.7385771860270008
+4643,Georgia Stanway,4660,Erin Cuthbert,0.7148571428571429,unresolved,0.7484938918699707
+4643,Georgia Stanway,15549,Sophie Louise Ingle,0.7494285714285714,unresolved,0.7535568037417136
+4643,Georgia Stanway,4642,Millie Bright,0.7868571428571428,unresolved,0.7974787125056026
+4643,Georgia Stanway,10222,Jonna Ann-Charlotte Andersson,0.8182857142857143,unresolved,0.8182717677123161
+4643,Georgia Stanway,15550,Bethany England,0.7674285714285715,unresolved,0.8794444540684713
+4643,Georgia Stanway,4633,Magdalena Lilly Eriksson,0.904,i_above_j_supported,0.9120556522653308
+4643,Georgia Stanway,18153,Alisha Lehmann,0.8848571428571429,unresolved,0.9573052083121874
+4643,Georgia Stanway,15579,Inessa Kaagman,0.9357142857142857,i_above_j_supported,0.9641041582884052
+4643,Georgia Stanway,15577,Angharad James,0.9611428571428572,i_above_j_supported,0.9664146554957808
+4643,Georgia Stanway,15725,Natasha Harding,0.9588571428571429,i_above_j_supported,0.974627647818342
+4643,Georgia Stanway,16381,Gemma Evans,0.9745714285714285,i_above_j_supported,0.9791483604538502
+4643,Georgia Stanway,16386,Lucy Hope,0.9565714285714285,i_above_j_supported,0.9848194130679703
+4643,Georgia Stanway,19501,Hayley Ladd,0.9691428571428572,i_above_j_supported,0.9847979237069953
+4643,Georgia Stanway,20034,Danielle Buet,0.9751428571428571,i_above_j_supported,0.9845734088249348
+4643,Georgia Stanway,15564,Lucy Quinn,0.9454285714285714,i_above_j_supported,0.9883237677766883
+4643,Georgia Stanway,15709,Megan Walsh,0.984,i_above_j_supported,0.9839672167263462
+4643,Georgia Stanway,16374,Aileen Whelan,0.9828571428571429,i_above_j_supported,0.9899735092596119
+4643,Georgia Stanway,16376,Sophie Baggaley,0.9871428571428571,i_above_j_supported,0.9901742775924757
+4643,Georgia Stanway,16383,Danique Kerkdijk,0.986,i_above_j_supported,0.9914266323832529
+4643,Georgia Stanway,22032,Hannah Hampton,0.9934285714285714,i_above_j_supported,0.9955453888022994
+4643,Georgia Stanway,18145,Ria Percival,0.9911428571428571,i_above_j_supported,0.9956241165699916
+4643,Georgia Stanway,18151,Gilly Louise Scarlett Flaherty,0.9937142857142857,i_above_j_supported,0.996478902823679
+4643,Georgia Stanway,16395,Victoria Williams,0.9948571428571429,i_above_j_supported,0.9969777622634751
+4643,Georgia Stanway,18254,Megan Finnigan,0.9948571428571429,i_above_j_supported,0.9973495221216174
+4643,Georgia Stanway,15719,Grace Moloney,0.9954285714285714,i_above_j_supported,0.9977947052583829
+4643,Georgia Stanway,10193,Chloe Arthur,0.996,i_above_j_supported,0.99847233162382
+4643,Georgia Stanway,10172,Jill Scott,0.9977142857142857,i_above_j_supported,0.9986030639742016
+4643,Georgia Stanway,4637,Ellie Roebuck,0.998,i_above_j_supported,0.9989101865421882
+4643,Georgia Stanway,15563,Charlie Wellings,0.9951428571428571,i_above_j_supported,0.9987825111022727
+4643,Georgia Stanway,16384,Carla Humphrey,0.9985714285714286,i_above_j_supported,0.9993983717109676
+4643,Georgia Stanway,21048,Rosella Ayane,0.9971428571428571,i_above_j_supported,0.9993483294688555
+4643,Georgia Stanway,18147,Kate Longhurst,0.9985714285714286,i_above_j_supported,0.9994532688866291
+4643,Georgia Stanway,10093,Yana Daniëls,0.9985714285714286,i_above_j_supported,0.9995954312579493
+4643,Georgia Stanway,15580,Claudia Walker,0.9982857142857143,i_above_j_supported,0.9995902413491304
+4643,Georgia Stanway,16400,Kayleigh Green,0.9988571428571429,i_above_j_supported,0.9996564886998279
+15620,Katie McCabe,10185,Stephanie Houghton,0.5637142857142857,unresolved,0.5459181586042521
+15620,Katie McCabe,15619,Bethany Mead,0.63,unresolved,0.6474891207351262
+15620,Katie McCabe,4658,Keira Walsh,0.6874285714285714,unresolved,0.6514357044567151
+15620,Katie McCabe,10251,Fara Williams,0.6728571428571428,unresolved,0.7337646755012461
+15620,Katie McCabe,4660,Erin Cuthbert,0.7162857142857143,unresolved,0.7438006117604946
+15620,Katie McCabe,15549,Sophie Louise Ingle,0.7925714285714286,unresolved,0.7489263097260426
+15620,Katie McCabe,4642,Millie Bright,0.8397142857142857,unresolved,0.793447272897166
+15620,Katie McCabe,10222,Jonna Ann-Charlotte Andersson,0.8902857142857142,unresolved,0.8145579907530902
+15620,Katie McCabe,15550,Bethany England,0.7817142857142857,unresolved,0.8767925643525765
+15620,Katie McCabe,4633,Magdalena Lilly Eriksson,0.9777142857142858,i_above_j_supported,0.9100477456190846
+15620,Katie McCabe,18153,Alisha Lehmann,0.9197142857142857,i_above_j_supported,0.9562808974308469
+15620,Katie McCabe,15579,Inessa Kaagman,0.9791428571428571,i_above_j_supported,0.9632367000628059
+15620,Katie McCabe,15577,Angharad James,0.9971428571428571,i_above_j_supported,0.965601040509433
+15620,Katie McCabe,15725,Natasha Harding,0.9922857142857143,i_above_j_supported,0.974007643801678
+15620,Katie McCabe,16381,Gemma Evans,1.0,i_above_j_supported,0.9786364040465582
+15620,Katie McCabe,16386,Lucy Hope,0.9868571428571429,i_above_j_supported,0.9844444821983445
+15620,Katie McCabe,19501,Hayley Ladd,0.9971428571428571,i_above_j_supported,0.9844224704872371
+15620,Katie McCabe,20034,Danielle Buet,0.9991428571428571,i_above_j_supported,0.9841924996547002
+15620,Katie McCabe,15564,Lucy Quinn,0.9702857142857143,i_above_j_supported,0.9880343360282287
+15620,Katie McCabe,15709,Megan Walsh,1.0,i_above_j_supported,0.9835715893787182
+15620,Katie McCabe,16374,Aileen Whelan,0.9997142857142857,i_above_j_supported,0.9897245463187653
+15620,Katie McCabe,16376,Sophie Baggaley,1.0,i_above_j_supported,0.9899302491250153
+15620,Katie McCabe,16383,Danique Kerkdijk,0.9994285714285714,i_above_j_supported,0.9912134309935344
+15620,Katie McCabe,22032,Hannah Hampton,1.0,i_above_j_supported,0.9954341404101287
+15620,Katie McCabe,18145,Ria Percival,0.9997142857142857,i_above_j_supported,0.9955148254483308
+15620,Katie McCabe,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.9963908832697799
+15620,Katie McCabe,16395,Victoria Williams,1.0,i_above_j_supported,0.9969021743122529
+15620,Katie McCabe,18254,Megan Finnigan,1.0,i_above_j_supported,0.9972832067669319
+15620,Katie McCabe,15719,Grace Moloney,1.0,i_above_j_supported,0.9977395032070899
+15620,Katie McCabe,10193,Chloe Arthur,1.0,i_above_j_supported,0.9984340650230494
+15620,Katie McCabe,10172,Jill Scott,1.0,i_above_j_supported,0.9985680673947741
+15620,Katie McCabe,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9988828755082889
+15620,Katie McCabe,15563,Charlie Wellings,1.0,i_above_j_supported,0.9987520044831115
+15620,Katie McCabe,16384,Carla Humphrey,1.0,i_above_j_supported,0.9993832871825247
+15620,Katie McCabe,21048,Rosella Ayane,1.0,i_above_j_supported,0.9993319910780546
+15620,Katie McCabe,18147,Kate Longhurst,1.0,i_above_j_supported,0.9994395600142918
+15620,Katie McCabe,10093,Yana Daniëls,1.0,i_above_j_supported,0.9995852855212719
+15620,Katie McCabe,15580,Claudia Walker,1.0,i_above_j_supported,0.9995799655151003
+15620,Katie McCabe,16400,Kayleigh Green,1.0,i_above_j_supported,0.9996478736165157
+10185,Stephanie Houghton,15619,Bethany Mead,0.5805714285714285,unresolved,0.6043991041453068
+10185,Stephanie Houghton,4658,Keira Walsh,0.6428571428571429,unresolved,0.6085364430345888
+10185,Stephanie Houghton,10251,Fara Williams,0.6422857142857142,unresolved,0.6962737612176694
+10185,Stephanie Houghton,4660,Erin Cuthbert,0.6751428571428572,unresolved,0.7071589264339394
+10185,Stephanie Houghton,15549,Sophie Louise Ingle,0.7568571428571429,unresolved,0.7127345783732761
+10185,Stephanie Houghton,4642,Millie Bright,0.8214285714285714,unresolved,0.7616305381761831
+10185,Stephanie Houghton,10222,Jonna Ann-Charlotte Andersson,0.8691428571428571,unresolved,0.7851123991147778
+10185,Stephanie Houghton,15550,Bethany England,0.7551428571428571,unresolved,0.8554756234094905
+10185,Stephanie Houghton,4633,Magdalena Lilly Eriksson,0.9737142857142858,i_above_j_supported,0.8937875164864972
+10185,Stephanie Houghton,18153,Alisha Lehmann,0.9117142857142857,i_above_j_supported,0.947899549304462
+10185,Stephanie Houghton,15579,Inessa Kaagman,0.9731428571428572,i_above_j_supported,0.956127664346692
+10185,Stephanie Houghton,15577,Angharad James,0.9971428571428571,i_above_j_supported,0.9589297107919923
+10185,Stephanie Houghton,15725,Natasha Harding,0.9928571428571429,i_above_j_supported,0.9689142026075086
+10185,Stephanie Houghton,16381,Gemma Evans,1.0,i_above_j_supported,0.9744261952854887
+10185,Stephanie Houghton,16386,Lucy Hope,0.9837142857142858,i_above_j_supported,0.9813570895833721
+10185,Stephanie Houghton,19501,Hayley Ladd,0.996,i_above_j_supported,0.9813307919326655
+10185,Stephanie Houghton,20034,Danielle Buet,0.9985714285714286,i_above_j_supported,0.9810560570256932
+10185,Stephanie Houghton,15564,Lucy Quinn,0.9642857142857143,i_above_j_supported,0.9856490556413176
+10185,Stephanie Houghton,15709,Megan Walsh,1.0,i_above_j_supported,0.9803144131112057
+10185,Stephanie Houghton,16374,Aileen Whelan,1.0,i_above_j_supported,0.9876719947839202
+10185,Stephanie Houghton,16376,Sophie Baggaley,1.0,i_above_j_supported,0.9879182857311005
+10185,Stephanie Houghton,16383,Danique Kerkdijk,1.0,i_above_j_supported,0.9894551197681569
+10185,Stephanie Houghton,22032,Hannah Hampton,1.0,i_above_j_supported,0.9945157770390507
+10185,Stephanie Houghton,18145,Ria Percival,1.0,i_above_j_supported,0.9946126029932973
+10185,Stephanie Houghton,18151,Gilly Louise Scarlett Flaherty,1.0,i_above_j_supported,0.9956641180934261
+10185,Stephanie Houghton,16395,Victoria Williams,1.0,i_above_j_supported,0.9962779828357139
+10185,Stephanie Houghton,18254,Megan Finnigan,1.0,i_above_j_supported,0.9967355394113514
+10185,Stephanie Houghton,15719,Grace Moloney,1.0,i_above_j_supported,0.9972835682585885
+10185,Stephanie Houghton,10193,Chloe Arthur,1.0,i_above_j_supported,0.9981179567093003
+10185,Stephanie Houghton,10172,Jill Scott,1.0,i_above_j_supported,0.998278962914635
+10185,Stephanie Houghton,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9986572447230689
+10185,Stephanie Houghton,15563,Charlie Wellings,1.0,i_above_j_supported,0.9984999807672115
+10185,Stephanie Houghton,16384,Carla Humphrey,1.0,i_above_j_supported,0.99925865183861
+10185,Stephanie Houghton,21048,Rosella Ayane,1.0,i_above_j_supported,0.9991969973137701
+10185,Stephanie Houghton,18147,Kate Longhurst,1.0,i_above_j_supported,0.9993262895317861
+10185,Stephanie Houghton,10093,Yana Daniëls,1.0,i_above_j_supported,0.9995014529180722
+10185,Stephanie Houghton,15580,Claudia Walker,1.0,i_above_j_supported,0.9994950580406418
+10185,Stephanie Houghton,16400,Kayleigh Green,1.0,i_above_j_supported,0.9995766875477714
+15619,Bethany Mead,4658,Keira Walsh,0.5151428571428571,unresolved,0.504333764283812
+15619,Bethany Mead,10251,Fara Williams,0.56,unresolved,0.6000773160827547
+15619,Bethany Mead,4660,Erin Cuthbert,0.5862857142857143,unresolved,0.6124913136977624
+15619,Bethany Mead,15549,Sophie Louise Ingle,0.63,unresolved,0.6188980431861275
+15619,Bethany Mead,4642,Millie Bright,0.6871428571428572,unresolved,0.6765169674509456
+15619,Bethany Mead,10222,Jonna Ann-Charlotte Andersson,0.7331428571428571,unresolved,0.7051373397192182
+15619,Bethany Mead,15550,Bethany England,0.6851428571428572,unresolved,0.7948448678396264
+15619,Bethany Mead,4633,Magdalena Lilly Eriksson,0.872,unresolved,0.8463424365672385
+15619,Bethany Mead,18153,Alisha Lehmann,0.8545714285714285,unresolved,0.9225312093605155
+15619,Bethany Mead,15579,Inessa Kaagman,0.9185714285714286,i_above_j_supported,0.9344888051949326
+15619,Bethany Mead,15577,Angharad James,0.96,i_above_j_supported,0.938584112708008
+15619,Bethany Mead,15725,Natasha Harding,0.9537142857142857,i_above_j_supported,0.9532737559935733
+15619,Bethany Mead,16381,Gemma Evans,0.9862857142857143,i_above_j_supported,0.9614486975669387
+15619,Bethany Mead,16386,Lucy Hope,0.9554285714285714,i_above_j_supported,0.971794889544099
+15619,Bethany Mead,19501,Hayley Ladd,0.9745714285714285,i_above_j_supported,0.9717554916850435
+15619,Bethany Mead,20034,Danielle Buet,0.9854285714285714,i_above_j_supported,0.9713439619814216
+15619,Bethany Mead,15564,Lucy Quinn,0.9357142857142857,i_above_j_supported,0.9782394489771278
+15619,Bethany Mead,15709,Megan Walsh,0.9942857142857143,i_above_j_supported,0.9702336318097299
+15619,Bethany Mead,16374,Aileen Whelan,0.9891428571428571,i_above_j_supported,0.9812870319996994
+15619,Bethany Mead,16376,Sophie Baggaley,0.9962857142857143,i_above_j_supported,0.9816585139594358
+15619,Bethany Mead,16383,Danique Kerkdijk,0.9934285714285714,i_above_j_supported,0.9839786984872292
+15619,Bethany Mead,22032,Hannah Hampton,0.9994285714285714,i_above_j_supported,0.9916453864356987
+15619,Bethany Mead,18145,Ria Percival,0.9988571428571429,i_above_j_supported,0.9917924719486331
+15619,Bethany Mead,18151,Gilly Louise Scarlett Flaherty,0.9991428571428571,i_above_j_supported,0.9933907641133468
+15619,Bethany Mead,16395,Victoria Williams,0.9977142857142857,i_above_j_supported,0.9943246507713773
+15619,Bethany Mead,18254,Megan Finnigan,0.9991428571428571,i_above_j_supported,0.9950211351533016
+15619,Bethany Mead,15719,Grace Moloney,0.9997142857142857,i_above_j_supported,0.9958557769142812
+15619,Bethany Mead,10193,Chloe Arthur,0.9997142857142857,i_above_j_supported,0.9971274674059482
+15619,Bethany Mead,10172,Jill Scott,0.9997142857142857,i_above_j_supported,0.9973729855840219
+15619,Bethany Mead,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9979499911541038
+15619,Bethany Mead,15563,Charlie Wellings,0.9982857142857143,i_above_j_supported,0.9977100833565942
+15619,Bethany Mead,16384,Carla Humphrey,1.0,i_above_j_supported,0.9988678111820887
+15619,Bethany Mead,21048,Rosella Ayane,0.9997142857142857,i_above_j_supported,0.998773692123257
+15619,Bethany Mead,18147,Kate Longhurst,0.9997142857142857,i_above_j_supported,0.998971070923427
+15619,Bethany Mead,10093,Yana Daniëls,1.0,i_above_j_supported,0.9992385200690064
+15619,Bethany Mead,15580,Claudia Walker,1.0,i_above_j_supported,0.9992287551469659
+15619,Bethany Mead,16400,Kayleigh Green,0.9994285714285714,i_above_j_supported,0.9993534076406333
+4658,Keira Walsh,10251,Fara Williams,0.5405714285714286,unresolved,0.5959099407753123
+4658,Keira Walsh,4660,Erin Cuthbert,0.5888571428571429,unresolved,0.6083688734149185
+4658,Keira Walsh,15549,Sophie Louise Ingle,0.6371428571428571,unresolved,0.6148008955299904
+4658,Keira Walsh,4642,Millie Bright,0.7082857142857143,unresolved,0.6727116891424825
+4658,Keira Walsh,10222,Jonna Ann-Charlotte Andersson,0.7822857142857143,unresolved,0.7015201948518406
+4658,Keira Walsh,15550,Bethany England,0.6885714285714286,unresolved,0.7920035784136025
+4658,Keira Walsh,4633,Magdalena Lilly Eriksson,0.9434285714285714,i_above_j_supported,0.8440744491447413
+4658,Keira Walsh,18153,Alisha Lehmann,0.8714285714285714,unresolved,0.9212831769534139
+4658,Keira Walsh,15579,Inessa Kaagman,0.944,i_above_j_supported,0.9334195082178836
+4658,Keira Walsh,15577,Angharad James,0.9945714285714286,i_above_j_supported,0.9375771956186991
+4658,Keira Walsh,15725,Natasha Harding,0.9782857142857143,i_above_j_supported,0.9524954869707856
+4658,Keira Walsh,16381,Gemma Evans,0.9985714285714286,i_above_j_supported,0.9608009907874647
+4658,Keira Walsh,16386,Lucy Hope,0.9742857142857143,i_above_j_supported,0.9713158247957931
+4658,Keira Walsh,19501,Hayley Ladd,0.9914285714285714,i_above_j_supported,0.9712757775421599
+4658,Keira Walsh,20034,Danielle Buet,0.9968571428571429,i_above_j_supported,0.9708574678947404
+4658,Keira Walsh,15564,Lucy Quinn,0.9485714285714286,i_above_j_supported,0.9778673523094651
+4658,Keira Walsh,15709,Megan Walsh,0.9997142857142857,i_above_j_supported,0.9697288750747416
+4658,Keira Walsh,16374,Aileen Whelan,0.9985714285714286,i_above_j_supported,0.9809660338045435
+4658,Keira Walsh,16376,Sophie Baggaley,1.0,i_above_j_supported,0.981343766934669
+4658,Keira Walsh,16383,Danique Kerkdijk,0.9997142857142857,i_above_j_supported,0.9837031057414559
+4658,Keira Walsh,22032,Hannah Hampton,1.0,i_above_j_supported,0.9915005341792635
+4658,Keira Walsh,18145,Ria Percival,1.0,i_above_j_supported,0.991650148387308
+4658,Keira Walsh,18151,Gilly Louise Scarlett Flaherty,0.9997142857142857,i_above_j_supported,0.9932759680154812
+4658,Keira Walsh,16395,Victoria Williams,1.0,i_above_j_supported,0.994225981108547
+4658,Keira Walsh,18254,Megan Finnigan,1.0,i_above_j_supported,0.9949345126402845
+4658,Keira Walsh,15719,Grace Moloney,1.0,i_above_j_supported,0.9957836140028328
+4658,Keira Walsh,10193,Chloe Arthur,1.0,i_above_j_supported,0.9970773833172456
+4658,Keira Walsh,10172,Jill Scott,1.0,i_above_j_supported,0.9973271707568628
+4658,Keira Walsh,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9979142181929406
+4658,Keira Walsh,15563,Charlie Wellings,0.9997142857142857,i_above_j_supported,0.9976701337423113
+4658,Keira Walsh,16384,Carla Humphrey,1.0,i_above_j_supported,0.9988480358299039
+4658,Keira Walsh,21048,Rosella Ayane,1.0,i_above_j_supported,0.9987522748960055
+4658,Keira Walsh,18147,Kate Longhurst,1.0,i_above_j_supported,0.9989530972650258
+4658,Keira Walsh,10093,Yana Daniëls,1.0,i_above_j_supported,0.999225214673396
+4658,Keira Walsh,15580,Claudia Walker,1.0,i_above_j_supported,0.9992152792621382
+4658,Keira Walsh,16400,Kayleigh Green,1.0,i_above_j_supported,0.9993421083624442
+10251,Fara Williams,4660,Erin Cuthbert,0.5202857142857142,unresolved,0.5129993766396617
+10251,Fara Williams,15549,Sophie Louise Ingle,0.548,unresolved,0.5197612849905658
+10251,Fara Williams,4642,Millie Bright,0.5948571428571429,unresolved,0.5822516674846409
+10251,Fara Williams,10222,Jonna Ann-Charlotte Andersson,0.6385714285714286,unresolved,0.614459229890689
+10251,Fara Williams,15550,Bethany England,0.6145714285714285,unresolved,0.7208321826192675
+10251,Fara Williams,4633,Magdalena Lilly Eriksson,0.7854285714285715,unresolved,0.7859040223427248
+10251,Fara Williams,18153,Alisha Lehmann,0.7928571428571428,unresolved,0.8880980173877038
+10251,Fara Williams,15579,Inessa Kaagman,0.8637142857142858,unresolved,0.9048221654193123
+10251,Fara Williams,15577,Angharad James,0.9057142857142857,i_above_j_supported,0.9105945955829471
+10251,Fara Williams,15725,Natasha Harding,0.9057142857142857,i_above_j_supported,0.9314902003232899
+10251,Fara Williams,16381,Gemma Evans,0.946,i_above_j_supported,0.9432493764126709
+10251,Fara Williams,16386,Lucy Hope,0.9077142857142857,i_above_j_supported,0.9582678017783193
+10251,Fara Williams,19501,Hayley Ladd,0.9402857142857143,i_above_j_supported,0.958210321360037
+10251,Fara Williams,20034,Danielle Buet,0.9491428571428572,i_above_j_supported,0.9576100441604776
+10251,Fara Williams,15564,Lucy Quinn,0.8842857142857142,unresolved,0.9677004241671341
+10251,Fara Williams,15709,Megan Walsh,0.9628571428571429,i_above_j_supported,0.9559916781531959
+10251,Fara Williams,16374,Aileen Whelan,0.9568571428571429,i_above_j_supported,0.9721820336199972
+10251,Fara Williams,16376,Sophie Baggaley,0.9751428571428571,i_above_j_supported,0.972729241023624
+10251,Fara Williams,16383,Danique Kerkdijk,0.9685714285714285,i_above_j_supported,0.9761515307587758
+10251,Fara Williams,22032,Hannah Hampton,0.9877142857142858,i_above_j_supported,0.9875162406120587
+10251,Fara Williams,18145,Ria Percival,0.9817142857142858,i_above_j_supported,0.987735121887762
+10251,Fara Williams,18151,Gilly Louise Scarlett Flaherty,0.9865714285714285,i_above_j_supported,0.99011564738443
+10251,Fara Williams,16395,Victoria Williams,0.986,i_above_j_supported,0.9915083529771141
+10251,Fara Williams,18254,Megan Finnigan,0.9894285714285714,i_above_j_supported,0.9925478658672792
+10251,Fara Williams,15719,Grace Moloney,0.9931428571428571,i_above_j_supported,0.9937945332386612
+10251,Fara Williams,10193,Chloe Arthur,0.9945714285714286,i_above_j_supported,0.9956960004245073
+10251,Fara Williams,10172,Jill Scott,0.9925714285714285,i_above_j_supported,0.996063384461365
+10251,Fara Williams,4637,Ellie Roebuck,0.9971428571428571,i_above_j_supported,0.9969271486538843
+10251,Fara Williams,15563,Charlie Wellings,0.9911428571428571,i_above_j_supported,0.9965679516256118
+10251,Fara Williams,16384,Carla Humphrey,0.9977142857142857,i_above_j_supported,0.998302131647705
+10251,Fara Williams,21048,Rosella Ayane,0.9951428571428571,i_above_j_supported,0.9981610741216368
+10251,Fara Williams,18147,Kate Longhurst,0.9982857142857143,i_above_j_supported,0.9984569037199302
+10251,Fara Williams,10093,Yana Daniëls,0.9985714285714286,i_above_j_supported,0.998857847349354
+10251,Fara Williams,15580,Claudia Walker,0.9968571428571429,i_above_j_supported,0.9988432064799327
+10251,Fara Williams,16400,Kayleigh Green,0.9974285714285714,i_above_j_supported,0.9990301128145391
+4660,Erin Cuthbert,15549,Sophie Louise Ingle,0.5257142857142857,unresolved,0.506768863612409
+4660,Erin Cuthbert,4642,Millie Bright,0.5725714285714286,unresolved,0.5695497468790466
+4660,Erin Cuthbert,10222,Jonna Ann-Charlotte Andersson,0.6222857142857143,unresolved,0.6020673165365676
+4660,Erin Cuthbert,15550,Bethany England,0.6114285714285714,unresolved,0.7102470141763991
+4660,Erin Cuthbert,4633,Magdalena Lilly Eriksson,0.796,unresolved,0.777022950967652
+4660,Erin Cuthbert,18153,Alisha Lehmann,0.788,unresolved,0.8828240801480288
+4660,Erin Cuthbert,15579,Inessa Kaagman,0.8717142857142857,unresolved,0.9002479043838598
+4660,Erin Cuthbert,15577,Angharad James,0.9222857142857143,i_above_j_supported,0.9062690199324112
+4660,Erin Cuthbert,15725,Natasha Harding,0.9057142857142857,i_above_j_supported,0.9280957575549417
+4660,Erin Cuthbert,16381,Gemma Evans,0.9585714285714285,i_above_j_supported,0.9404002849219326
+4660,Erin Cuthbert,16386,Lucy Hope,0.9157142857142857,i_above_j_supported,0.9561376297491224
+4660,Erin Cuthbert,19501,Hayley Ladd,0.9448571428571428,i_above_j_supported,0.9560773497912957
+4660,Erin Cuthbert,20034,Danielle Buet,0.9591428571428572,i_above_j_supported,0.9554478586078639
+4660,Erin Cuthbert,15564,Lucy Quinn,0.892,unresolved,0.9660346637612216
+4660,Erin Cuthbert,15709,Megan Walsh,0.9768571428571429,i_above_j_supported,0.9537509313333379
+4660,Erin Cuthbert,16374,Aileen Whelan,0.9688571428571429,i_above_j_supported,0.9707404113158028
+4660,Erin Cuthbert,16376,Sophie Baggaley,0.9877142857142858,i_above_j_supported,0.9713151401555478
+4660,Erin Cuthbert,16383,Danique Kerkdijk,0.9814285714285714,i_above_j_supported,0.9749103124354781
+4660,Erin Cuthbert,22032,Hannah Hampton,0.994,i_above_j_supported,0.9868585474870782
+4660,Erin Cuthbert,18145,Ria Percival,0.992,i_above_j_supported,0.9870888095141244
+4660,Erin Cuthbert,18151,Gilly Louise Scarlett Flaherty,0.9942857142857143,i_above_j_supported,0.9895934579850346
+4660,Erin Cuthbert,16395,Victoria Williams,0.9931428571428571,i_above_j_supported,0.991059075671228
+4660,Erin Cuthbert,18254,Megan Finnigan,0.9951428571428571,i_above_j_supported,0.9921531519992799
+4660,Erin Cuthbert,15719,Grace Moloney,0.9974285714285714,i_above_j_supported,0.9934654163166501
+4660,Erin Cuthbert,10193,Chloe Arthur,0.9974285714285714,i_above_j_supported,0.9954672709083832
+4660,Erin Cuthbert,10172,Jill Scott,0.9965714285714286,i_above_j_supported,0.9958540977167575
+4660,Erin Cuthbert,4637,Ellie Roebuck,0.9991428571428571,i_above_j_supported,0.9967636339766407
+4660,Erin Cuthbert,15563,Charlie Wellings,0.9937142857142857,i_above_j_supported,0.9963853924112712
+4660,Erin Cuthbert,16384,Carla Humphrey,1.0,i_above_j_supported,0.9982116522597757
+4660,Erin Cuthbert,21048,Rosella Ayane,0.996,i_above_j_supported,0.998063092363928
+4660,Erin Cuthbert,18147,Kate Longhurst,0.9991428571428571,i_above_j_supported,0.9983746587059268
+4660,Erin Cuthbert,10093,Yana Daniëls,0.9988571428571429,i_above_j_supported,0.9987969463578186
+4660,Erin Cuthbert,15580,Claudia Walker,0.9982857142857143,i_above_j_supported,0.9987815257714504
+4660,Erin Cuthbert,16400,Kayleigh Green,0.9985714285714286,i_above_j_supported,0.9989783878359488
+15549,Sophie Louise Ingle,4642,Millie Bright,0.5857142857142857,unresolved,0.5628993284261298
+15549,Sophie Louise Ingle,10222,Jonna Ann-Charlotte Andersson,0.6351428571428571,unresolved,0.5955625418222312
+15549,Sophie Louise Ingle,15550,Bethany England,0.6048571428571429,unresolved,0.7046430881899493
+15549,Sophie Louise Ingle,4633,Magdalena Lilly Eriksson,0.8562857142857143,unresolved,0.7722964529703518
+15549,Sophie Louise Ingle,18153,Alisha Lehmann,0.8062857142857143,unresolved,0.8799939050191379
+15549,Sophie Louise Ingle,15579,Inessa Kaagman,0.9068571428571428,i_above_j_supported,0.8977898471408885
+15549,Sophie Louise Ingle,15577,Angharad James,0.9665714285714285,i_above_j_supported,0.9039435018557945
+15549,Sophie Louise Ingle,15725,Natasha Harding,0.9474285714285714,i_above_j_supported,0.9262677149364407
+15549,Sophie Louise Ingle,16381,Gemma Evans,0.9922857142857143,i_above_j_supported,0.9388644577161102
+15549,Sophie Louise Ingle,16386,Lucy Hope,0.9434285714285714,i_above_j_supported,0.9549879278396722
+15549,Sophie Louise Ingle,19501,Hayley Ladd,0.97,i_above_j_supported,0.9549261423343428
+15549,Sophie Louise Ingle,20034,Danielle Buet,0.984,i_above_j_supported,0.9542809412288124
+15549,Sophie Louise Ingle,15564,Lucy Quinn,0.9097142857142857,i_above_j_supported,0.9651349192174699
+15549,Sophie Louise Ingle,15709,Megan Walsh,0.9977142857142857,i_above_j_supported,0.9525417754380424
+15549,Sophie Louise Ingle,16374,Aileen Whelan,0.9925714285714285,i_above_j_supported,0.9699614462817369
+15549,Sophie Louise Ingle,16376,Sophie Baggaley,0.998,i_above_j_supported,0.9705510116989783
+15549,Sophie Louise Ingle,16383,Danique Kerkdijk,0.998,i_above_j_supported,0.9742394148582554
+15549,Sophie Louise Ingle,22032,Hannah Hampton,1.0,i_above_j_supported,0.9865027220983434
+15549,Sophie Louise Ingle,18145,Ria Percival,0.9994285714285714,i_above_j_supported,0.9867391350515061
+15549,Sophie Louise Ingle,18151,Gilly Louise Scarlett Flaherty,0.9988571428571429,i_above_j_supported,0.9893108824862793
+15549,Sophie Louise Ingle,16395,Victoria Williams,0.9997142857142857,i_above_j_supported,0.9908159276871982
+15549,Sophie Louise Ingle,18254,Megan Finnigan,1.0,i_above_j_supported,0.9919395153755105
+15549,Sophie Louise Ingle,15719,Grace Moloney,1.0,i_above_j_supported,0.9932872653980491
+15549,Sophie Louise Ingle,10193,Chloe Arthur,0.9994285714285714,i_above_j_supported,0.9953434403029204
+15549,Sophie Louise Ingle,10172,Jill Scott,0.9997142857142857,i_above_j_supported,0.9957407897010021
+15549,Sophie Louise Ingle,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9966751007043975
+15549,Sophie Louise Ingle,15563,Charlie Wellings,0.9985714285714286,i_above_j_supported,0.9962865505993451
+15549,Sophie Louise Ingle,16384,Carla Humphrey,1.0,i_above_j_supported,0.9981626576206555
+15549,Sophie Louise Ingle,21048,Rosella Ayane,0.9991428571428571,i_above_j_supported,0.9980100358032126
+15549,Sophie Louise Ingle,18147,Kate Longhurst,0.9994285714285714,i_above_j_supported,0.9983301224176917
+15549,Sophie Louise Ingle,10093,Yana Daniëls,1.0,i_above_j_supported,0.9987639669287973
+15549,Sophie Louise Ingle,15580,Claudia Walker,0.9997142857142857,i_above_j_supported,0.998748124146201
+15549,Sophie Louise Ingle,16400,Kayleigh Green,1.0,i_above_j_supported,0.9989503770532148
+4642,Millie Bright,10222,Jonna Ann-Charlotte Andersson,0.5474285714285714,unresolved,0.5334678912363895
+4642,Millie Bright,15550,Bethany England,0.5545714285714286,unresolved,0.6494379698394348
+4642,Millie Bright,4633,Magdalena Lilly Eriksson,0.8005714285714286,unresolved,0.724797810343918
+4642,Millie Bright,18153,Alisha Lehmann,0.7774285714285715,unresolved,0.8506153095402837
+4642,Millie Bright,15579,Inessa Kaagman,0.8708571428571429,unresolved,0.8721348363064985
+4642,Millie Bright,15577,Angharad James,0.9531428571428572,i_above_j_supported,0.879625979274996
+4642,Millie Bright,15725,Natasha Harding,0.928,i_above_j_supported,0.9070204379147135
+4642,Millie Bright,16381,Gemma Evans,0.9845714285714285,i_above_j_supported,0.9226308050307219
+4642,Millie Bright,16386,Lucy Hope,0.9262857142857143,i_above_j_supported,0.9427746723131211
+4642,Millie Bright,19501,Hayley Ladd,0.966,i_above_j_supported,0.9426971282977068
+4642,Millie Bright,20034,Danielle Buet,0.9771428571428571,i_above_j_supported,0.9418875300531896
+4642,Millie Bright,15564,Lucy Quinn,0.8882857142857142,unresolved,0.9555467181777283
+4642,Millie Bright,15709,Megan Walsh,0.9945714285714286,i_above_j_supported,0.9397067024728135
+4642,Millie Bright,16374,Aileen Whelan,0.9865714285714285,i_above_j_supported,0.9616478370333674
+4642,Millie Bright,16376,Sophie Baggaley,0.9971428571428571,i_above_j_supported,0.9623942471134714
+4642,Millie Bright,16383,Danique Kerkdijk,0.9937142857142857,i_above_j_supported,0.9670695992763807
+4642,Millie Bright,22032,Hannah Hampton,0.9997142857142857,i_above_j_supported,0.9826854313667467
+4642,Millie Bright,18145,Ria Percival,0.9991428571428571,i_above_j_supported,0.9829875534148376
+4642,Millie Bright,18151,Gilly Louise Scarlett Flaherty,0.9991428571428571,i_above_j_supported,0.9862767455632889
+4642,Millie Bright,16395,Victoria Williams,0.9988571428571429,i_above_j_supported,0.9882039083233591
+4642,Millie Bright,18254,Megan Finnigan,0.9997142857142857,i_above_j_supported,0.9896437127182153
+4642,Millie Bright,15719,Grace Moloney,1.0,i_above_j_supported,0.9913719925457651
+4642,Millie Bright,10193,Chloe Arthur,0.9994285714285714,i_above_j_supported,0.9940112967554618
+4642,Millie Bright,10172,Jill Scott,0.9988571428571429,i_above_j_supported,0.9945216937879255
+4642,Millie Bright,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9957222798560966
+4642,Millie Bright,15563,Charlie Wellings,0.9971428571428571,i_above_j_supported,0.9952229161165473
+4642,Millie Bright,16384,Carla Humphrey,1.0,i_above_j_supported,0.9976351164598728
+4642,Millie Bright,21048,Rosella Ayane,0.9991428571428571,i_above_j_supported,0.997438786024087
+4642,Millie Bright,18147,Kate Longhurst,0.9994285714285714,i_above_j_supported,0.997850560519543
+4642,Millie Bright,10093,Yana Daniëls,1.0,i_above_j_supported,0.9984087995898805
+4642,Millie Bright,15580,Claudia Walker,0.9994285714285714,i_above_j_supported,0.998388411815975
+4642,Millie Bright,16400,Kayleigh Green,0.9994285714285714,i_above_j_supported,0.9986487011729841
+10222,Jonna Ann-Charlotte Andersson,15550,Bethany England,0.5354285714285715,unresolved,0.6183374784222898
+10222,Jonna Ann-Charlotte Andersson,4633,Magdalena Lilly Eriksson,0.8122857142857143,unresolved,0.6972664628800934
+10222,Jonna Ann-Charlotte Andersson,18153,Alisha Lehmann,0.7637142857142857,unresolved,0.8327666252141256
+10222,Jonna Ann-Charlotte Andersson,15579,Inessa Kaagman,0.874,unresolved,0.8564233403080386
+10222,Jonna Ann-Charlotte Andersson,15577,Angharad James,0.9654285714285714,i_above_j_supported,0.8646921531538118
+10222,Jonna Ann-Charlotte Andersson,15725,Natasha Harding,0.9391428571428572,i_above_j_supported,0.8950798399129087
+10222,Jonna Ann-Charlotte Andersson,16381,Gemma Evans,0.9925714285714285,i_above_j_supported,0.9125015271967065
+10222,Jonna Ann-Charlotte Andersson,16386,Lucy Hope,0.928,i_above_j_supported,0.9350971370289857
+10222,Jonna Ann-Charlotte Andersson,19501,Hayley Ladd,0.9665714285714285,i_above_j_supported,0.9350099066256211
+10222,Jonna Ann-Charlotte Andersson,20034,Danielle Buet,0.9882857142857143,i_above_j_supported,0.934099292615471
+10222,Jonna Ann-Charlotte Andersson,15564,Lucy Quinn,0.8931428571428571,unresolved,0.949490919206057
+10222,Jonna Ann-Charlotte Andersson,15709,Megan Walsh,0.9988571428571429,i_above_j_supported,0.9316474006819525
+10222,Jonna Ann-Charlotte Andersson,16374,Aileen Whelan,0.9922857142857143,i_above_j_supported,0.9563852470381001
+10222,Jonna Ann-Charlotte Andersson,16376,Sophie Baggaley,0.9997142857142857,i_above_j_supported,0.9572295224023253
+10222,Jonna Ann-Charlotte Andersson,16383,Danique Kerkdijk,0.998,i_above_j_supported,0.9625219760590165
+10222,Jonna Ann-Charlotte Andersson,22032,Hannah Hampton,1.0,i_above_j_supported,0.9802502828246735
+10222,Jonna Ann-Charlotte Andersson,18145,Ria Percival,1.0,i_above_j_supported,0.9805940566941076
+10222,Jonna Ann-Charlotte Andersson,18151,Gilly Louise Scarlett Flaherty,0.9994285714285714,i_above_j_supported,0.9843386354288127
+10222,Jonna Ann-Charlotte Andersson,16395,Victoria Williams,1.0,i_above_j_supported,0.9865342518987694
+10222,Jonna Ann-Charlotte Andersson,18254,Megan Finnigan,1.0,i_above_j_supported,0.9881754122467266
+10222,Jonna Ann-Charlotte Andersson,15719,Grace Moloney,1.0,i_above_j_supported,0.9901462855081371
+10222,Jonna Ann-Charlotte Andersson,10193,Chloe Arthur,1.0,i_above_j_supported,0.9931579453265659
+10222,Jonna Ann-Charlotte Andersson,10172,Jill Scott,0.9994285714285714,i_above_j_supported,0.9937406126536595
+10222,Jonna Ann-Charlotte Andersson,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9951115334302769
+10222,Jonna Ann-Charlotte Andersson,15563,Charlie Wellings,0.9988571428571429,i_above_j_supported,0.9945412644827515
+10222,Jonna Ann-Charlotte Andersson,16384,Carla Humphrey,1.0,i_above_j_supported,0.9972967315717133
+10222,Jonna Ann-Charlotte Andersson,21048,Rosella Ayane,0.9994285714285714,i_above_j_supported,0.9970723911752046
+10222,Jonna Ann-Charlotte Andersson,18147,Kate Longhurst,1.0,i_above_j_supported,0.9975429270236422
+10222,Jonna Ann-Charlotte Andersson,10093,Yana Daniëls,1.0,i_above_j_supported,0.9981809171029107
+10222,Jonna Ann-Charlotte Andersson,15580,Claudia Walker,0.9994285714285714,i_above_j_supported,0.9981576148983665
+10222,Jonna Ann-Charlotte Andersson,16400,Kayleigh Green,0.9997142857142857,i_above_j_supported,0.9984551228358719
+15550,Bethany England,4633,Magdalena Lilly Eriksson,0.6162857142857143,unresolved,0.5870581298950469
+15550,Bethany England,18153,Alisha Lehmann,0.6682857142857143,unresolved,0.7545198553847084
+15550,Bethany England,15579,Inessa Kaagman,0.728,unresolved,0.7864063189689108
+15550,Bethany England,15577,Angharad James,0.7711428571428571,unresolved,0.7977552742219258
+15550,Bethany England,15725,Natasha Harding,0.7691428571428571,unresolved,0.8404011176728492
+15550,Bethany England,16381,Gemma Evans,0.8308571428571428,unresolved,0.8655381336833716
+15550,Bethany England,16386,Lucy Hope,0.798,unresolved,0.89891811857777
+15550,Bethany England,19501,Hayley Ladd,0.8328571428571429,unresolved,0.8987875260985149
+15550,Bethany England,20034,Danielle Buet,0.8468571428571429,unresolved,0.8974250579577887
+15550,Bethany England,15564,Lucy Quinn,0.7914285714285715,unresolved,0.9206546541224317
+15550,Bethany England,15709,Megan Walsh,0.8631428571428571,unresolved,0.8937638555473785
+15550,Bethany England,16374,Aileen Whelan,0.8762857142857143,unresolved,0.9311998328420835
+15550,Bethany England,16376,Sophie Baggaley,0.8902857142857142,unresolved,0.9324972261619918
+15550,Bethany England,16383,Danique Kerkdijk,0.8962857142857142,unresolved,0.9406603572557632
+15550,Bethany England,22032,Hannah Hampton,0.928,i_above_j_supported,0.9683902988514345
+15550,Bethany England,18145,Ria Percival,0.928,i_above_j_supported,0.9689339712657553
+15550,Bethany England,18151,Gilly Louise Scarlett Flaherty,0.9348571428571428,i_above_j_supported,0.9748708269320207
+15550,Bethany England,16395,Victoria Williams,0.9337142857142857,i_above_j_supported,0.9783645915003744
+15550,Bethany England,18254,Megan Finnigan,0.9408571428571428,i_above_j_supported,0.9809822484705415
+15550,Bethany England,15719,Grace Moloney,0.95,i_above_j_supported,0.9841327971955193
+15550,Bethany England,10193,Chloe Arthur,0.9571428571428572,i_above_j_supported,0.9889619123025295
+15550,Bethany England,10172,Jill Scott,0.9602857142857143,i_above_j_supported,0.989898277999886
+15550,Bethany England,4637,Ellie Roebuck,0.9682857142857143,i_above_j_supported,0.9921040540033801
+15550,Bethany England,15563,Charlie Wellings,0.9548571428571428,i_above_j_supported,0.9911860520220025
+15550,Bethany England,16384,Carla Humphrey,0.9765714285714285,i_above_j_supported,0.995627721552135
+15550,Bethany England,21048,Rosella Ayane,0.9714285714285714,i_above_j_supported,0.9952655299344421
+15550,Bethany England,18147,Kate Longhurst,0.9762857142857143,i_above_j_supported,0.9960253133786978
+15550,Bethany England,10093,Yana Daniëls,0.9808571428571429,i_above_j_supported,0.9970561958063326
+15550,Bethany England,15580,Claudia Walker,0.9811428571428571,i_above_j_supported,0.9970185291088285
+15550,Bethany England,16400,Kayleigh Green,0.9825714285714285,i_above_j_supported,0.9974995155805876
+4633,Magdalena Lilly Eriksson,18153,Alisha Lehmann,0.614,unresolved,0.6837476651837662
+4633,Magdalena Lilly Eriksson,15579,Inessa Kaagman,0.7157142857142857,unresolved,0.7214330327132802
+4633,Magdalena Lilly Eriksson,15577,Angharad James,0.8382857142857143,unresolved,0.7350712259029868
+4633,Magdalena Lilly Eriksson,15725,Natasha Harding,0.8031428571428572,unresolved,0.7874125034768972
+4633,Magdalena Lilly Eriksson,16381,Gemma Evans,0.9297142857142857,i_above_j_supported,0.8190988147739089
+4633,Magdalena Lilly Eriksson,16386,Lucy Hope,0.8202857142857143,unresolved,0.8621714994176211
+4633,Magdalena Lilly Eriksson,19501,Hayley Ladd,0.8868571428571429,unresolved,0.862000720414538
+4633,Magdalena Lilly Eriksson,20034,Danielle Buet,0.9222857142857143,i_above_j_supported,0.8602200624357625
+4633,Magdalena Lilly Eriksson,15564,Lucy Quinn,0.796,unresolved,0.8908505070136594
+4633,Magdalena Lilly Eriksson,15709,Megan Walsh,0.9762857142857143,i_above_j_supported,0.8554448080863508
+4633,Magdalena Lilly Eriksson,16374,Aileen Whelan,0.9554285714285714,i_above_j_supported,0.904947771081788
+4633,Magdalena Lilly Eriksson,16376,Sophie Baggaley,0.9888571428571429,i_above_j_supported,0.906690605132694
+4633,Magdalena Lilly Eriksson,16383,Danique Kerkdijk,0.9771428571428571,i_above_j_supported,0.9176991011399186
+4633,Magdalena Lilly Eriksson,22032,Hannah Hampton,0.9988571428571429,i_above_j_supported,0.9556531826896744
+4633,Magdalena Lilly Eriksson,18145,Ria Percival,0.9934285714285714,i_above_j_supported,0.9564060657117538
+4633,Magdalena Lilly Eriksson,18151,Gilly Louise Scarlett Flaherty,0.9977142857142857,i_above_j_supported,0.9646497126100223
+4633,Magdalena Lilly Eriksson,16395,Victoria Williams,0.9957142857142857,i_above_j_supported,0.9695201109560488
+4633,Magdalena Lilly Eriksson,18254,Megan Finnigan,0.9971428571428571,i_above_j_supported,0.9731785210160543
+4633,Magdalena Lilly Eriksson,15719,Grace Moloney,1.0,i_above_j_supported,0.9775923330573579
+4633,Magdalena Lilly Eriksson,10193,Chloe Arthur,0.9997142857142857,i_above_j_supported,0.9843804173236316
+4633,Magdalena Lilly Eriksson,10172,Jill Scott,0.9977142857142857,i_above_j_supported,0.9856998133963781
+4633,Magdalena Lilly Eriksson,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9888119897551817
+4633,Magdalena Lilly Eriksson,15563,Charlie Wellings,0.99,i_above_j_supported,0.9875160605117684
+4633,Magdalena Lilly Eriksson,16384,Carla Humphrey,1.0,i_above_j_supported,0.9937955957581246
+4633,Magdalena Lilly Eriksson,21048,Rosella Ayane,0.9965714285714286,i_above_j_supported,0.9932826581300354
+4633,Magdalena Lilly Eriksson,18147,Kate Longhurst,0.9997142857142857,i_above_j_supported,0.9943588474283386
+4633,Magdalena Lilly Eriksson,10093,Yana Daniëls,0.9997142857142857,i_above_j_supported,0.9958201338734749
+4633,Magdalena Lilly Eriksson,15580,Claudia Walker,0.9991428571428571,i_above_j_supported,0.9957667186100797
+4633,Magdalena Lilly Eriksson,16400,Kayleigh Green,0.9994285714285714,i_above_j_supported,0.9964489344188798
+18153,Alisha Lehmann,15579,Inessa Kaagman,0.5445714285714286,unresolved,0.5450109549582481
+18153,Alisha Lehmann,15577,Angharad James,0.5925714285714285,unresolved,0.5620430600815853
+18153,Alisha Lehmann,15725,Natasha Harding,0.616,unresolved,0.6314285231461569
+18153,Alisha Lehmann,16381,Gemma Evans,0.6871428571428572,unresolved,0.6768220460431318
+18153,Alisha Lehmann,16386,Lucy Hope,0.6697142857142857,unresolved,0.7431480674229582
+18153,Alisha Lehmann,19501,Hayley Ladd,0.7011428571428572,unresolved,0.7428737927606893
+18153,Alisha Lehmann,20034,Danielle Buet,0.7145714285714285,unresolved,0.7400195974487335
+18153,Alisha Lehmann,15564,Lucy Quinn,0.6774285714285714,unresolved,0.7905774552435464
+18153,Alisha Lehmann,15709,Megan Walsh,0.7368571428571429,unresolved,0.7324153243402303
+18153,Alisha Lehmann,16374,Aileen Whelan,0.7677142857142857,unresolved,0.8149351440282584
+18153,Alisha Lehmann,16376,Sophie Baggaley,0.7885714285714286,unresolved,0.8179964729897241
+18153,Alisha Lehmann,16383,Danique Kerkdijk,0.7965714285714286,unresolved,0.8375946653849868
+18153,Alisha Lehmann,22032,Hannah Hampton,0.8691428571428571,unresolved,0.9088195134328132
+18153,Alisha Lehmann,18145,Ria Percival,0.8631428571428571,unresolved,0.910292862892455
+18153,Alisha Lehmann,18151,Gilly Louise Scarlett Flaherty,0.8831428571428571,unresolved,0.9265872104342794
+18153,Alisha Lehmann,16395,Victoria Williams,0.8848571428571429,unresolved,0.9363556972888836
+18153,Alisha Lehmann,18254,Megan Finnigan,0.8988571428571429,unresolved,0.9437638402058713
+18153,Alisha Lehmann,15719,Grace Moloney,0.916,i_above_j_supported,0.9527833543465929
+18153,Alisha Lehmann,10193,Chloe Arthur,0.9268571428571428,i_above_j_supported,0.9668319772597692
+18153,Alisha Lehmann,10172,Jill Scott,0.928,i_above_j_supported,0.9695879052036704
+18153,Alisha Lehmann,4637,Ellie Roebuck,0.9505714285714286,i_above_j_supported,0.9761216028148813
+18153,Alisha Lehmann,15563,Charlie Wellings,0.916,i_above_j_supported,0.9733952712540053
+18153,Alisha Lehmann,16384,Carla Humphrey,0.9665714285714285,i_above_j_supported,0.9866818992691506
+18153,Alisha Lehmann,21048,Rosella Ayane,0.952,i_above_j_supported,0.9855893779268642
+18153,Alisha Lehmann,18147,Kate Longhurst,0.9657142857142857,i_above_j_supported,0.9878830765262789
+18153,Alisha Lehmann,10093,Yana Daniëls,0.972,i_above_j_supported,0.9910066775250258
+18153,Alisha Lehmann,15580,Claudia Walker,0.9691428571428572,i_above_j_supported,0.990892312818298
+18153,Alisha Lehmann,16400,Kayleigh Green,0.9714285714285714,i_above_j_supported,0.9923540333235698
+15579,Inessa Kaagman,15577,Angharad James,0.5457142857142857,unresolved,0.5172245109986375
+15579,Inessa Kaagman,15725,Natasha Harding,0.5722857142857143,unresolved,0.5885120186446025
+15579,Inessa Kaagman,16381,Gemma Evans,0.6634285714285715,unresolved,0.6361453767144032
+15579,Inessa Kaagman,16386,Lucy Hope,0.6465714285714286,unresolved,0.7072081261852592
+15579,Inessa Kaagman,19501,Hayley Ladd,0.6882857142857143,unresolved,0.7069106094960481
+15579,Inessa Kaagman,20034,Danielle Buet,0.7094285714285714,unresolved,0.7038163724121381
+15579,Inessa Kaagman,15564,Lucy Quinn,0.6514285714285715,unresolved,0.7591229515251229
+15579,Inessa Kaagman,15709,Megan Walsh,0.7505714285714286,unresolved,0.6955887702832756
+15579,Inessa Kaagman,16374,Aileen Whelan,0.7734285714285715,unresolved,0.7861494726156703
+15579,Inessa Kaagman,16376,Sophie Baggaley,0.8137142857142857,unresolved,0.789564013262367
+15579,Inessa Kaagman,16383,Danique Kerkdijk,0.8088571428571428,unresolved,0.8115183678739097
+15579,Inessa Kaagman,22032,Hannah Hampton,0.9137142857142857,i_above_j_supported,0.8927144750276454
+15579,Inessa Kaagman,18145,Ria Percival,0.8942857142857142,unresolved,0.8944178266255648
+15579,Inessa Kaagman,18151,Gilly Louise Scarlett Flaherty,0.9168571428571428,i_above_j_supported,0.9133211333520775
+15579,Inessa Kaagman,16395,Victoria Williams,0.9165714285714286,i_above_j_supported,0.9247114068246657
+15579,Inessa Kaagman,18254,Megan Finnigan,0.9342857142857143,i_above_j_supported,0.9333784999060136
+15579,Inessa Kaagman,15719,Grace Moloney,0.9514285714285714,i_above_j_supported,0.9439647835484368
+15579,Inessa Kaagman,10193,Chloe Arthur,0.9591428571428572,i_above_j_supported,0.9605285442661329
+15579,Inessa Kaagman,10172,Jill Scott,0.9537142857142857,i_above_j_supported,0.963788607460053
+15579,Inessa Kaagman,4637,Ellie Roebuck,0.9851428571428571,i_above_j_supported,0.9715316375152477
+15579,Inessa Kaagman,15563,Charlie Wellings,0.9445714285714286,i_above_j_supported,0.9682982637716518
+15579,Inessa Kaagman,16384,Carla Humphrey,0.9911428571428571,i_above_j_supported,0.9840887718659241
+15579,Inessa Kaagman,21048,Rosella Ayane,0.9702857142857143,i_above_j_supported,0.9827872399213611
+15579,Inessa Kaagman,18147,Kate Longhurst,0.9791428571428571,i_above_j_supported,0.9855203945744916
+15579,Inessa Kaagman,10093,Yana Daniëls,0.9851428571428571,i_above_j_supported,0.989246437289887
+15579,Inessa Kaagman,15580,Claudia Walker,0.9785714285714285,i_above_j_supported,0.9891099342475288
+15579,Inessa Kaagman,16400,Kayleigh Green,0.9862857142857143,i_above_j_supported,0.9908550740916197
+15577,Angharad James,15725,Natasha Harding,0.5365714285714286,unresolved,0.571724908007839
+15577,Angharad James,16381,Gemma Evans,0.6797142857142857,unresolved,0.6200469238874182
+15577,Angharad James,16386,Lucy Hope,0.6277142857142857,unresolved,0.6927351473649007
+15577,Angharad James,19501,Hayley Ladd,0.6825714285714286,unresolved,0.6924293201370539
+15577,Angharad James,20034,Danielle Buet,0.7194285714285714,unresolved,0.6892494055384192
+15577,Angharad James,15564,Lucy Quinn,0.63,unresolved,0.7462955712495596
+15577,Angharad James,15709,Megan Walsh,0.7971428571428572,unresolved,0.6808006719525855
+15577,Angharad James,16374,Aileen Whelan,0.7888571428571428,unresolved,0.7743334843811478
+15577,Angharad James,16376,Sophie Baggaley,0.8785714285714286,unresolved,0.7778833853216832
+15577,Angharad James,16383,Danique Kerkdijk,0.852,unresolved,0.8007488309020427
+15577,Angharad James,22032,Hannah Hampton,0.9662857142857143,i_above_j_supported,0.8859322324679412
+15577,Angharad James,18145,Ria Percival,0.9388571428571428,i_above_j_supported,0.8877297222395453
+15577,Angharad James,18151,Gilly Louise Scarlett Flaherty,0.962,i_above_j_supported,0.9077068989011448
+15577,Angharad James,16395,Victoria Williams,0.9511428571428572,i_above_j_supported,0.9197701188747258
+15577,Angharad James,18254,Megan Finnigan,0.97,i_above_j_supported,0.9289623459772697
+15577,Angharad James,15719,Grace Moloney,0.9917142857142857,i_above_j_supported,0.9402054099759718
+15577,Angharad James,10193,Chloe Arthur,0.9845714285714285,i_above_j_supported,0.9578307823574614
+15577,Angharad James,10172,Jill Scott,0.9828571428571429,i_above_j_supported,0.9613046853698053
+15577,Angharad James,4637,Ellie Roebuck,0.9988571428571429,i_above_j_supported,0.9695620749060233
+15577,Angharad James,15563,Charlie Wellings,0.9585714285714285,i_above_j_supported,0.9661128052363198
+15577,Angharad James,16384,Carla Humphrey,0.9988571428571429,i_above_j_supported,0.982972739317136
+15577,Angharad James,21048,Rosella Ayane,0.9765714285714285,i_above_j_supported,0.9815816249853648
+15577,Angharad James,18147,Kate Longhurst,0.9948571428571429,i_above_j_supported,0.9845031964697445
+15577,Angharad James,10093,Yana Daniëls,0.9954285714285714,i_above_j_supported,0.9884879375598807
+15577,Angharad James,15580,Claudia Walker,0.99,i_above_j_supported,0.9883419197777442
+15577,Angharad James,16400,Kayleigh Green,0.9937142857142857,i_above_j_supported,0.990208916117615
+15725,Natasha Harding,16381,Gemma Evans,0.5917142857142857,unresolved,0.550045659367442
+15725,Natasha Harding,16386,Lucy Hope,0.5891428571428572,unresolved,0.6280932372570145
+15725,Natasha Harding,19501,Hayley Ladd,0.63,unresolved,0.6277576434802721
+15725,Natasha Harding,20034,Danielle Buet,0.6477142857142857,unresolved,0.6242719137639939
+15725,Natasha Harding,15564,Lucy Quinn,0.5948571428571429,unresolved,0.6878441252505635
+15725,Natasha Harding,15709,Megan Walsh,0.6714285714285714,unresolved,0.6150432465328346
+15725,Natasha Harding,16374,Aileen Whelan,0.71,unresolved,0.719917436798485
+15725,Natasha Harding,16376,Sophie Baggaley,0.7625714285714286,unresolved,0.7240182520338914
+15725,Natasha Harding,16383,Danique Kerkdijk,0.7648571428571429,unresolved,0.7506513025916862
+15725,Natasha Harding,22032,Hannah Hampton,0.8791428571428571,unresolved,0.8533292917668162
+15725,Natasha Harding,18145,Ria Percival,0.8537142857142858,unresolved,0.8555567775980122
+15725,Natasha Harding,18151,Gilly Louise Scarlett Flaherty,0.8845714285714286,unresolved,0.8804880421781779
+15725,Natasha Harding,16395,Victoria Williams,0.8928571428571429,unresolved,0.8957001259546455
+15725,Natasha Harding,18254,Megan Finnigan,0.9074285714285715,i_above_j_supported,0.9073724097816861
+15725,Natasha Harding,15719,Grace Moloney,0.9334285714285714,i_above_j_supported,0.9217446449614491
+15725,Natasha Harding,10193,Chloe Arthur,0.9377142857142857,i_above_j_supported,0.9444903396359734
+15725,Natasha Harding,10172,Jill Scott,0.9342857142857143,i_above_j_supported,0.9490047187550804
+15725,Natasha Harding,4637,Ellie Roebuck,0.9714285714285714,i_above_j_supported,0.9597770355473901
+15725,Natasha Harding,15563,Charlie Wellings,0.9191428571428572,i_above_j_supported,0.9552700671593273
+15725,Natasha Harding,16384,Carla Humphrey,0.9851428571428571,i_above_j_supported,0.9773983976254557
+15725,Natasha Harding,21048,Rosella Ayane,0.9568571428571429,i_above_j_supported,0.9755631855703435
+15725,Natasha Harding,18147,Kate Longhurst,0.9702857142857143,i_above_j_supported,0.9794194017178075
+15725,Natasha Harding,10093,Yana Daniëls,0.9831428571428571,i_above_j_supported,0.9846910276231778
+15725,Natasha Harding,15580,Claudia Walker,0.9711428571428572,i_above_j_supported,0.9844976055211329
+15725,Natasha Harding,16400,Kayleigh Green,0.9814285714285714,i_above_j_supported,0.9869721386444557
+16381,Gemma Evans,16386,Lucy Hope,0.5297142857142857,unresolved,0.580101545078849
+16381,Gemma Evans,19501,Hayley Ladd,0.5728571428571428,unresolved,0.5797516208116618
+16381,Gemma Evans,20034,Danielle Buet,0.5822857142857143,unresolved,0.576119895074869
+16381,Gemma Evans,15564,Lucy Quinn,0.5488571428571428,unresolved,0.6431825793764917
+16381,Gemma Evans,15709,Megan Walsh,0.6162857142857143,unresolved,0.5665297445975593
+16381,Gemma Evans,16374,Aileen Whelan,0.6682857142857143,unresolved,0.6776945401207135
+16381,Gemma Evans,16376,Sophie Baggaley,0.7605714285714286,unresolved,0.6821406089590885
+16381,Gemma Evans,16383,Danique Kerkdijk,0.7594285714285715,unresolved,0.7112029717368196
+16381,Gemma Evans,22032,Hannah Hampton,0.9368571428571428,i_above_j_supported,0.8263677505208756
+16381,Gemma Evans,18145,Ria Percival,0.8885714285714286,unresolved,0.8289226104973462
+16381,Gemma Evans,18151,Gilly Louise Scarlett Flaherty,0.92,i_above_j_supported,0.8576863118237019
+16381,Gemma Evans,16395,Victoria Williams,0.9102857142857143,i_above_j_supported,0.8753899673702956
+16381,Gemma Evans,18254,Megan Finnigan,0.952,i_above_j_supported,0.8890536403785813
+16381,Gemma Evans,15719,Grace Moloney,0.98,i_above_j_supported,0.9059737033535653
+16381,Gemma Evans,10193,Chloe Arthur,0.9697142857142858,i_above_j_supported,0.9329700279899662
+16381,Gemma Evans,10172,Jill Scott,0.962,i_above_j_supported,0.9383601635390986
+16381,Gemma Evans,4637,Ellie Roebuck,0.9985714285714286,i_above_j_supported,0.9512655802299341
+16381,Gemma Evans,15563,Charlie Wellings,0.9302857142857143,i_above_j_supported,0.945858705195292
+16381,Gemma Evans,16384,Carla Humphrey,0.9982857142857143,i_above_j_supported,0.9725089387518957
+16381,Gemma Evans,21048,Rosella Ayane,0.9628571428571429,i_above_j_supported,0.9702887794637405
+16381,Gemma Evans,18147,Kate Longhurst,0.9854285714285714,i_above_j_supported,0.9749559488343224
+16381,Gemma Evans,10093,Yana Daniëls,0.9902857142857143,i_above_j_supported,0.9813490962161237
+16381,Gemma Evans,15580,Claudia Walker,0.9817142857142858,i_above_j_supported,0.9811142601131206
+16381,Gemma Evans,16400,Kayleigh Green,0.9891428571428571,i_above_j_supported,0.9841201406641382
+16386,Lucy Hope,19501,Hayley Ladd,0.5171428571428571,unresolved,0.49964089967370456
+16386,Lucy Hope,20034,Danielle Buet,0.5328571428571428,unresolved,0.4959188127579413
+16386,Lucy Hope,15564,Lucy Quinn,0.5337142857142857,unresolved,0.5661141244377405
+16386,Lucy Hope,15709,Megan Walsh,0.5357142857142857,unresolved,0.48613259439377304
+16386,Lucy Hope,16374,Aileen Whelan,0.592,unresolved,0.6034848456234065
+16386,Lucy Hope,16376,Sophie Baggaley,0.618,unresolved,0.6083630187787932
+16386,Lucy Hope,16383,Danique Kerkdijk,0.6337142857142857,unresolved,0.6406170887511972
+16386,Lucy Hope,22032,Hannah Hampton,0.7454285714285714,unresolved,0.7750257112638641
+16386,Lucy Hope,18145,Ria Percival,0.7408571428571429,unresolved,0.7781331999628794
+16386,Lucy Hope,18151,Gilly Louise Scarlett Flaherty,0.7691428571428571,unresolved,0.8135151394988993
+16386,Lucy Hope,16395,Victoria Williams,0.7842857142857143,unresolved,0.835660783489995
+16386,Lucy Hope,18254,Megan Finnigan,0.7937142857142857,unresolved,0.852949023140114
+16386,Lucy Hope,15719,Grace Moloney,0.8314285714285714,unresolved,0.8745986309500813
+16386,Lucy Hope,10193,Chloe Arthur,0.8591428571428571,unresolved,0.9097053837722346
+16386,Lucy Hope,10172,Jill Scott,0.8651428571428571,unresolved,0.9167994837222435
+16386,Lucy Hope,4637,Ellie Roebuck,0.8951428571428571,unresolved,0.9339010406921574
+16386,Lucy Hope,15563,Charlie Wellings,0.8577142857142858,unresolved,0.9267160604433606
+16386,Lucy Hope,16384,Carla Humphrey,0.9374285714285714,i_above_j_supported,0.9624145437488992
+16386,Lucy Hope,21048,Rosella Ayane,0.9091428571428571,i_above_j_supported,0.9594131903745663
+16386,Lucy Hope,18147,Kate Longhurst,0.9274285714285714,i_above_j_supported,0.9657284032466358
+16386,Lucy Hope,10093,Yana Daniëls,0.9468571428571428,i_above_j_supported,0.9744153076901838
+16386,Lucy Hope,15580,Claudia Walker,0.9428571428571428,i_above_j_supported,0.9740954718576087
+16386,Lucy Hope,16400,Kayleigh Green,0.9528571428571428,i_above_j_supported,0.978193643243628
+19501,Hayley Ladd,20034,Danielle Buet,0.4982857142857143,unresolved,0.4962778912644065
+19501,Hayley Ladd,15564,Lucy Quinn,0.5202857142857142,unresolved,0.5664669126396509
+19501,Hayley Ladd,15709,Megan Walsh,0.5205714285714286,unresolved,0.486491425640621
+19501,Hayley Ladd,16374,Aileen Whelan,0.594,unresolved,0.6038285122808243
+19501,Hayley Ladd,16376,Sophie Baggaley,0.6257142857142857,unresolved,0.6087051988385143
+19501,Hayley Ladd,16383,Danique Kerkdijk,0.6465714285714286,unresolved,0.6409477200947786
+19501,Hayley Ladd,22032,Hannah Hampton,0.7994285714285714,unresolved,0.7752760645266964
+19501,Hayley Ladd,18145,Ria Percival,0.7717142857142857,unresolved,0.7783810840141401
+19501,Hayley Ladd,18151,Gilly Louise Scarlett Flaherty,0.8151428571428572,unresolved,0.8137329553479133
+19501,Hayley Ladd,16395,Victoria Williams,0.8237142857142857,unresolved,0.8358579520583935
+19501,Hayley Ladd,18254,Megan Finnigan,0.8514285714285714,unresolved,0.8531290953356782
+19501,Hayley Ladd,15719,Grace Moloney,0.8948571428571429,unresolved,0.8747560847848971
+19501,Hayley Ladd,10193,Chloe Arthur,0.9105714285714286,i_above_j_supported,0.909823302532552
+19501,Hayley Ladd,10172,Jill Scott,0.9074285714285715,i_above_j_supported,0.9169089842574261
+19501,Hayley Ladd,4637,Ellie Roebuck,0.9637142857142857,i_above_j_supported,0.9339896543532518
+19501,Hayley Ladd,15563,Charlie Wellings,0.886,unresolved,0.9268135515893754
+19501,Hayley Ladd,16384,Carla Humphrey,0.9788571428571429,i_above_j_supported,0.9624664679025884
+19501,Hayley Ladd,21048,Rosella Ayane,0.9382857142857143,i_above_j_supported,0.9594690862668552
+19501,Hayley Ladd,18147,Kate Longhurst,0.9685714285714285,i_above_j_supported,0.965775912116641
+19501,Hayley Ladd,10093,Yana Daniëls,0.9737142857142858,i_above_j_supported,0.9744510929552029
+19501,Hayley Ladd,15580,Claudia Walker,0.9568571428571429,i_above_j_supported,0.974131692600322
+19501,Hayley Ladd,16400,Kayleigh Green,0.972,i_above_j_supported,0.9782242618581627
+20034,Danielle Buet,15564,Lucy Quinn,0.51,unresolved,0.5701196318076807
+20034,Danielle Buet,15709,Megan Walsh,0.4957142857142857,unresolved,0.4902115657113291
+20034,Danielle Buet,16374,Aileen Whelan,0.5934285714285714,unresolved,0.6073846211387416
+20034,Danielle Buet,16376,Sophie Baggaley,0.6385714285714286,unresolved,0.6122456435807353
+20034,Danielle Buet,16383,Danique Kerkdijk,0.6605714285714286,unresolved,0.6443668762455165
+20034,Danielle Buet,22032,Hannah Hampton,0.8357142857142857,unresolved,0.7778593860803097
+20034,Danielle Buet,18145,Ria Percival,0.8008571428571428,unresolved,0.7809387973308587
+20034,Danielle Buet,18151,Gilly Louise Scarlett Flaherty,0.8508571428571429,unresolved,0.8159791278853892
+20034,Danielle Buet,16395,Victoria Williams,0.8528571428571429,unresolved,0.8378904735171757
+20034,Danielle Buet,18254,Megan Finnigan,0.8865714285714286,unresolved,0.8549848571408841
+20034,Danielle Buet,15719,Grace Moloney,0.9377142857142857,i_above_j_supported,0.8763781795786559
+20034,Danielle Buet,10193,Chloe Arthur,0.9414285714285714,i_above_j_supported,0.9110374140471597
+20034,Danielle Buet,10172,Jill Scott,0.932,i_above_j_supported,0.9180362906159234
+20034,Danielle Buet,4637,Ellie Roebuck,0.9905714285714285,i_above_j_supported,0.934901677761279
+20034,Danielle Buet,15563,Charlie Wellings,0.894,unresolved,0.927817060111769
+20034,Danielle Buet,16384,Carla Humphrey,0.992,i_above_j_supported,0.9630006312029519
+20034,Danielle Buet,21048,Rosella Ayane,0.9425714285714286,i_above_j_supported,0.9600441363004205
+20034,Danielle Buet,18147,Kate Longhurst,0.9745714285714285,i_above_j_supported,0.9662646274925284
+20034,Danielle Buet,10093,Yana Daniëls,0.9825714285714285,i_above_j_supported,0.974819157869994
+20034,Danielle Buet,15580,Claudia Walker,0.9654285714285714,i_above_j_supported,0.974504238497245
+20034,Danielle Buet,16400,Kayleigh Green,0.9814285714285714,i_above_j_supported,0.9785391665546204
+15564,Lucy Quinn,15709,Megan Walsh,0.49057142857142855,unresolved,0.42031071649904744
+15564,Lucy Quinn,16374,Aileen Whelan,0.538,unresolved,0.5384222316135712
+15564,Lucy Quinn,16376,Sophie Baggaley,0.5574285714285714,unresolved,0.5434953539402956
+15564,Lucy Quinn,16383,Danique Kerkdijk,0.5665714285714286,unresolved,0.5773805217309498
+15564,Lucy Quinn,22032,Hannah Hampton,0.6548571428571428,unresolved,0.7252980396332575
+15564,Lucy Quinn,18145,Ria Percival,0.656,unresolved,0.7288520925416623
+15564,Lucy Quinn,18151,Gilly Louise Scarlett Flaherty,0.6797142857142857,unresolved,0.7697677611397485
+15564,Lucy Quinn,16395,Victoria Williams,0.6948571428571428,unresolved,0.7958045404299114
+15564,Lucy Quinn,18254,Megan Finnigan,0.7154285714285714,unresolved,0.8163642290863695
+15564,Lucy Quinn,15719,Grace Moloney,0.7354285714285714,unresolved,0.8424048581690096
+15564,Lucy Quinn,10193,Chloe Arthur,0.7671428571428571,unresolved,0.8853428707171719
+15564,Lucy Quinn,10172,Jill Scott,0.782,unresolved,0.8941282796533022
+15564,Lucy Quinn,4637,Ellie Roebuck,0.8028571428571428,unresolved,0.9154601122752404
+15564,Lucy Quinn,15563,Charlie Wellings,0.7905714285714286,unresolved,0.9064713475127599
+15564,Lucy Quinn,16384,Carla Humphrey,0.8562857142857143,unresolved,0.9515155984566523
+15564,Lucy Quinn,21048,Rosella Ayane,0.8525714285714285,unresolved,0.9476912230403104
+15564,Lucy Quinn,18147,Kate Longhurst,0.8631428571428571,unresolved,0.9557462171786042
+15564,Lucy Quinn,10093,Yana Daniëls,0.8888571428571429,unresolved,0.966876546985073
+15564,Lucy Quinn,15580,Claudia Walker,0.9028571428571428,i_above_j_supported,0.9664657119706921
+15564,Lucy Quinn,16400,Kayleigh Green,0.9042857142857142,i_above_j_supported,0.9717359100321672
+15709,Megan Walsh,16374,Aileen Whelan,0.6,unresolved,0.6166824629349624
+15709,Megan Walsh,16376,Sophie Baggaley,0.6945714285714286,unresolved,0.6215001047832007
+15709,Megan Walsh,16383,Danique Kerkdijk,0.6897142857142857,unresolved,0.6532888449203546
+15709,Megan Walsh,22032,Hannah Hampton,0.9182857142857143,i_above_j_supported,0.7845521115420016
+15709,Megan Walsh,18145,Ria Percival,0.8691428571428571,unresolved,0.7875640831174757
+15709,Megan Walsh,18151,Gilly Louise Scarlett Flaherty,0.9057142857142857,i_above_j_supported,0.8217864956813357
+15709,Megan Walsh,16395,Victoria Williams,0.9037142857142857,i_above_j_supported,0.8431392866369408
+15709,Megan Walsh,18254,Megan Finnigan,0.9351428571428572,i_above_j_supported,0.8597728149069416
+15709,Megan Walsh,15719,Grace Moloney,0.984,i_above_j_supported,0.8805584712142414
+15709,Megan Walsh,10193,Chloe Arthur,0.9648571428571429,i_above_j_supported,0.9141604939420384
+15709,Megan Walsh,10172,Jill Scott,0.9548571428571428,i_above_j_supported,0.9209349943352315
+15709,Megan Walsh,4637,Ellie Roebuck,1.0,i_above_j_supported,0.9372446979735898
+15709,Megan Walsh,15563,Charlie Wellings,0.9185714285714286,i_above_j_supported,0.930396085918686
+15709,Megan Walsh,16384,Carla Humphrey,0.9988571428571429,i_above_j_supported,0.9643708554208327
+15709,Megan Walsh,21048,Rosella Ayane,0.958,i_above_j_supported,0.9615194754100678
+15709,Megan Walsh,18147,Kate Longhurst,0.984,i_above_j_supported,0.9675180509942697
+15709,Megan Walsh,10093,Yana Daniëls,0.9902857142857143,i_above_j_supported,0.9757627139469612
+15709,Megan Walsh,15580,Claudia Walker,0.976,i_above_j_supported,0.9754592979066604
+15709,Megan Walsh,16400,Kayleigh Green,0.9882857142857143,i_above_j_supported,0.9793462828402586
+16374,Aileen Whelan,16376,Sophie Baggaley,0.524,unresolved,0.5051072631256237
+16374,Aileen Whelan,16383,Danique Kerkdijk,0.55,unresolved,0.5394271789993694
+16374,Aileen Whelan,22032,Hannah Hampton,0.7185714285714285,unresolved,0.6935786254692637
+16374,Aileen Whelan,18145,Ria Percival,0.6948571428571428,unresolved,0.6973718293071884
+16374,Aileen Whelan,18151,Gilly Louise Scarlett Flaherty,0.742,unresolved,0.7413520626994857
+16374,Aileen Whelan,16395,Victoria Williams,0.7557142857142857,unresolved,0.7696406817419215
+16374,Aileen Whelan,18254,Megan Finnigan,0.7954285714285714,unresolved,0.7921466584436829
+16374,Aileen Whelan,15719,Grace Moloney,0.8388571428571429,unresolved,0.8208679274469681
+16374,Aileen Whelan,10193,Chloe Arthur,0.8645714285714285,unresolved,0.8687596678821989
+16374,Aileen Whelan,10172,Jill Scott,0.8645714285714285,unresolved,0.8786415609338128
+16374,Aileen Whelan,4637,Ellie Roebuck,0.9337142857142857,i_above_j_supported,0.9027544010854208
+16374,Aileen Whelan,15563,Charlie Wellings,0.85,unresolved,0.8925732220147843
+16374,Aileen Whelan,16384,Carla Humphrey,0.9651428571428572,i_above_j_supported,0.9438966648485833
+16374,Aileen Whelan,21048,Rosella Ayane,0.9077142857142857,i_above_j_supported,0.9395095249176294
+16374,Aileen Whelan,18147,Kate Longhurst,0.9397142857142857,i_above_j_supported,0.9487562881580446
+16374,Aileen Whelan,10093,Yana Daniëls,0.9628571428571429,i_above_j_supported,0.9615739819197001
+16374,Aileen Whelan,15580,Claudia Walker,0.9428571428571428,i_above_j_supported,0.9611000244566155
+16374,Aileen Whelan,16400,Kayleigh Green,0.9617142857142857,i_above_j_supported,0.9671848539018879
+16376,Sophie Baggaley,16383,Danique Kerkdijk,0.5371428571428571,unresolved,0.5343475814736214
+16376,Sophie Baggaley,22032,Hannah Hampton,0.7845714285714286,unresolved,0.6892196556737773
+16376,Sophie Baggaley,18145,Ria Percival,0.7294285714285714,unresolved,0.6930429383706467
+16376,Sophie Baggaley,18151,Gilly Louise Scarlett Flaherty,0.802,unresolved,0.7374153985038484
+16376,Sophie Baggaley,16395,Victoria Williams,0.8022857142857143,unresolved,0.7659986732773758
+16376,Sophie Baggaley,18254,Megan Finnigan,0.8568571428571429,unresolved,0.7887628124700756
+16376,Sophie Baggaley,15719,Grace Moloney,0.9088571428571428,i_above_j_supported,0.8178441414845583
+16376,Sophie Baggaley,10193,Chloe Arthur,0.9077142857142857,i_above_j_supported,0.8664127423999973
+16376,Sophie Baggaley,10172,Jill Scott,0.904,i_above_j_supported,0.8764462178431698
+16376,Sophie Baggaley,4637,Ellie Roebuck,0.9871428571428571,i_above_j_supported,0.9009460785126464
+16376,Sophie Baggaley,15563,Charlie Wellings,0.8688571428571429,unresolved,0.8905985195512992
+16376,Sophie Baggaley,16384,Carla Humphrey,0.9908571428571429,i_above_j_supported,0.9428049287455236
+16376,Sophie Baggaley,21048,Rosella Ayane,0.9245714285714286,i_above_j_supported,0.938337994831579
+16376,Sophie Baggaley,18147,Kate Longhurst,0.9622857142857143,i_above_j_supported,0.9477538829795156
+16376,Sophie Baggaley,10093,Yana Daniëls,0.9762857142857143,i_above_j_supported,0.9608119539198752
+16376,Sophie Baggaley,15580,Claudia Walker,0.9554285714285714,i_above_j_supported,0.9603289851573424
+16376,Sophie Baggaley,16400,Kayleigh Green,0.9734285714285714,i_above_j_supported,0.9665302223562044
+16383,Danique Kerkdijk,22032,Hannah Hampton,0.7088571428571429,unresolved,0.6590057384577842
+16383,Danique Kerkdijk,18145,Ria Percival,0.682,unresolved,0.6630189842527272
+16383,Danique Kerkdijk,18151,Gilly Louise Scarlett Flaherty,0.7342857142857143,unresolved,0.7099149442157003
+16383,Danique Kerkdijk,16395,Victoria Williams,0.7491428571428571,unresolved,0.740438055481803
+16383,Danique Kerkdijk,18254,Megan Finnigan,0.7825714285714286,unresolved,0.7649256851696083
+16383,Danique Kerkdijk,15719,Grace Moloney,0.8557142857142858,unresolved,0.7964417906528538
+16383,Danique Kerkdijk,10193,Chloe Arthur,0.8742857142857143,unresolved,0.8496679954278441
+16383,Danique Kerkdijk,10172,Jill Scott,0.8722857142857143,unresolved,0.8607570138565421
+16383,Danique Kerkdijk,4637,Ellie Roebuck,0.9525714285714286,i_above_j_supported,0.887970270992022
+16383,Danique Kerkdijk,15563,Charlie Wellings,0.8451428571428572,unresolved,0.8764530890230173
+16383,Danique Kerkdijk,16384,Carla Humphrey,0.9728571428571429,i_above_j_supported,0.934916406013664
+16383,Danique Kerkdijk,21048,Rosella Ayane,0.914,i_above_j_supported,0.9298792003775748
+16383,Danique Kerkdijk,18147,Kate Longhurst,0.9457142857142857,i_above_j_supported,0.9405048619628186
+16383,Danique Kerkdijk,10093,Yana Daniëls,0.9634285714285714,i_above_j_supported,0.9552892369136595
+16383,Danique Kerkdijk,15580,Claudia Walker,0.9377142857142857,i_above_j_supported,0.9547414101608742
+16383,Danique Kerkdijk,16400,Kayleigh Green,0.962,i_above_j_supported,0.9617813176057574
+22032,Hannah Hampton,18145,Ria Percival,0.5048571428571429,unresolved,0.5044774889331606
+22032,Hannah Hampton,18151,Gilly Louise Scarlett Flaherty,0.59,unresolved,0.5587534169225226
+22032,Hannah Hampton,16395,Victoria Williams,0.6251428571428571,unresolved,0.5961334387674592
+22032,Hannah Hampton,18254,Megan Finnigan,0.6628571428571428,unresolved,0.627383999993451
+22032,Hannah Hampton,15719,Grace Moloney,0.7468571428571429,unresolved,0.669369646040884
+22032,Hannah Hampton,10193,Chloe Arthur,0.7965714285714286,unresolved,0.7451922451647135
+22032,Hannah Hampton,10172,Jill Scott,0.7945714285714286,unresolved,0.7618275358305531
+22032,Hannah Hampton,4637,Ellie Roebuck,0.9505714285714286,i_above_j_supported,0.8039720725236038
+22032,Hannah Hampton,15563,Charlie Wellings,0.7737142857142857,unresolved,0.7859015642315746
+22032,Hannah Hampton,16384,Carla Humphrey,0.966,i_above_j_supported,0.8814170333577128
+22032,Hannah Hampton,21048,Rosella Ayane,0.8788571428571429,unresolved,0.8728025362276145
+22032,Hannah Hampton,18147,Kate Longhurst,0.918,i_above_j_supported,0.8910639930868866
+22032,Hannah Hampton,10093,Yana Daniëls,0.9474285714285714,i_above_j_supported,0.9170507097015416
+22032,Hannah Hampton,15580,Claudia Walker,0.9191428571428572,i_above_j_supported,0.9160755194588659
+22032,Hannah Hampton,16400,Kayleigh Green,0.9488571428571428,i_above_j_supported,0.9286805707138251
+18145,Ria Percival,18151,Gilly Louise Scarlett Flaherty,0.572,unresolved,0.5543331011412611
+18145,Ria Percival,16395,Victoria Williams,0.5937142857142857,unresolved,0.5918140302398895
+18145,Ria Percival,18254,Megan Finnigan,0.6297142857142857,unresolved,0.623187556300589
+18145,Ria Percival,15719,Grace Moloney,0.6945714285714286,unresolved,0.6653938633262676
+18145,Ria Percival,10193,Chloe Arthur,0.7625714285714286,unresolved,0.7417764892164305
+18145,Ria Percival,10172,Jill Scott,0.7577142857142857,unresolved,0.7585625292273994
+18145,Ria Percival,4637,Ellie Roebuck,0.8642857142857143,unresolved,0.8011339951119849
+18145,Ria Percival,15563,Charlie Wellings,0.7597142857142857,unresolved,0.7828725196107514
+18145,Ria Percival,16384,Carla Humphrey,0.9268571428571428,i_above_j_supported,0.8795321903706863
+18145,Ria Percival,21048,Rosella Ayane,0.8565714285714285,unresolved,0.8708008388576556
+18145,Ria Percival,18147,Kate Longhurst,0.8954285714285715,unresolved,0.8893132301939095
+18145,Ria Percival,10093,Yana Daniëls,0.926,i_above_j_supported,0.9156780698115826
+18145,Ria Percival,15580,Claudia Walker,0.9025714285714286,i_above_j_supported,0.9146882434146374
+18145,Ria Percival,16400,Kayleigh Green,0.9334285714285714,i_above_j_supported,0.9274851632636016
+18151,Gilly Louise Scarlett Flaherty,16395,Victoria Williams,0.5445714285714286,unresolved,0.5382440572884429
+18151,Gilly Louise Scarlett Flaherty,18254,Megan Finnigan,0.5865714285714285,unresolved,0.5707485820300152
+18151,Gilly Louise Scarlett Flaherty,15719,Grace Moloney,0.6397142857142857,unresolved,0.6152017401153885
+18151,Gilly Louise Scarlett Flaherty,10193,Chloe Arthur,0.7257142857142858,unresolved,0.6978390101461199
+18151,Gilly Louise Scarlett Flaherty,10172,Jill Scott,0.7277142857142858,unresolved,0.7163892066730313
+18151,Gilly Louise Scarlett Flaherty,4637,Ellie Roebuck,0.8462857142857143,unresolved,0.7640841944419756
+18151,Gilly Louise Scarlett Flaherty,15563,Charlie Wellings,0.7297142857142858,unresolved,0.7435097566276735
+18151,Gilly Louise Scarlett Flaherty,16384,Carla Humphrey,0.918,i_above_j_supported,0.8544344919579568
+18151,Gilly Louise Scarlett Flaherty,21048,Rosella Ayane,0.8377142857142857,unresolved,0.8442063042070982
+18151,Gilly Louise Scarlett Flaherty,18147,Kate Longhurst,0.8797142857142857,unresolved,0.8659426782840672
+18151,Gilly Louise Scarlett Flaherty,10093,Yana Daniëls,0.9157142857142857,i_above_j_supported,0.8972309363657501
+18151,Gilly Louise Scarlett Flaherty,15580,Claudia Walker,0.89,unresolved,0.8960491482291354
+18151,Gilly Louise Scarlett Flaherty,16400,Kayleigh Green,0.9214285714285714,i_above_j_supported,0.9113710572497201
+16395,Victoria Williams,18254,Megan Finnigan,0.5274285714285715,unresolved,0.5328601654255657
+16395,Victoria Williams,15719,Grace Moloney,0.5697142857142857,unresolved,0.5783382477787721
+16395,Victoria Williams,10193,Chloe Arthur,0.6671428571428571,unresolved,0.6645757839497345
+16395,Victoria Williams,10172,Jill Scott,0.6768571428571428,unresolved,0.6842440712244986
+16395,Victoria Williams,4637,Ellie Roebuck,0.7551428571428571,unresolved,0.7353478623025643
+16395,Victoria Williams,15563,Charlie Wellings,0.6968571428571428,unresolved,0.7132079523367317
+16395,Victoria Williams,16384,Carla Humphrey,0.8725714285714286,unresolved,0.8343171266834276
+16395,Victoria Williams,21048,Rosella Ayane,0.8102857142857143,unresolved,0.8229682644061685
+16395,Victoria Williams,18147,Kate Longhurst,0.8502857142857143,unresolved,0.84713121048906
+16395,Victoria Williams,10093,Yana Daniëls,0.8854285714285715,unresolved,0.8822127601138082
+16395,Victoria Williams,15580,Claudia Walker,0.8674285714285714,unresolved,0.8808811993759866
+16395,Victoria Williams,16400,Kayleigh Green,0.8962857142857142,unresolved,0.8981847644489622
+18254,Megan Finnigan,15719,Grace Moloney,0.548,unresolved,0.5459512344543515
+18254,Megan Finnigan,10193,Chloe Arthur,0.652,unresolved,0.634627882131301
+18254,Megan Finnigan,10172,Jill Scott,0.6591428571428571,unresolved,0.6551409801467272
+18254,Megan Finnigan,4637,Ellie Roebuck,0.7562857142857143,unresolved,0.7089514595729101
+18254,Megan Finnigan,15563,Charlie Wellings,0.6817142857142857,unresolved,0.6855476091689723
+18254,Megan Finnigan,16384,Carla Humphrey,0.8654285714285714,unresolved,0.8153127046667606
+18254,Megan Finnigan,21048,Rosella Ayane,0.8062857142857143,unresolved,0.8029695067067186
+18254,Megan Finnigan,18147,Kate Longhurst,0.8454285714285714,unresolved,0.8292958795303631
+18254,Megan Finnigan,10093,Yana Daniëls,0.8882857142857142,unresolved,0.8678318403337508
+18254,Megan Finnigan,15580,Claudia Walker,0.8674285714285714,unresolved,0.866362332857161
+18254,Megan Finnigan,16400,Kayleigh Green,0.894,unresolved,0.8855008129389755
+15719,Grace Moloney,10193,Chloe Arthur,0.6385714285714286,unresolved,0.5909266521904656
+15719,Grace Moloney,10172,Jill Scott,0.6497142857142857,unresolved,0.6123947584568881
+15719,Grace Moloney,4637,Ellie Roebuck,0.7648571428571429,unresolved,0.6695104978530625
+15719,Grace Moloney,15563,Charlie Wellings,0.6754285714285714,unresolved,0.6445253491334454
+15719,Grace Moloney,16384,Carla Humphrey,0.8765714285714286,unresolved,0.7859330130901676
+15719,Grace Moloney,21048,Rosella Ayane,0.7985714285714286,unresolved,0.7721749584597871
+15719,Grace Moloney,18147,Kate Longhurst,0.8371428571428572,unresolved,0.8015993077061271
+15719,Grace Moloney,10093,Yana Daniëls,0.8848571428571429,unresolved,0.8452207415062354
+15719,Grace Moloney,15580,Claudia Walker,0.862,unresolved,0.8435451563940695
+15719,Grace Moloney,16400,Kayleigh Green,0.8997142857142857,unresolved,0.8654438135903598
+10193,Chloe Arthur,10172,Jill Scott,0.5351428571428571,unresolved,0.5223830986074672
+10193,Chloe Arthur,4637,Ellie Roebuck,0.5568571428571428,unresolved,0.5837470246214003
+10193,Chloe Arthur,15563,Charlie Wellings,0.5928571428571429,unresolved,0.5565724160717505
+10193,Chloe Arthur,16384,Carla Humphrey,0.7402857142857143,unresolved,0.7176399897549641
+10193,Chloe Arthur,21048,Rosella Ayane,0.7257142857142858,unresolved,0.7011616681532395
+10193,Chloe Arthur,18147,Kate Longhurst,0.7605714285714286,unresolved,0.7366294008975376
+10193,Chloe Arthur,10093,Yana Daniëls,0.816,unresolved,0.7908076225462578
+10193,Chloe Arthur,15580,Claudia Walker,0.802,unresolved,0.788690247835965
+10193,Chloe Arthur,16400,Kayleigh Green,0.838,unresolved,0.8165975069594947
+10172,Jill Scott,4637,Ellie Roebuck,0.5085714285714286,unresolved,0.561827513136801
+10172,Jill Scott,15563,Charlie Wellings,0.5674285714285714,unresolved,0.5343633701287596
+10172,Jill Scott,16384,Carla Humphrey,0.6748571428571428,unresolved,0.6991372455426114
+10172,Jill Scott,21048,Rosella Ayane,0.6948571428571428,unresolved,0.6820575138162873
+10172,Jill Scott,18147,Kate Longhurst,0.7088571428571429,unresolved,0.7188835688922016
+10172,Jill Scott,10093,Yana Daniëls,0.7711428571428571,unresolved,0.7756002456158583
+10172,Jill Scott,15580,Claudia Walker,0.772,unresolved,0.7733730579602568
+10172,Jill Scott,16400,Kayleigh Green,0.8065714285714286,unresolved,0.8027974232240397
+4637,Ellie Roebuck,15563,Charlie Wellings,0.5668571428571428,unresolved,0.472300454988273
+4637,Ellie Roebuck,16384,Carla Humphrey,0.7591428571428571,unresolved,0.6444223364454249
+4637,Ellie Roebuck,21048,Rosella Ayane,0.714,unresolved,0.6258985387382241
+4637,Ellie Roebuck,18147,Kate Longhurst,0.754,unresolved,0.6660443883391821
+4637,Ellie Roebuck,10093,Yana Daniëls,0.8171428571428572,unresolved,0.729408950917111
+4637,Ellie Roebuck,15580,Claudia Walker,0.7991428571428572,unresolved,0.7268847473424074
+4637,Ellie Roebuck,16400,Kayleigh Green,0.8371428571428572,unresolved,0.7604755842711101
+15563,Charlie Wellings,16384,Carla Humphrey,0.556,unresolved,0.6694110118416674
+15563,Charlie Wellings,21048,Rosella Ayane,0.6111428571428571,unresolved,0.6514849700695372
+15563,Charlie Wellings,18147,Kate Longhurst,0.6151428571428571,unresolved,0.6902439365029317
+15563,Charlie Wellings,10093,Yana Daniëls,0.6757142857142857,unresolved,0.7507352828773413
+15563,Charlie Wellings,15580,Claudia Walker,0.6905714285714286,unresolved,0.7483413830864087
+15563,Charlie Wellings,16400,Kayleigh Green,0.7117142857142857,unresolved,0.7800916232248577
+16384,Carla Humphrey,21048,Rosella Ayane,0.5854285714285714,unresolved,0.4800232913918516
+16384,Carla Humphrey,18147,Kate Longhurst,0.6068571428571429,unresolved,0.5239161373965904
+16384,Carla Humphrey,10093,Yana Daniëls,0.6802857142857143,unresolved,0.5979703402090358
+16384,Carla Humphrey,15580,Claudia Walker,0.6962857142857143,unresolved,0.5949009777835842
+16384,Carla Humphrey,16400,Kayleigh Green,0.7245714285714285,unresolved,0.6366094077280748
+21048,Rosella Ayane,18147,Kate Longhurst,0.49714285714285716,unresolved,0.5438091240161633
+21048,Rosella Ayane,10093,Yana Daniëls,0.5528571428571428,unresolved,0.6170308726593149
+21048,Rosella Ayane,15580,Claudia Walker,0.598,unresolved,0.6140130980798983
+21048,Rosella Ayane,16400,Kayleigh Green,0.6131428571428571,unresolved,0.654895275585172
+18147,Kate Longhurst,10093,Yana Daniëls,0.5662857142857143,unresolved,0.5747548266118963
+18147,Kate Longhurst,15580,Claudia Walker,0.61,unresolved,0.571635191887672
+18147,Kate Longhurst,16400,Kayleigh Green,0.6171428571428571,unresolved,0.6141855241167173
+10093,Yana Daniëls,15580,Claudia Walker,0.5454285714285714,unresolved,0.49681207903513164
+10093,Yana Daniëls,16400,Kayleigh Green,0.5648571428571428,unresolved,0.5408245994091749
+15580,Claudia Walker,16400,Kayleigh Green,0.49885714285714283,unresolved,0.5439896201526534

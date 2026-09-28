@@ -1,0 +1,2 @@
+team,eligible_players,fixed_screen_players,fixed_cohort_min_matches,n_min,n_max,mean_of_median_spearman_curve,median_of_median_spearman_curve,median_spearman_at_n_max,first_sustained_080_n,sustained_stability_demonstrated
+Bayer Leverkusen,18,12,24,5,12,0.19798951048951052,0.19930069930069932,0.2412587412587413,,False

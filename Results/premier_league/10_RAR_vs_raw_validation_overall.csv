@@ -1,0 +1,2 @@
+dataset,fixed_validation_players,validation_minimum_matches_required,tested_n_values,reps_per_n,inner_bootstrap_draws,pooled_median_RAR_minus_raw,pooled_mean_RAR_minus_raw,pooled_fraction_RAR_better,pooled_fraction_equal,pooled_fraction_RAR_worse,n_points_RAR_higher_median,n_points_equal_median,n_points_RAR_lower_median
+Premier League 2015/16,141,30,"5,10,15",200,300,0.01109208442142215,0.013214342769249595,0.7383333333333333,0.0,0.26166666666666666,3,0,0

@@ -1,0 +1,131 @@
+experiment,player_i_id,player_i_name,player_j_id,player_j_name,P_i_above_j,support_status,BT_pred_P_i_above_j,raw_i_above_j,RAR_i_above_j,label
+primary_outfield,5203,Sergio Busquets i Burgos,5211,Jordi Alba Ramos,0.9957142857142857,i_above_j_supported,0.9826213674072284,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5203,Sergio Busquets i Burgos,5213,Gerard Piqué Bernabéu,0.9988571428571429,i_above_j_supported,0.989758258355985,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5203,Sergio Busquets i Burgos,5246,Luis Alberto Suárez Díaz,0.12742857142857142,unresolved,0.14274781887833915,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5203,Sergio Busquets i Burgos,5470,Ivan Rakitić,0.43714285714285717,unresolved,0.444518379653519,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5203,Sergio Busquets i Burgos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0005975194462649733,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5203,Sergio Busquets i Burgos,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9984024137166388,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5211,Jordi Alba Ramos,5213,Gerard Piqué Bernabéu,0.6331428571428571,unresolved,0.6308829669879071,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5211,Jordi Alba Ramos,5246,Luis Alberto Suárez Díaz,0.012285714285714285,j_above_i_supported,0.002936386022518115,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5211,Jordi Alba Ramos,5470,Ivan Rakitić,0.018285714285714287,j_above_i_supported,0.013955517136812114,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5211,Jordi Alba Ramos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.0573929894228112e-05,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5211,Jordi Alba Ramos,6379,Sergi Roberto Carnicer,0.9122857142857143,i_above_j_supported,0.917031444243138,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5213,Gerard Piqué Bernabéu,5246,Luis Alberto Suárez Díaz,0.008,j_above_i_supported,0.0017201165883959147,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5213,Gerard Piqué Bernabéu,5470,Ivan Rakitić,0.004857142857142857,j_above_i_supported,0.008212649266489494,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5213,Gerard Piqué Bernabéu,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,6.1866224925824885e-06,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5213,Gerard Piqué Bernabéu,6379,Sergi Roberto Carnicer,0.8722857142857143,unresolved,0.8660728991343248,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5246,Luis Alberto Suárez Díaz,5470,Ivan Rakitić,0.834,unresolved,0.8277562992793989,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5246,Luis Alberto Suárez Díaz,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0035776200181147377,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5246,Luis Alberto Suárez Díaz,6379,Sergi Roberto Carnicer,0.9988571428571429,i_above_j_supported,0.9997336186105933,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5470,Ivan Rakitić,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0007465643405596544,False,False,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5470,Ivan Rakitić,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9987211400921332,True,True,Primary 2015/16–2019/20 — outfield only
+primary_outfield,5503,Lionel Andrés Messi Cuccittini,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9999990433129258,True,True,Primary 2015/16–2019/20 — outfield only
+primary_all,5203,Sergio Busquets i Burgos,5211,Jordi Alba Ramos,0.9962857142857143,i_above_j_supported,0.9842863655353863,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,5213,Gerard Piqué Bernabéu,0.9994285714285714,i_above_j_supported,0.9907017130961787,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,5246,Luis Alberto Suárez Díaz,0.12028571428571429,unresolved,0.1340715522846018,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,5470,Ivan Rakitić,0.4228571428571429,unresolved,0.42956147329156374,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0007110284874983034,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9987089122763209,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5203,Sergio Busquets i Burgos,20055,Marc-André ter Stegen,1.0,i_above_j_supported,0.999576735816357,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,5213,Gerard Piqué Bernabéu,0.6282857142857143,unresolved,0.6297618325499859,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,5246,Luis Alberto Suárez Díaz,0.009428571428571429,j_above_i_supported,0.002465685330532052,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,5470,Ivan Rakitić,0.015142857142857144,j_above_i_supported,0.011879051286607227,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.1359158264229773e-05,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,6379,Sergi Roberto Carnicer,0.9145714285714286,i_above_j_supported,0.9250890683703153,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5211,Jordi Alba Ramos,20055,Marc-André ter Stegen,0.9862857142857143,i_above_j_supported,0.9741612758597065,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5213,Gerard Piqué Bernabéu,5246,Luis Alberto Suárez Díaz,0.005142857142857143,j_above_i_supported,0.0014510554733715027,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5213,Gerard Piqué Bernabéu,5470,Ivan Rakitić,0.003142857142857143,j_above_i_supported,0.007018072437675886,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5213,Gerard Piqué Bernabéu,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,6.678101798167703e-06,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5213,Gerard Piqué Bernabéu,6379,Sergi Roberto Carnicer,0.8668571428571429,unresolved,0.878936237273775,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5213,Gerard Piqué Bernabéu,20055,Marc-André ter Stegen,0.9742857142857143,i_above_j_supported,0.9568311330585113,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5246,Luis Alberto Suárez Díaz,5470,Ivan Rakitić,0.8357142857142857,unresolved,0.8294576075161396,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5246,Luis Alberto Suárez Díaz,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.004574567172912264,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5246,Luis Alberto Suárez Díaz,6379,Sergi Roberto Carnicer,0.9982857142857143,i_above_j_supported,0.9997998827445955,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5246,Luis Alberto Suárez Díaz,20055,Marc-André ter Stegen,0.9991428571428571,i_above_j_supported,0.9999344426275558,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5470,Ivan Rakitić,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0009439940740725999,False,False,Primary 2015/16–2019/20 — all players
+primary_all,5470,Ivan Rakitić,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9990274527224883,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5470,Ivan Rakitić,20055,Marc-André ter Stegen,1.0,i_above_j_supported,0.9996812329719836,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5503,Lionel Andrés Messi Cuccittini,6379,Sergi Roberto Carnicer,1.0,i_above_j_supported,0.9999990801599107,True,True,Primary 2015/16–2019/20 — all players
+primary_all,5503,Lionel Andrés Messi Cuccittini,20055,Marc-André ter Stegen,1.0,i_above_j_supported,0.9999996987055331,True,True,Primary 2015/16–2019/20 — all players
+primary_all,6379,Sergi Roberto Carnicer,20055,Marc-André ter Stegen,0.728,unresolved,0.753266890118685,True,True,Primary 2015/16–2019/20 — all players
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,4324,Daniel Alves da Silva,0.0,j_above_i_supported,0.0001953061184649444,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,5203,Sergio Busquets i Burgos,0.1677142857142857,unresolved,0.09916918019945013,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,5213,Gerard Piqué Bernabéu,0.3377142857142857,unresolved,0.3545655607942534,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.0006235112313621458,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.167087641559864e-07,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,20125,Carles Puyol i Saforcada,0.5565714285714286,unresolved,0.670456693728185,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,20131,Xavier Hernández Creus,0.0,j_above_i_supported,1.480349484898783e-05,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,3958,Pedro Eliezer Rodríguez Ledesma,20177,Eric-Sylvain Bilal Abidal,0.16057142857142856,unresolved,0.10157007895831002,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,5203,Sergio Busquets i Burgos,1.0,i_above_j_supported,0.9982286791544254,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,5213,Gerard Piqué Bernabéu,1.0,i_above_j_supported,0.9996445308983023,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,5216,Andrés Iniesta Luján,0.77,unresolved,0.7615555943592872,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0005970950225981773,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9999039934764353,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,20131,Xavier Hernández Creus,0.061142857142857145,j_above_i_supported,0.07044423499246152,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,4324,Daniel Alves da Silva,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9982750785457907,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,5213,Gerard Piqué Bernabéu,0.8631428571428571,unresolved,0.8330584166045815,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.00563543319878672,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.0601555069019745e-06,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,20125,Carles Puyol i Saforcada,0.9817142857142858,i_above_j_supported,0.9486678524003236,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,20131,Xavier Hernández Creus,0.0,j_above_i_supported,0.00013445557114294868,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5203,Sergio Busquets i Burgos,20177,Eric-Sylvain Bilal Abidal,0.5174285714285715,unresolved,0.5066472267712933,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5213,Gerard Piqué Bernabéu,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.001134430204601795,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5213,Gerard Piqué Bernabéu,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,2.1245111443595353e-07,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5213,Gerard Piqué Bernabéu,20125,Carles Puyol i Saforcada,0.8382857142857143,unresolved,0.7873929349145911,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5213,Gerard Piqué Bernabéu,20131,Xavier Hernández Creus,0.0,j_above_i_supported,2.6947257210181713e-05,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5213,Gerard Piqué Bernabéu,20177,Eric-Sylvain Bilal Abidal,0.13057142857142856,unresolved,0.17067239711981314,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5216,Andrés Iniesta Luján,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.00018702821770126538,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5216,Andrés Iniesta Luján,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9996934341632243,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5216,Andrés Iniesta Luján,20131,Xavier Hernández Creus,0.02057142857142857,j_above_i_supported,0.023177739701093627,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5216,Andrés Iniesta Luján,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.994511629317612,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5503,Lionel Andrés Messi Cuccittini,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9999999426352297,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5503,Lionel Andrés Messi Cuccittini,20131,Xavier Hernández Creus,1.0,i_above_j_supported,0.9921779175061679,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,5503,Lionel Andrés Messi Cuccittini,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9999989676630082,True,True,Validation 2008/09–2012/13 — outfield only
+validation_outfield,20125,Carles Puyol i Saforcada,20131,Xavier Hernández Creus,0.0,j_above_i_supported,7.276278100899081e-06,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,20125,Carles Puyol i Saforcada,20177,Eric-Sylvain Bilal Abidal,0.018,j_above_i_supported,0.05264258479054252,False,False,Validation 2008/09–2012/13 — outfield only
+validation_outfield,20131,Xavier Hernández Creus,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9998690720891584,True,True,Validation 2008/09–2012/13 — outfield only
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,4324,Daniel Alves da Silva,0.0,j_above_i_supported,0.00021124701302928885,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,5203,Sergio Busquets i Burgos,0.154,unresolved,0.08897138037585872,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,5213,Gerard Piqué Bernabéu,0.3345714285714286,unresolved,0.3306248762339965,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.0007273140825249851,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.6707178477417166e-07,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,20125,Carles Puyol i Saforcada,0.5568571428571428,unresolved,0.6420020626778483,True,True,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,20131,Xavier Hernández Creus,0.0,j_above_i_supported,1.821841069577985e-05,False,False,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,20176,Víctor Valdés Arribas,0.9248571428571428,i_above_j_supported,0.9753703873574083,True,True,Validation 2008/09–2012/13 — all players
+validation_all,3958,Pedro Eliezer Rodríguez Ledesma,20177,Eric-Sylvain Bilal Abidal,0.15771428571428572,unresolved,0.09401004974178649,False,False,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,5203,Sergio Busquets i Burgos,1.0,i_above_j_supported,0.9978411352998366,True,True,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,5213,Gerard Piqué Bernabéu,1.0,i_above_j_supported,0.9995724069569318,True,True,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,5216,Andrés Iniesta Luján,0.7874285714285715,unresolved,0.7750146411135109,True,True,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.0007900918582395511,False,False,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9998821918694216,True,True,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,20131,Xavier Hernández Creus,0.06657142857142857,j_above_i_supported,0.07938090551307575,False,False,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.9999946645871756,True,True,Validation 2008/09–2012/13 — all players
+validation_all,4324,Daniel Alves da Silva,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9979678863452095,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,5213,Gerard Piqué Bernabéu,0.8602857142857143,unresolved,0.8349191259378336,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.007397670135018395,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,1.7107404859906999e-06,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,20125,Carles Puyol i Saforcada,0.9842857142857143,i_above_j_supported,0.9483544287084958,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,20131,Xavier Hernández Creus,0.0,j_above_i_supported,0.00018651728328227394,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.9975399913210656,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5203,Sergio Busquets i Burgos,20177,Eric-Sylvain Bilal Abidal,0.5242857142857142,unresolved,0.5151536173459192,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,5216,Andrés Iniesta Luján,0.0,j_above_i_supported,0.00147140601679284,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,3.3824943465063567e-07,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,20125,Carles Puyol i Saforcada,0.8365714285714285,unresolved,0.7840497621573851,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,20131,Xavier Hernández Creus,0.0,j_above_i_supported,3.688386495525311e-05,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.9876811339735772,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5213,Gerard Piqué Bernabéu,20177,Eric-Sylvain Bilal Abidal,0.13685714285714284,unresolved,0.17360843414691274,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5216,Andrés Iniesta Luján,5503,Lionel Andrés Messi Cuccittini,0.0,j_above_i_supported,0.00022949093030909292,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5216,Andrés Iniesta Luján,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9995942992116273,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5216,Andrés Iniesta Luján,20131,Xavier Hernández Creus,0.022571428571428572,j_above_i_supported,0.024419871039821003,False,False,Validation 2008/09–2012/13 — all players
+validation_all,5216,Andrés Iniesta Luján,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.9999816211635253,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5216,Andrés Iniesta Luján,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9930345140429295,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5503,Lionel Andrés Messi Cuccittini,20125,Carles Puyol i Saforcada,1.0,i_above_j_supported,0.9999999068361891,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5503,Lionel Andrés Messi Cuccittini,20131,Xavier Hernández Creus,1.0,i_above_j_supported,0.9909130045139605,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5503,Lionel Andrés Messi Cuccittini,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.999999995781178,True,True,Validation 2008/09–2012/13 — all players
+validation_all,5503,Lionel Andrés Messi Cuccittini,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9999983899046967,True,True,Validation 2008/09–2012/13 — all players
+validation_all,20125,Carles Puyol i Saforcada,20131,Xavier Hernández Creus,0.0,j_above_i_supported,1.0159166759925329e-05,False,False,Validation 2008/09–2012/13 — all players
+validation_all,20125,Carles Puyol i Saforcada,20176,Víctor Valdés Arribas,0.9968571428571429,i_above_j_supported,0.9566778851521323,True,True,Validation 2008/09–2012/13 — all players
+validation_all,20125,Carles Puyol i Saforcada,20177,Eric-Sylvain Bilal Abidal,0.014,j_above_i_supported,0.054697301493574366,False,False,Validation 2008/09–2012/13 — all players
+validation_all,20131,Xavier Hernández Creus,20176,Víctor Valdés Arribas,1.0,i_above_j_supported,0.9999995399487489,True,True,Validation 2008/09–2012/13 — all players
+validation_all,20131,Xavier Hernández Creus,20177,Eric-Sylvain Bilal Abidal,1.0,i_above_j_supported,0.9998244538728097,True,True,Validation 2008/09–2012/13 — all players
+validation_all,20176,Víctor Valdés Arribas,20177,Eric-Sylvain Bilal Abidal,0.0,j_above_i_supported,0.0026133793541994405,False,False,Validation 2008/09–2012/13 — all players

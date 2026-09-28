@@ -1,0 +1,27 @@
+ReliableVAEP WSL 2018/19-2020/21 longitudinal league experiment
+============================================================================
+
+StatsBomb matches analysed: 325
+Official played matches across selected seasons: 328
+Observed StatsBomb source coverage: 99.1%
+Base eligible players: 331
+Longitudinal >=45-match ranking cohort: 46 players
+Raw stability target: median Spearman >= 0.80 for 3 consecutive n values
+First sustained crossing: none in tested range
+Stable under declared operational rule: False
+
+Median 95% bootstrap rank-interval width: 18.00
+Median supported rank-band width: 16.00
+Supported pair fraction at 90%: 62.3%
+Players reordered by RAR: 11 (23.9%)
+Median absolute RAR shift: 0.00 ranks
+Maximum absolute RAR shift: 4 ranks
+
+Independent RAR reproducibility validation:
+Fixed validation players: 46
+Pooled median Spearman gain (RAR - raw): 0.0153
+Pooled mean Spearman gain (RAR - raw): 0.0182
+Replicates RAR better/equal/worse: 0.748 / 0.001 / 0.251
+
+Interpretation:
+Call this the stable-league arm only if the pre-RAR raw-VAEP curve reaches the declared sustained 0.80 criterion. If it does not, report it as another league-level instability result rather than changing the threshold after seeing the data. RAR should be described as beneficial only if independent A/B reproducibility shows a consistent positive gain.

@@ -1,0 +1,2 @@
+dataset,eligible_players,bootstrap_draws,median_95pct_rank_interval_width,median_supported_rank_band_width,supported_pair_fraction_90pct,players_reordered_by_RAR,fraction_players_reordered_by_RAR,median_absolute_RAR_shift,max_absolute_RAR_shift,BT_fit_success,BT_pairwise_mae,BT_pairwise_rmse
+Premier League 2015/16,423,3500,201.0,242.0,0.4481530032603946,399,0.9432624113475178,7.0,76,True,0.05026786883397276,0.07057255379010431

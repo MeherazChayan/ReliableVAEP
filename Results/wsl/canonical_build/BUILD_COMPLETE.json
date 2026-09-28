@@ -1,0 +1,20 @@
+{
+  "competition_id": 37,
+  "season_ids": [
+    4,
+    42,
+    90
+  ],
+  "season_names": [
+    "2018/2019",
+    "2019/2020",
+    "2020/2021"
+  ],
+  "official_played_matches": 328,
+  "statsbomb_matches": 325,
+  "source_coverage_fraction": 0.9908536585365854,
+  "base_eligible_players": 331,
+  "base_eligible_goalkeepers": 29,
+  "median_successful_goal_vaep": 0.83696998011948,
+  "positive_goal_fraction": 0.9676409185803758
+}

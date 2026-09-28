@@ -1,0 +1,7 @@
+ballon_name,expected_team,published_rank,points,status,candidate_count,match_method,matched_player_name,same_team_candidate_names
+Cristiano Ronaldo,Real Madrid,1,745,MATCHED,1,alias_tokens,Cristiano Ronaldo dos Santos Aveiro,
+Gareth Bale,Real Madrid,6,60,MATCHED,1,alias_tokens,Gareth Frank Bale,
+Pepe,Real Madrid,9,8,MATCHED,1,alias_tokens,Kléper Laveran Lima Ferreira,
+Luka Modrić,Real Madrid,17,1,MATCHED,1,alias_tokens,Luka Modrić,
+Toni Kroos,Real Madrid,17,1,MATCHED,1,alias_tokens,Toni Kroos,
+Sergio Ramos,Real Madrid,20,0,MATCHED,1,alias_tokens,Sergio Ramos García,

@@ -1,0 +1,7 @@
+player_id,player_name,is_goalkeeper,matches,minutes,actions,VAEP90,VAEP_rank,bootstrap_median_rank,bootstrap_rank_low_2.5pct,bootstrap_rank_high_97.5pct,bootstrap_rank_interval_width,supported_rank_low,supported_rank_high,supported_rank_width,pairwise_resolution_rate,PCS,RAR,RAR_minus_VAEP_rank,absolute_rank_shift,ballon_name,ballon_published_rank,ballon_points,ballon_restricted_rank,team_name,raw_VAEP_rank_base_league,VAEP_abs_error_vs_ballondor,RAR_abs_error_vs_ballondor
+6399,Gareth Frank Bale,False,23,1784.0,1820,0.8629783544099006,1,1.0,1.0,1.0,0.0,1,1,0,1.0,4.7109763072153825,1,0,0,Gareth Bale,6,60,2.0,Real Madrid,1,1.0,1.0
+5463,Luka Modrić,False,32,2689.0,4598,0.3322780306632238,2,3.0,2.0,4.0,2.0,2,4,2,0.6,0.4664465372881264,2,0,0,Luka Modrić,17,1,4.5,Real Madrid,22,2.5,2.5
+5574,Toni Kroos,False,32,2827.0,4840,0.32367714145318893,3,3.0,2.0,4.0,2.0,2,4,2,0.6,0.38228533336712395,3,0,0,Toni Kroos,17,1,4.5,Real Madrid,23,1.5,1.5
+5207,Cristiano Ronaldo dos Santos Aveiro,False,36,3295.0,2755,0.23850684913036213,4,4.0,2.0,6.0,4.0,2,6,4,0.2,-0.867034867645937,4,0,0,Cristiano Ronaldo,1,745,1.0,Real Madrid,52,3.0,3.0
+5201,Sergio Ramos García,False,23,2002.0,2565,0.14719862314778717,5,5.0,4.0,6.0,2.0,4,6,2,0.6,-2.1771049047130857,5,0,0,Sergio Ramos,20,0,6.0,Real Madrid,133,1.0,1.0
+20016,Kléper Laveran Lima Ferreira,False,21,1951.0,2302,0.12910312211484737,6,5.0,4.0,6.0,2.0,4,6,2,0.6,-2.5155684055116105,6,0,0,Pepe,9,8,3.0,Real Madrid,164,3.0,3.0

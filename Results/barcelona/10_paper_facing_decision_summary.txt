@@ -1,0 +1,29 @@
+ReliableVAEP PCS/RAR standalone validation
+=================================================================
+
+PCS/RAR is supported as a reliability-adjusted static ranking only if it is more reproducible than raw VAEP across independent non-overlapping match samples, especially in both outfield cohorts.
+
+Primary 2015/16–2019/20 — outfield only
+  n-points with higher median RAR reproducibility: 1/14
+  pooled median Spearman gain (RAR - raw): 0.0000
+  replicate fraction RAR better/equal/worse: 0.214 / 0.474 / 0.312
+
+Primary 2015/16–2019/20 — all players
+  n-points with higher median RAR reproducibility: 3/14
+  pooled median Spearman gain (RAR - raw): 0.0000
+  replicate fraction RAR better/equal/worse: 0.246 / 0.384 / 0.370
+
+Validation 2008/09–2012/13 — outfield only
+  n-points with higher median RAR reproducibility: 3/8
+  pooled median Spearman gain (RAR - raw): 0.0000
+  replicate fraction RAR better/equal/worse: 0.317 / 0.411 / 0.272
+
+Validation 2008/09–2012/13 — all players
+  n-points with higher median RAR reproducibility: 7/8
+  pooled median Spearman gain (RAR - raw): 0.0000
+  replicate fraction RAR better/equal/worse: 0.407 / 0.374 / 0.219
+
+Interpretation:
+- If RAR is consistently better in primary and validation outfield cohorts, describe it as a reliability-adjusted consensus ranking.
+- If improvement is inconsistent or absent, do NOT call RAR a correction or a more accurate ranking. Keep it as a descriptive consensus summary.
+- Original VAEP/90 and supported rank bands remain visible in all cases.
